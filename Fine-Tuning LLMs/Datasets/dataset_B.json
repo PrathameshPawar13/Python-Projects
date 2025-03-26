@@ -1,0 +1,1883 @@
+{"german":"Guten Morgen!","french":"Bonjour !"}
+{"german":"Wie geht es Ihnen?","french":"Comment allez-vous ?"}
+{"german":"Ich bin m\u00fcde.","french":"Je suis fatigu\u00e9."}
+{"german":"Ich mag Kaffee.","french":"J'aime le caf\u00e9."}
+{"german":"Wo ist das Restaurant?","french":"O\u00f9 se trouve le restaurant ?"}
+{"german":"Ich habe Hunger.","french":"J'ai faim."}
+{"german":"Wie sp\u00e4t ist es?","french":"Quelle heure est-il ?"}
+{"german":"Ich fahre morgen nach Paris.","french":"Je pars \u00e0 Paris demain."}
+{"german":"Ich werde heute arbeiten.","french":"Je vais travailler aujourd'hui."}
+{"german":"Was kostet das?","french":"Combien \u00e7a co\u00fbte ?"}
+{"german":"Ich liebe dich.","french":"Je t'aime."}
+{"german":"Das ist interessant.","french":"C'est int\u00e9ressant."}
+{"german":"Wie lange dauert der Weg?","french":"Combien de temps dure le trajet ?"}
+{"german":"Ich brauche Hilfe.","french":"J'ai besoin d'aide."}
+{"german":"Ich habe keine Zeit.","french":"Je n'ai pas de temps."}
+{"german":"Er ist sehr intelligent.","french":"Il est tr\u00e8s intelligent."}
+{"german":"Ich muss anrufen.","french":"Je dois appeler."}
+{"german":"Das ist eine gute Idee.","french":"C'est une bonne id\u00e9e."}
+{"german":"Ich habe zu Hause eine Katze.","french":"J'ai un chat \u00e0 la maison."}
+{"german":"Was soll ich heute anziehen?","french":"Qu'est-ce que je dois porter aujourd'hui ?"}
+{"german":"Ich mache mein Bestes.","french":"Je fais de mon mieux."}
+{"german":"Ich freue mich darauf.","french":"J'en ai h\u00e2te."}
+{"german":"Es ist schon sp\u00e4t.","french":"Il est d\u00e9j\u00e0 tard."}
+{"german":"Ich habe keine Ahnung.","french":"Je n'en ai aucune id\u00e9e."}
+{"german":"Er ist ein guter Chef.","french":"Il est un bon chef."}
+{"german":"Ich habe keine Lust.","french":"Je n'ai pas envie."}
+{"german":"Das ist eine tolle Party.","french":"C'est une super f\u00eate."}
+{"german":"Ich bin in einem Hotel.","french":"Je suis dans un h\u00f4tel."}
+{"german":"Ich muss hierbleiben.","french":"Je dois rester ici."}
+{"german":"Ich bin verliebt.","french":"Je suis amoureux."}
+{"german":"Es ist sehr hei\u00df.","french":"Il fait tr\u00e8s chaud."}
+{"german":"Ich brauche ein Taxi.","french":"J'ai besoin d'un taxi."}
+{"german":"Ich esse gerne Pizza.","french":"J'aime la pizza."}
+{"german":"Das ist meine Lieblingsfarbe.","french":"C'est ma couleur pr\u00e9f\u00e9r\u00e9e."}
+{"german":"Ich muss arbeiten bis zw\u00f6lf.","french":"Je dois travailler jusqu'\u00e0 douze heures."}
+{"german":"Er ist mein Kollege.","french":"Il est mon coll\u00e8gue."}
+{"german":"Ich verstehe nicht.","french":"Je ne comprends pas."}
+{"german":"Das ist ein sch\u00f6ner Tag.","french":"C'est une belle journ\u00e9e."}
+{"german":"Ich habe einen Termin.","french":"J'ai un rendez-vous."}
+{"german":"Ich muss anziehen.","french":"Je dois m'habiller."}
+{"german":"Ich will nach Deutschland reisen.","french":"Je veux voyager en Allemagne."}
+{"german":"Es ist schon dunkel.","french":"Il fait d\u00e9j\u00e0 sombre."}
+{"german":"Ich habe keine Angst.","french":"Je n'ai pas peur."}
+{"german":"Ich bin froh.","french":"Je suis heureux."}
+{"german":"Das ist mein Haus.","french":"C'est ma maison."}
+{"german":"Ich mag den Regen.","french":"J'aime la pluie."}
+{"german":"Ich bin ein Entwickler.","french":"Je suis d\u00e9veloppeur."}
+{"german":"Es ist eine sch\u00f6ne Stadt.","french":"C'est une belle ville."}
+{"german":"Ich bin ein gro\u00dfer Fan.","french":"Je suis un grand fan."}
+{"german":"Ich muss meine Arbeit machen.","french":"Je dois faire mon travail."}
+{"german":"Das ist eine gute Nachricht.","french":"C'est une bonne nouvelle."}
+{"german":"Ich liebe Reisen.","french":"J'aime voyager."}
+{"german":"Es ist kalt drau\u00dfen.","french":"Il fait froid dehors."}
+{"german":"Ich habe mein Auto repariert.","french":"J'ai fait r\u00e9parer ma voiture."}
+{"german":"Das ist mein Chef.","french":"C'est mon patron."}
+{"german":"Ich bin nicht zufrieden.","french":"Je ne suis pas satisfait."}
+{"german":"Ich habe einen Termin morgen.","french":"J'ai un rendez-vous demain."}
+{"german":"Das ist eine schwierige Aufgabe.","french":"C'est une t\u00e2che difficile."}
+{"german":"Ich m\u00f6chte sprechen.","french":"Je veux parler."}
+{"german":"Ich bin ein Lehrer.","french":"Je suis professeur."}
+{"german":"Es ist eine sch\u00f6ne Zeit.","french":"C'est une belle saison."}
+{"german":"Das ist eine lange Reise.","french":"C'est un long voyage."}
+{"german":"Ich muss arbeiten.","french":"Je dois travailler."}
+{"german":"Ich liebe Musik.","french":"J'aime la musique."}
+{"german":"Das ist mein Sohn.","french":"C'est mon fils."}
+{"german":"Ich habe ein Buch.","french":"J'ai un livre."}
+{"german":"Ich bin nicht m\u00fcde.","french":"Je ne suis pas fatigu\u00e9."}
+{"german":"Das ist mein Auto.","french":"C'est ma voiture."}
+{"german":"Ich habe eine Katze.","french":"J'ai un chat."}
+{"german":"Das ist mein Arbeitsplatz.","french":"C'est mon bureau."}
+{"german":"Ich mag Eis.","french":"J'aime la glace."}
+{"german":"Es ist ein sch\u00f6ner Tag.","french":"C'est une belle journ\u00e9e."}
+{"german":"Das ist eine sch\u00f6ne Stadt.","french":"C'est une belle ville."}
+{"german":"Es ist eine schwierige Aufgabe.","french":"C'est une t\u00e2che difficile."}
+{"german":"Ich bin ein Experte im Bereich Technologie.","french":"Je suis expert en mati\u00e8re de technologie."}
+{"german":"Es ist sp\u00e4t, ich muss gehen.","french":"Il est tard, je dois partir."}
+{"german":"Das Restaurant ist sehr gut.","french":"Le restaurant est tr\u00e8s bon."}
+{"german":"K\u00f6nnen Sie mir helfen?","french":"Pouvez-vous m'aider ?"}
+{"german":"Ich arbeite in einer Bank.","french":"Je travaille dans une banque."}
+{"german":"Das Wetter heute ist sch\u00f6n.","french":"Le temps est beau aujourd'hui."}
+{"german":"Ich esse gerne Pizza.","french":"J'aime manger de la pizza."}
+{"german":"Wie viel kostet das?","french":"Combien \u00e7a co\u00fbte ?"}
+{"german":"Wir fahren morgen ins B\u00fcro.","french":"Nous allons au bureau demain."}
+{"german":"Das Flugzeug ist p\u00fcnktlich.","french":"L'avion est en heure."}
+{"german":"Ich mag Musik h\u00f6ren, aber ich kann nicht singen.","french":"J'aime \u00e9couter de la musique, mais je ne chante pas."}
+{"german":"Ich habe einen Termin um 10 Uhr.","french":"J'ai rendez-vous \u00e0 10 heures."}
+{"german":"Wo ist die Bibliothek?","french":"O\u00f9 se trouve la biblioth\u00e8que ?"}
+{"german":"Ich lese gerne B\u00fccher.","french":"J'aime lire des livres."}
+{"german":"Es ist ein sch\u00f6ner Tag f\u00fcr ein Spaziergang.","french":"C'est une belle journ\u00e9e pour une promenade."}
+{"german":"Ich habe ein neues Auto.","french":"J'ai une nouvelle voiture."}
+{"german":"Wie lange dauert der Weg?","french":"Combien de temps faut-il pour y aller ?"}
+{"german":"Ich liebe es, Kaffee zu trinken.","french":"J'adore boire du caf\u00e9."}
+{"german":"Wir feiern unser Hochzeitstage.","french":"Nous c\u00e9l\u00e9brons notre anniversaire de mariage."}
+{"german":"Der Konferenzraum ist nicht verf\u00fcgbar.","french":"La salle de r\u00e9union n'est pas disponible."}
+{"german":"Ich arbeite gerne an der Nacht.","french":"J'aime travailler le soir."}
+{"german":"Das Essen ist k\u00f6stlich.","french":"Le repas est d\u00e9licieux."}
+{"german":"Ich plane, mich in Paris aufzuhalten.","french":"J'ai l'intention de s\u00e9journer \u00e0 Paris."}
+{"german":"Ich habe keine Ahnung.","french":"Je n'ai aucune id\u00e9e."}
+{"german":"Sie ist eine gute Lehrerin.","french":"Elle est une bonne professeure."}
+{"german":"Ich komme morgen um 9 Uhr.","french":"Je viendrai demain \u00e0 9 heures."}
+{"german":"Wir m\u00fcssen uns treffen.","french":"Nous devons nous rencontrer."}
+{"german":"Der Film ist langweilig.","french":"Le film est ennuyeux."}
+{"german":"Ich habe viel zu tun.","french":"J'ai beaucoup \u00e0 faire."}
+{"german":"Der Zug ist versp\u00e4tet.","french":"Le train est en retard."}
+{"german":"Ich liebe es, im Park zu spazieren.","french":"J'aime faire de longues promenades dans le parc."}
+{"german":"Er ist geplant, um 3 Uhr anzurufen.","french":"Il pr\u00e9voit de l'appeler \u00e0 3 heures."}
+{"german":"Ich habe keine Zeit.","french":"Je n'ai pas le temps."}
+{"german":"Sie hat ein neues Haarfarbe.","french":"Elle a chang\u00e9 de couleur de cheveux."}
+{"german":"Er ist ein guter Koch.","french":"Il est un bon cuisinier."}
+{"german":"Der Tag ist sehr kalt.","french":"Le jour est tr\u00e8s froid."}
+{"german":"Sie ist eine kluge Frau.","french":"Elle est une femme intelligente."}
+{"german":"Das Projekt ist abgeschlossen.","french":"Le projet est termin\u00e9."}
+{"german":"Ich liebe es, zu reisen.","french":"J'aime voyager."}
+{"german":"Der Himmel ist blau.","french":"Le ciel est bleu."}
+{"german":"Sie hat ein sch\u00f6nes Auto.","french":"Elle a une belle voiture."}
+{"german":"Ich liebe es, gutes Essen zu genie\u00dfen.","french":"J'adore d\u00e9guster de bons plats."}
+{"german":"Wir m\u00fcssen fr\u00fch aufstehen.","french":"Nous devons nous lever t\u00f4t."}
+{"german":"Er ist ein guter Freund.","french":"Il est un bon ami."}
+{"german":"Ich habe einen Termin um 15 Uhr.","french":"J'ai rendez-vous \u00e0 15 heures."}
+{"german":"Das ist mein Lieblingsbuch.","french":"C'est mon livre pr\u00e9f\u00e9r\u00e9."}
+{"german":"Ich liebe es, den Park zu betreten.","french":"J'aime entrer dans le parc."}
+{"german":"Sie ist sehr h\u00fcbsch.","french":"Elle est tr\u00e8s jolie."}
+{"german":"Ich arbeite in der IT.","french":"Je travaille dans le secteur de l'IT."}
+{"german":"Der Tag ist sehr hei\u00df.","french":"Le jour est tr\u00e8s chaud."}
+{"german":"Er hat einen gro\u00dfen Haus.","french":"Il a une grande maison."}
+{"german":"Ich liebe es, mit Freunden zu tanzen.","french":"J'aime danser avec mes amis."}
+{"german":"Was magst du essen?","french":"Qu'est-ce que tu aimes manger ?"}
+{"german":"Er ist ein guter Ehemann.","french":"Il est un bon mari."}
+{"german":"Ich liebe es, im Meer zu schwimmen.","french":"J'aime nager dans la mer."}
+{"german":"Der Himmel ist wolkenlos.","french":"Le ciel est d\u00e9gag\u00e9."}
+{"german":"Ich bin ein Softwareentwickler.","french":"Je suis d\u00e9veloppeur de logiciels."}
+{"german":"Ich liebe es, auf dem Sofa zu sitzen.","french":"J'aime me reposer sur le canap\u00e9."}
+{"german":"Sie ist eine hervorragende Kochin.","french":"Elle est une cuisini\u00e8re extraordinaire."}
+{"german":"Ich liebe es, mein Auto zu fahren.","french":"J'aime conduire ma voiture."}
+{"german":"Der Tag ist sehr windig.","french":"Le jour est tr\u00e8s venteux."}
+{"german":"Ich habe einen Termin um 12 Uhr.","french":"J'ai rendez-vous \u00e0 12 heures."}
+{"german":"Er ist ein guter Vater.","french":"Il est un bon p\u00e8re."}
+{"german":"Ich liebe es, im Park zu joggen.","french":"J'aime faire du jogging dans le parc."}
+{"german":"Ich liebe es, im Garten zu arbeiten.","french":"J'aime travailler dans le jardin."}
+{"german":"Er ist ein guter Teammitglied.","french":"Il est un bon membre de l'\u00e9quipe."}
+{"german":"Ich liebe es, auf der Terrasse zu sitzen.","french":"J'aime m'asseoir sur la terrasse."}
+{"german":"Der Film ist sehr gut.","french":"Le film est tr\u00e8s bon."}
+{"german":"Ich habe einen Termin um 18 Uhr.","french":"J'ai rendez-vous \u00e0 18 heures."}
+{"german":"Er ist ein guter Chef.","french":"Il est un bon patron."}
+{"german":"Ich liebe es, im Wasser zu schwimmen.","french":"J'aime nager dans l'eau."}
+{"german":"Sie ist eine sch\u00f6ne Frau.","french":"Elle est une belle femme."}
+{"german":"Ich liebe es, auf der Terrasse zu essen.","french":"J'aime manger sur la terrasse."}
+{"german":"Der Tag ist sehr sonnig.","french":"Le jour est tr\u00e8s ensoleill\u00e9."}
+{"german":"Ich habe einen Termin um 14 Uhr.","french":"J'ai rendez-vous \u00e0 14 heures."}
+{"german":"Er ist ein guter Mentor.","french":"Il est un bon mentor."}
+{"german":"Ich liebe es, im Park zu spazieren.","french":"J'aime faire une promenade dans le parc."}
+{"german":"Wie viel Uhr ist es?","french":"Quelle heure est-il ?"}
+{"german":"Ich liebe es, im Garten zu liegen.","french":"J'aime me reposer dans le jardin."}
+{"german":"Er ist ein guter Kollege.","french":"Il est un bon coll\u00e8gue."}
+{"german":"Ich liebe es, auf dem Sofa zu lesen.","french":"J'aime lire sur le canap\u00e9."}
+{"german":"Der Film ist sehr interessant.","french":"Le film est tr\u00e8s int\u00e9ressant."}
+{"german":"Ich habe einen Termin um 16 Uhr.","french":"J'ai rendez-vous \u00e0 16 heures."}
+{"german":"Er ist ein guter Bruder.","french":"Il est un bon fr\u00e8re."}
+{"german":"Ich liebe es, im Meer zu surfen.","french":"J'aime surfer dans la mer."}
+{"german":"Ich liebe es, auf der Terrasse zu arbeiten.","french":"J'aime travailler sur la terrasse."}
+{"german":"Der Tag ist sehr klar.","french":"Le jour est tr\u00e8s lumineux."}
+{"german":"Guten Morgen!","french":"Bonjour!"}
+{"german":"Wie geht es Ihnen?","french":"Comment allez-vous?"}
+{"german":"Ich esse gerne Pasta.","french":"J'aime manger de la p\u00e2te."}
+{"german":"Das Wetter ist heute sch\u00f6n.","french":"Le temps est beau aujourd'hui."}
+{"german":"Ich plane Urlaub n\u00e4chste Woche.","french":"Je pr\u00e9vois des vacances la semaine prochaine."}
+{"german":"Was machen Sie besseres?","french":"Que faites-vous de mieux?"}
+{"german":"Ich liebe Kaffee.","french":"J'aime le caf\u00e9."}
+{"german":"Wie sp\u00e4t ist es?","french":"Quelle heure est-il?"}
+{"german":"Es freut mich, Sie kennenzulernen.","french":"Je suis ravi de vous rencontrer."}
+{"german":"Ich arbeite als Ingenieur.","french":"Je travaille en tant qu'ing\u00e9nieur."}
+{"german":"Kann ich Ihnen helfen?","french":"Puis-je vous aider?"}
+{"german":"Das Restaurant ist gut.","french":"Le restaurant est bon."}
+{"german":"Ich komme morgen.","french":"Je viendrai demain."}
+{"german":"Ich mag Musik.","french":"J'aime la musique."}
+{"german":"Wir treffen uns um sieben.","french":"Nous nous retrouvons \u00e0 sept heures."}
+{"german":"Ich komme aus Deutschland.","french":"Je viens d'Allemagne."}
+{"german":"Der Flug ist versp\u00e4tet.","french":"Le vol est en retard."}
+{"german":"Ich liebe Paris.","french":"J'aime Paris."}
+{"german":"Das Buch ist interessant.","french":"Le livre est int\u00e9ressant."}
+{"german":"Sie sind mein Boss.","french":"Vous \u00eates mon patron."}
+{"german":"Das Projekt ist erfolgreich.","french":"Le projet est r\u00e9ussi."}
+{"german":"Er hat ein Auto.","french":"Il a une voiture."}
+{"german":"Ich fahre oft ins Kino.","french":"Je vais souvent au cin\u00e9ma."}
+{"german":"Wie geht es Ihrem Kind?","french":"Comment va votre enfant?"}
+{"german":"Das Essen ist lecker.","french":"Le repas est d\u00e9licieux."}
+{"german":"Ich mag Sport.","french":"J'aime le sport."}
+{"german":"Der Film war gut.","french":"Le film \u00e9tait bon."}
+{"german":"Ich gehe zum Arzt.","french":"Je vais chez le m\u00e9decin."}
+{"german":"Wir sind Freunde.","french":"Nous sommes amis."}
+{"german":"Das ist eine tolle Idee.","french":"C'est une excellente id\u00e9e."}
+{"german":"Der Tag ist lang.","french":"La journ\u00e9e est longue."}
+{"german":"Ich mag Kino.","french":"J'aime le cin\u00e9ma."}
+{"german":"Er ist heiratet.","french":"Il est mari\u00e9."}
+{"german":"Sie ist sch\u00f6n.","french":"Elle est belle."}
+{"german":"Wir gehen spazieren.","french":"Nous promenons-nous."}
+{"german":"Er spielt Fu\u00dfball.","french":"Il joue au football."}
+{"german":"Ich esse gerne Suppe.","french":"J'aime manger de la soupe."}
+{"german":"Das ist ein interessantes Buch.","french":"C'est un livre int\u00e9ressant."}
+{"german":"Ich habe keine Hoffnung.","french":"Je n'ai aucune espoir."}
+{"german":"Er ist ein guter Lehrer.","french":"Il est un bon professeur."}
+{"german":"Ich liebe meine Familie.","french":"J'aime ma famille."}
+{"german":"Ich bin frustriert.","french":"Je suis frustr\u00e9."}
+{"german":"Das ist ein teurer Computer.","french":"C'est un ordinateur cher."}
+{"german":"Er kann sprechen.","french":"Il sait parler."}
+{"german":"Ich mag leise Musik.","french":"J'aime la musique douce."}
+{"german":"Der Tag ist kalt.","french":"La journ\u00e9e est froide."}
+{"german":"Ich habe keine Geld.","french":"Je n'ai pas d'argent."}
+{"german":"Er ist ein guter Arzt.","french":"Il est un bon m\u00e9decin."}
+{"german":"Ich liebe das Kochen.","french":"J'aime cuisiner."}
+{"german":"Sie ist eine gute Kocherin.","french":"Elle est une bonne cuisini\u00e8re."}
+{"german":"Der Tag ist sonnig.","french":"La journ\u00e9e est ensoleill\u00e9e."}
+{"german":"Er ist ein guter Berater.","french":"Il est un bon conseiller."}
+{"german":"Der Film war schlecht.","french":"Le film \u00e9tait mauvais."}
+{"german":"Ich liebe es, zu singen.","french":"J'aime chanter."}
+{"german":"Der Tag ist warm.","french":"La journ\u00e9e est chaude."}
+{"german":"Er spielt Gitarre.","french":"Il joue de la guitare."}
+{"german":"Ich liebe es, zu lachen.","french":"J'aime rire."}
+{"german":"Das Wetter ist gut.","french":"Le temps est bon."}
+{"german":"Er ist ein guter Reisender.","french":"Il est un bon voyageur."}
+{"german":"Was kostet das?","french":"Combien \u00e7a co\u00fbte?"}
+{"german":"Der Zug f\u00e4hrt zu sp\u00e4t.","french":"Le train est en retard."}
+{"german":"Ich m\u00f6chte eine Tasse Kaffee.","french":"Je veux une tasse de caf\u00e9."}
+{"german":"Wir treffen uns um 10 Uhr.","french":"Nous nous retrouvons \u00e0 10 heures."}
+{"german":"Wo ist das Restaurant?","french":"O\u00f9 se trouve le restaurant?"}
+{"german":"Ich arbeite in einem B\u00fcro.","french":"Je travaille en bureau."}
+{"german":"Wie fahre ich nach Hause?","french":"Comment vais-je chez moi?"}
+{"german":"Ich habe keine Ahnung.","french":"Je ne sais pas."}
+{"german":"Es regnet heute.","french":"Il pleut aujourd'hui."}
+{"german":"Ich esse gerne Pizza.","french":"J'aime bien la pizza."}
+{"german":"Guten Abend!","french":"Bonsoir!"}
+{"german":"Ich spreche Deutsch.","french":"Je parle allemand."}
+{"german":"Lass uns spielen gehen.","french":"Allons jouer."}
+{"german":"Wie hei\u00dft du?","french":"Comment tu t'appelles?"}
+{"german":"Ich bin heute zu Hause.","french":"Je suis \u00e0 la maison aujourd'hui."}
+{"german":"Ich m\u00f6chte Urlaub machen.","french":"Je veux prendre des vacances."}
+{"german":"Wann ist der Flug?","french":"\u00c0 quelle heure est le vol?"}
+{"german":"Ich esse gerne Salade.","french":"J'aime bien la salade."}
+{"german":"Das ist mein Bruder.","french":"C'est mon fr\u00e8re."}
+{"german":"Ich mag Musik h\u00f6ren.","french":"J'aime \u00e9couter de la musique."}
+{"german":"Sie ist sehr klug.","french":"Elle est tr\u00e8s intelligente."}
+{"german":"Ich bin Engl\u00e4nder.","french":"Je suis anglais."}
+{"german":"Ich arbeite in einem Krankenhaus.","french":"Je travaille dans un h\u00f4pital."}
+{"german":"Er hat einen sch\u00f6nen Tag.","french":"Il a une belle journ\u00e9e."}
+{"german":"Ich fahre mit dem Auto.","french":"Je vais en voiture."}
+{"german":"Das ist ein sch\u00f6nes Bild.","french":"C'est une belle image."}
+{"german":"Ich esse gerne Kartoffeln.","french":"J'aime bien les pommes de terre."}
+{"german":"Sie ist meine Schwester.","french":"C'est ma s\u0153ur."}
+{"german":"Er hat einen guten Job.","french":"Il a un bon emploi."}
+{"german":"Ich mag Tanzen.","french":"J'aime danser."}
+{"german":"Sie ist sehr freundlich.","french":"Elle est tr\u00e8s gentille."}
+{"german":"Ich bin Franzose.","french":"Je suis fran\u00e7ais."}
+{"german":"Ich arbeite in einem Restaurant.","french":"Je travaille dans un restaurant."}
+{"german":"Er hat einen sch\u00f6nen Himmel.","french":"Il a un beau ciel."}
+{"german":"Ich esse gerne Pasta.","french":"J'aime bien la p\u00e2tes."}
+{"german":"Das ist mein Vater.","french":"C'est mon p\u00e8re."}
+{"german":"Ich mag Schwimmen.","french":"J'aime nager."}
+{"german":"Sie ist sehr clever.","french":"Elle est tr\u00e8s astucieuse."}
+{"german":"Ich bin Amerikaner.","french":"Je suis am\u00e9ricain."}
+{"german":"Ich arbeite in einem Bank.","french":"Je travaille dans une banque."}
+{"german":"Ich fahre mit dem Bus.","french":"Je vais en bus."}
+{"german":"Das ist ein sch\u00f6nes Haus.","french":"C'est une belle maison."}
+{"german":"Ich esse gerne Reis.","french":"J'aime bien le riz."}
+{"german":"Das ist mein Onkel.","french":"C'est mon oncle."}
+{"german":"Ich mag Lesen.","french":"J'aime lire."}
+{"german":"Ich bin Italiener.","french":"Je suis italien."}
+{"german":"Ich arbeite in einem Garten.","french":"Je travaille dans un jardin."}
+{"german":"Er hat einen sch\u00f6nen Park.","french":"Il a un beau parc."}
+{"german":"Ich esse gerne Eis.","french":"J'aime bien la glace."}
+{"german":"Das ist meine Tante.","french":"C'est ma tante."}
+{"german":"Ich mag Kochen.","french":"J'aime cuisiner."}
+{"german":"Sie ist sehr lieb.","french":"Elle est tr\u00e8s aimable."}
+{"german":"Ich bin Spanier.","french":"Je suis espagnol."}
+{"german":"Ich arbeite in einem Supermarkt.","french":"Je travaille dans un supermarch\u00e9."}
+{"german":"Er hat einen sch\u00f6nen Garten.","french":"Il a un beau jardin."}
+{"german":"Das ist mein Cousin.","french":"C'est mon cousin."}
+{"german":"Er ist ein guter Schwager.","french":"Il est un bon fr\u00e8re."}
+{"german":"Ich mag Reisen.","french":"J'aime voyager."}
+{"german":"Sie ist sehr nett.","french":"Elle est tr\u00e8s gentille."}
+{"german":"Ich bin Kanadier.","french":"Je suis canadien."}
+{"german":"Ich arbeite in einem Museum.","french":"Je travaille dans un mus\u00e9e."}
+{"german":"Das ist meine Cousine.","french":"C'est ma cousine."}
+{"german":"Er ist eine gute Schwester.","french":"Elle est une bonne s\u0153ur."}
+{"german":"Ich mag Fotografieren.","french":"J'aime photographier."}
+{"german":"Sie ist sehr charmant.","french":"Elle est tr\u00e8s charmante."}
+{"german":"Ich bin Australier.","french":"Je suis australien."}
+{"german":"Ich arbeite in einem Zoo.","french":"Je travaille dans un zoo."}
+{"german":"Er hat einen sch\u00f6nen Zoo.","french":"Il a un beau zoo."}
+{"german":"Ich esse gerne Fr\u00fcchte.","french":"J'aime bien les fruits."}
+{"german":"Ich mag Sport treiben.","french":"J'aime faire du sport."}
+{"german":"Sie ist sehr lebensfroh.","french":"Elle est tr\u00e8s enjou\u00e9e."}
+{"german":"Ich bin Japaner.","french":"Je suis japonais."}
+{"german":"Ich arbeite in einem Technologieunternehmen.","french":"Je travaille dans une entreprise de technologie."}
+{"german":"Er hat eine moderne Technologie.","french":"Il a une technologie moderne."}
+{"german":"Ich esse gerne Getreide.","french":"J'aime bien les c\u00e9r\u00e9ales."}
+{"german":"Das ist mein Kollege.","french":"C'est mon coll\u00e8gue."}
+{"german":"Ich mag Programmieren.","french":"J'aime programmer."}
+{"german":"Sie ist sehr geschickt.","french":"Elle est tr\u00e8s habile."}
+{"german":"Ich bin Chinois.","french":"Je suis chinois."}
+{"german":"Ich arbeite in einem Forschungsinstitut.","french":"Je travaille dans un institut de recherche."}
+{"german":"Wohin gehen Sie heute?","french":"O\u00f9 allez-vous aujourd'hui?"}
+{"german":"Das Essen war lecker.","french":"Le repas \u00e9tait d\u00e9licieux."}
+{"german":"Wie lange dauert es?","french":"Combien de temps cela prendra-t-il?"}
+{"german":"Wie hei\u00dft du?","french":"Comment vous appelez-vous?"}
+{"german":"Ich habe heute viel gearbeitet.","french":"J'ai beaucoup travaill\u00e9 aujourd'hui."}
+{"german":"Wo wohnst du?","french":"O\u00f9 habitez-vous?"}
+{"german":"Wir gehen ins Kino.","french":"Nous allons au cin\u00e9ma."}
+{"german":"Das Wetter ist sch\u00f6n.","french":"Le temps est beau."}
+{"german":"Wie ist der Weg?","french":"Comment s'y rendre?"}
+{"german":"Ich bin froh, Sie kennenzulernen.","french":"Je suis heureux de vous rencontrer."}
+{"german":"Ich kenne ihn nicht.","french":"Je ne le connais pas."}
+{"german":"Ich spreche Englisch.","french":"Je parle anglais."}
+{"german":"Die Konferenz beginnt um 10 Uhr.","french":"La conf\u00e9rence commence \u00e0 10 heures."}
+{"german":"Ich bin heute entspannt.","french":"Je suis d\u00e9tendu aujourd'hui."}
+{"german":"Ich mag Urlaub machen.","french":"J'aime prendre des vacances."}
+{"german":"Sie ist sehr sch\u00f6n.","french":"Elle est tr\u00e8s jolie."}
+{"german":"Ich esse gerne Apfel.","french":"J'aime manger des pommes."}
+{"german":"Er arbeitet hart.","french":"Il travaille dur."}
+{"german":"Die Frau ist ziemlich alt.","french":"La femme est assez \u00e2g\u00e9e."}
+{"german":"Wir trinken zusammen Kaffee.","french":"Nous buvons du caf\u00e9 ensemble."}
+{"german":"Er ist sehr flei\u00dfig.","french":"Il est tr\u00e8s assidu."}
+{"german":"Das Hotel ist sehr teuer.","french":"L'h\u00f4tel est tr\u00e8s cher."}
+{"german":"Ich mag es, spazierenzugehen.","french":"J'aime faire du chemin."}
+{"german":"Die Fahrt dauert eine Stunde.","french":"Le trajet dure une heure."}
+{"german":"Er hat einen guten Geschmack.","french":"Il a un bon go\u00fbt."}
+{"german":"Sie ist sehr klug.","french":"Elle est tr\u00e8s sage."}
+{"german":"Ich lese gerne.","french":"J'aime lire."}
+{"german":"Er ist sehr gro\u00df.","french":"Il est tr\u00e8s grand."}
+{"german":"Ich bin ein Student.","french":"Je suis \u00e9tudiant."}
+{"german":"Sie arbeitet hart.","french":"Elle travaille dur."}
+{"german":"Ich trinke gerne Tee.","french":"J'aime boire du th\u00e9."}
+{"german":"Die Reise ist m\u00fchsam.","french":"Le voyage est ardu."}
+{"german":"Die Sonne scheint.","french":"Le soleil brille."}
+{"german":"Ich habe einen Bruder.","french":"J'ai un fr\u00e8re."}
+{"german":"Sie mag Kochen.","french":"Elle aime cuisiner."}
+{"german":"Ich esse gerne Pasta.","french":"J'aime manger de la p\u00e2tes."}
+{"german":"Er ist ein guter L\u00e4ufer.","french":"Il est un bon coureur."}
+{"german":"Das Kind weint.","french":"L'enfant pleure."}
+{"german":"Ich mag die Natur.","french":"J'aime la nature."}
+{"german":"Die Party beginnt um 8 Uhr.","french":"La f\u00eate commence \u00e0 8 heures."}
+{"german":"Sie mag tanzen.","french":"Elle aime danser."}
+{"german":"Ich bin ein Ingenieur.","french":"Je suis ing\u00e9nieur."}
+{"german":"Er ist sehr schlafrig.","french":"Il est tr\u00e8s paresseux."}
+{"german":"Das Essen ist sehr gut.","french":"Le repas est tr\u00e8s bon."}
+{"german":"Ich mag es, Urlaub zu machen.","french":"J'aime prendre des vacances."}
+{"german":"Er ist sehr schnell.","french":"Il est tr\u00e8s rapide."}
+{"german":"Ich habe einen Hund.","french":"J'ai un chien."}
+{"german":"Die Frau ist sehr sch\u00f6n.","french":"La femme est tr\u00e8s jolie."}
+{"german":"Ich mag es, unterwegs zu sein.","french":"J'aime \u00eatre en d\u00e9placement."}
+{"german":"Ich esse gerne H\u00fchnerbraten.","french":"J'aime manger de la poulet r\u00f4ti."}
+{"german":"Er spielt Guitarre.","french":"Il joue de la guitare."}
+{"german":"Das Essen war unglaublich.","french":"Le repas \u00e9tait incroyable."}
+{"german":"Ich bin heute m\u00fcde.","french":"Je suis fatigu\u00e9 en ce jour."}
+{"german":"Wir fahren morgen ins Kino.","french":"Nous allons au cin\u00e9ma demain."}
+{"german":"Was machen Sie heute?","french":"Que faites-vous aujourd'hui ?"}
+{"german":"Die Konferenz beginnt um 9 Uhr.","french":"La conf\u00e9rence commence \u00e0 9 heures."}
+{"german":"Wo ist der Bahnhof?","french":"O\u00f9 se trouve la gare ?"}
+{"german":"Er arbeitet in einem Bankhaus.","french":"Il travaille dans une banque."}
+{"german":"Der Flug ist um 10 Uhr.","french":"Le vol est \u00e0 10 heures."}
+{"german":"Wie viel kostet das?","french":"Combien cela co\u00fbte-t-il ?"}
+{"german":"Ich muss heute arbeiten.","french":"Je dois travailler aujourd'hui."}
+{"german":"Er ist mein Vater.","french":"Il est mon p\u00e8re."}
+{"german":"Sie hat einen sch\u00f6nen Tag.","french":"Elle a une belle journ\u00e9e."}
+{"german":"Das ist meine Bibliothek.","french":"C'est ma biblioth\u00e8que."}
+{"german":"Sie ist eine gute Kochin.","french":"Elle est une bonne cuisini\u00e8re."}
+{"german":"Wir treffen uns morgen.","french":"Nous nous retrouvons demain."}
+{"german":"Was ist dein Lieblingssport?","french":"Quel est ton sport pr\u00e9f\u00e9r\u00e9 ?"}
+{"german":"Sie liebt B\u00fccher.","french":"Elle aime les livres."}
+{"german":"Es ist kalt heute.","french":"Il fait froid aujourd'hui."}
+{"german":"Sie ist sehr clever.","french":"Elle est tr\u00e8s intelligente."}
+{"german":"Die Party findet n\u00e4chste Woche statt.","french":"La f\u00eate a lieu la semaine prochaine."}
+{"german":"Er hat einen gro\u00dfen Hund.","french":"Il a un grand chien."}
+{"german":"Sie kann gut reiten.","french":"Elle sait bien monter \u00e0 cheval."}
+{"german":"Wir gehen zum Kino.","french":"Nous allons au cin\u00e9ma."}
+{"german":"Er ist ein guter Techniker.","french":"Il est un bon technicien."}
+{"german":"Sie hat einen sch\u00f6nen Garten.","french":"Elle a un beau jardin."}
+{"german":"Er mag Malerei.","french":"Il aime la peinture."}
+{"german":"Sie kann gut singen.","french":"Elle chante bien."}
+{"german":"Er liebt den Regen.","french":"Il aime la pluie."}
+{"german":"Sie mag Tanzen.","french":"Elle aime danser."}
+{"german":"Er ist ein guter Fahrer.","french":"Il est un bon conducteur."}
+{"german":"Ich liebe Eiscreme.","french":"J'aime la cr\u00e8me glac\u00e9e."}
+{"german":"Wir gehen ins Restaurant.","french":"Nous allons au restaurant."}
+{"german":"Das Projekt l\u00e4uft gut.","french":"Le projet se d\u00e9roule bien."}
+{"german":"Wir arbeiten an einem neuen Produkt.","french":"Nous travaillons sur un nouveau produit."}
+{"german":"Die Pr\u00e4sentation war sehr gut.","french":"La pr\u00e9sentation \u00e9tait tr\u00e8s bonne."}
+{"german":"Er ist ein guter Vorgesetzter.","french":"Il est un bon sup\u00e9rieur."}
+{"german":"Das ist ein wichtiger Kundenbesuch.","french":"C'est une visite importante d'un client."}
+{"german":"Wir m\u00fcssen heute abschlie\u00dfen.","french":"Nous devons terminer aujourd'hui."}
+{"german":"Die Verhandlungen sind erfolgreich.","french":"Les n\u00e9gociations sont r\u00e9ussies."}
+{"german":"Er ist ein erfahrener Manager.","french":"Il est un manager exp\u00e9riment\u00e9."}
+{"german":"Das Budget ist begrenzt.","french":"Le budget est limit\u00e9."}
+{"german":"Wir m\u00fcssen priorisieren.","french":"Nous devons prioriser."}
+{"german":"Die Strategie ist gut ausgelegt.","french":"La strat\u00e9gie est bien con\u00e7ue."}
+{"german":"Er ist ein talentierter Entwickler.","french":"Il est un d\u00e9veloppeur talentueux."}
+{"german":"Das Projekt ist auf Zeit.","french":"Le projet est en retard."}
+{"german":"Er ist ein guter Kommunikator.","french":"Il est un bon communicateur."}
+{"german":"Das Teamarbeit ist wichtig.","french":"Le travail d'\u00e9quipe est important."}
+{"german":"Er ist ein guter Teamleiter.","french":"Il est un bon leader d'\u00e9quipe."}
+{"german":"Das ist ein wichtiger Kunde.","french":"C'est un client important."}
+{"german":"Wir m\u00fcssen uns konzentrieren.","french":"Nous devons nous concentrer."}
+{"german":"Die Deadlines sind nah.","french":"Les \u00e9ch\u00e9ances sont proches."}
+{"german":"Das ist eine wichtige Entscheidung.","french":"C'est une d\u00e9cision importante."}
+{"german":"Wir m\u00fcssen uns entscheiden.","french":"Nous devons prendre une d\u00e9cision."}
+{"german":"Er ist ein erfahrenes Fachmann.","french":"Il est un expert exp\u00e9riment\u00e9."}
+{"german":"Das ist ein gro\u00dfes Projekt.","french":"C'est un grand projet."}
+{"german":"Wir m\u00fcssen zusammenarbeiten.","french":"Nous devons travailler ensemble."}
+{"german":"Er ist ein guter Nachfolger.","french":"Il est un bon successeur."}
+{"german":"Das ist ein wichtiger Vertrag.","french":"C'est un contrat important."}
+{"german":"Wir m\u00fcssen uns vorbereiten.","french":"Nous devons nous pr\u00e9parer."}
+{"german":"Was ist dein Name?","french":"Quel est ton nom ?"}
+{"german":"Der Tag ist sch\u00f6n.","french":"Le jour est beau."}
+{"german":"Kann ich bitte etwas trinken?","french":"Puis-je boire quelque chose, s'il vous pla\u00eet ?"}
+{"german":"Ich schreibe eine E-Mail.","french":"Je compose un e-mail."}
+{"german":"Ich bin zu Hause.","french":"Je suis chez moi."}
+{"german":"Der Film ist gut.","french":"Le film est bon."}
+{"german":"Ich gehe ins Kino.","french":"Je vais au cin\u00e9ma."}
+{"german":"Ich bin heute fr\u00f6hlich.","french":"Je suis en forme aujourd'hui."}
+{"german":"Wie lange braucht es?","french":"Combien de temps cela prendra-t-il ?"}
+{"german":"Ich schicke Sie eine Nachricht.","french":"Je vous envoie un message."}
+{"german":"Der Vortrag ist langweilig.","french":"Le discours est ennuyeux."}
+{"german":"Er ist mein bester Freund.","french":"Il est mon meilleur ami."}
+{"german":"Wie geht es ihm?","french":"Comment va-t-il ?"}
+{"german":"Der Termin ist morgen.","french":"Le rendez-vous est demain."}
+{"german":"Ich le hasse.","french":"Je le d\u00e9teste."}
+{"german":"Ich mache Fitness.","french":"Je fais de la fitness."}
+{"german":"Ich esse gesund.","french":"Je mange sainement."}
+{"german":"Das ist mein Job.","french":"C'est mon travail."}
+{"german":"Ich bin Student.","french":"Je suis \u00e9tudiant."}
+{"german":"Das Wetter ist ung\u00fcnstig.","french":"Le temps est d\u00e9favorable."}
+{"german":"Ich gehe ins Krankenhaus.","french":"Je vais \u00e0 l'h\u00f4pital."}
+{"german":"Der Doktor ist freundlich.","french":"Le docteur est amical."}
+{"german":"Das ist sehr wichtig.","french":"C'est tr\u00e8s important."}
+{"german":"Ich le tue nicht.","french":"Je ne le tue pas."}
+{"german":"Ich gehe nach Hause.","french":"Je vais \u00e0 la maison."}
+{"german":"Ich bin froh, dass...","french":"Je suis heureux que..."}
+{"german":"Er ist intelligent.","french":"Il est intelligent."}
+{"german":"Ich liebe dich, Mama.","french":"Je t'aime, Maman."}
+{"german":"Ich liebe dich, Papa.","french":"Je t'aime, Papa."}
+{"german":"Ich bin entschuldigt.","french":"Je suis d\u00e9sol\u00e9(e)."}
+{"german":"Ich bin gl\u00fccklich.","french":"Je suis heureux(e)."}
+{"german":"Ich bin sauer.","french":"Je suis en col\u00e8re."}
+{"german":"Ich bin nicht sicher.","french":"Je ne suis pas s\u00fbr(e)."}
+{"german":"Ich bin \u00fcberrascht.","french":"Je suis surpris(e)."}
+{"german":"Ich bin hungrig.","french":"Je suis affam\u00e9(e)."}
+{"german":"Ich bin durstig.","french":"Je suis soifard(e)."}
+{"german":"Ich bin m\u00fcde.","french":"Je suis fatigu\u00e9(e)."}
+{"german":"Ich bin alt.","french":"Je suis \u00e2g\u00e9(e)."}
+{"german":"Ich bin jung.","french":"Je suis jeune."}
+{"german":"Ich bin gro\u00df.","french":"Je suis grand(e)."}
+{"german":"Ich bin klein.","french":"Je suis petit(e)."}
+{"german":"Ich bin blond.","french":"Je suis blond(e)."}
+{"german":"Ich bin br\u00fcnett.","french":"Je suis brun(e)."}
+{"german":"Ich bin rot.","french":"Je suis roux(se)."}
+{"german":"Ich bin blau.","french":"Je suis bleu(e)."}
+{"german":"Ich bin gr\u00fcn.","french":"Je suis vert(e)."}
+{"german":"Ich bin sch\u00f6n.","french":"Je suis beau(se)."}
+{"german":"Ich bin clever.","french":"Je suis intelligent(e)."}
+{"german":"Ich bin ein Mann.","french":"Je suis un homme."}
+{"german":"Ich bin eine Frau.","french":"Je suis une femme."}
+{"german":"Ich bin ein Kind.","french":"Je suis un enfant."}
+{"german":"Ich bin ein Teenager.","french":"Je suis un ado."}
+{"german":"Ich bin ein Erwachsener.","french":"Je suis un adulte."}
+{"german":"Ich bin ein Student.","french":"Je suis \u00e9tudiant(e)."}
+{"german":"Ich bin ein Arzt.","french":"Je suis m\u00e9decin."}
+{"german":"Ich bin ein Krankenpfleger.","french":"Je suis infirmier(e)."}
+{"german":"Ich bin ein Polizist.","french":"Je suis policier."}
+{"german":"Ich bin ein Journalist.","french":"Je suis journaliste."}
+{"german":"Ich bin ein Chef.","french":"Je suis patron."}
+{"german":"Ich bin ein Koch.","french":"Je suis cuisinier."}
+{"german":"Ich bin ein Fahrer.","french":"Je suis conducteur."}
+{"german":"Ich gehe ins B\u00fcro.","french":"Je vais au bureau."}
+{"german":"Ich arbeite an meinem Computer.","french":"Je travaille sur mon ordinateur."}
+{"german":"Ich habe ein Meeting.","french":"J'ai une r\u00e9union."}
+{"german":"Ich gehe zum Gesch\u00e4ft.","french":"Je vais au magasin."}
+{"german":"Ich kaufe ein Brot.","french":"Je ach\u00e8te un pain."}
+{"german":"Ich esse mein Brot.","french":"Je mange mon pain."}
+{"german":"Ich trinke eine Tasse Kaffee.","french":"Je bois une tasse de caf\u00e9."}
+{"german":"Ich muss die Rechnung bezahlen.","french":"Je dois payer la facture."}
+{"german":"Ich hei\u00dfe Martin.","french":"Je m'appelle Martin."}
+{"german":"Ich gehe morgen ins Kino.","french":"Je vais au cin\u00e9ma demain."}
+{"german":"Ich habe ein Auto.","french":"J'ai une voiture."}
+{"german":"Das Wetter ist sch\u00f6n heute.","french":"Le temps est beau aujourd'hui."}
+{"german":"Kann ich Ihnen helfen?","french":"Puis-je vous aider ?"}
+{"german":"Ich bin um 10 Uhr hier.","french":"Je serai ici \u00e0 10 heures."}
+{"german":"Das Essen schmeckt gro\u00dfartig.","french":"Le plat est d\u00e9licieux."}
+{"german":"Ich fahre oft mit dem Bus.","french":"Je prends souvent le bus."}
+{"german":"Ich lese ein Buch.","french":"Je lis un livre."}
+{"german":"Ich mache Sport.","french":"Je fais du sport."}
+{"german":"Das Projekt ist schwierig.","french":"Le projet est difficile."}
+{"german":"Ich bin in Paris.","french":"Je suis \u00e0 Paris."}
+{"german":"Der Flughafen ist zuerst.","french":"L'a\u00e9roport est en premier."}
+{"german":"Ich schreibe einen Brief.","french":"J'\u00e9cris une lettre."}
+{"german":"Ich esse Brot.","french":"Je mange du pain."}
+{"german":"Ich mag Kino.","french":"J'aime les films."}
+{"german":"Ich habe Angst.","french":"J'ai peur."}
+{"german":"Ich bin gl\u00fccklich.","french":"Je suis heureux."}
+{"german":"Der Tag ist kalt.","french":"Il fait froid."}
+{"german":"Ich gehe ins Restaurant.","french":"Je vais au restaurant."}
+{"german":"Ich mag Kaffee, aber nicht Tee.","french":"J'aime le caf\u00e9, mais pas le th\u00e9."}
+{"german":"Ich bin ein guter Koch.","french":"Je suis un bon cuisinier."}
+{"german":"Das ist mein Buch.","french":"C'est mon livre."}
+{"german":"Der Flug ist um 12 Uhr.","french":"Le vol est \u00e0 12 heures."}
+{"german":"Ich bin ein guter Arbeiter.","french":"Je suis un bon ouvrier."}
+{"german":"Das Essen ist lecker.","french":"Le plat est d\u00e9licieux."}
+{"german":"Ich bin m\u00fcde von der Arbeit.","french":"Je suis fatigu\u00e9 par le travail."}
+{"german":"Ich gehe zu Fu\u00df.","french":"Je vais \u00e0 pied."}
+{"german":"Der Tag ist gut angefangen.","french":"La journ\u00e9e a bien commenc\u00e9."}
+{"german":"Ich esse gerne im Restaurant.","french":"J'aime manger au restaurant."}
+{"german":"Ich bin froh, dass ich hier bin.","french":"Je suis ravi d'\u00eatre ici."}
+{"german":"Der Tag ist sch\u00f6n.","french":"La journ\u00e9e est belle."}
+{"german":"Der Tag ist kalt gewesen.","french":"Il faisait froid."}
+{"german":"Ich gehe ins Bad.","french":"Je vais dans la salle de bains."}
+{"german":"Ich bin ein guter Schwimmer.","french":"Je suis un bon nageur."}
+{"german":"Ich mag B\u00fccher lesen.","french":"J'aime lire des livres."}
+{"german":"Ich bin froh, dass ich heute arbeiten kann.","french":"Je suis ravi de pouvoir travailler aujourd'hui."}
+{"german":"Ich mag Fahrradfahren.","french":"J'aime faire du v\u00e9lo."}
+{"german":"Ich mag Urlaub.","french":"J'aime les vacances."}
+{"german":"Ich bin ein guter Fahrer.","french":"Je suis un bon conducteur."}
+{"german":"Ich mag Musik machen.","french":"J'aime jouer de la musique."}
+{"german":"Ich mag Urlaub auf der Insel.","french":"J'aime les vacances sur l'\u00eele."}
+{"german":"Ich mag Kino schauen.","french":"J'aime regarder des films."}
+{"german":"Der Tag ist sch\u00f6n gewesen.","french":"La journ\u00e9e a \u00e9t\u00e9 belle."}
+{"german":"Ich bin froh, dass der Tag gut war.","french":"Je suis ravi que la journ\u00e9e ait \u00e9t\u00e9 bonne."}
+{"german":"Ich mag Schwimmen im Meer.","french":"J'aime nager dans la mer."}
+{"german":"Ich bin ein guter Reisender.","french":"Je suis un bon voyageur."}
+{"german":"Ich mag Reisen ins Ausland.","french":"J'aime voyager \u00e0 l'\u00e9tranger."}
+{"german":"Ich bin froh, dass ich heute Urlaub habe.","french":"Je suis ravi d'avoir des vacances aujourd'hui."}
+{"german":"Das Meeting beginnt um 10 Uhr.","french":"La r\u00e9union commence \u00e0 10 heures."}
+{"german":"Ich bin ein guter Berater.","french":"Je suis un bon conseiller."}
+{"german":"Ich mag Technologie.","french":"J'aime la technologie."}
+{"german":"Ich bin ein guter Projektmanager.","french":"Je suis un bon gestionnaire de projet."}
+{"german":"Ich mag Technologie studieren.","french":"J'aime \u00e9tudier la technologie."}
+{"german":"Ich bin ein guter Entwickler.","french":"Je suis un bon d\u00e9veloppeur."}
+{"german":"Ich mag Technologie anwenden.","french":"J'aime appliquer la technologie."}
+{"german":"Sie sehen heute sehr gut aus.","french":"Vous avez l'air tr\u00e8s bien aujourd'hui."}
+{"german":"Was m\u00f6chten Sie heute zu essen?","french":"Que voulez-vous manger aujourd'hui ?"}
+{"german":"Das Wetter heute ist sehr sch\u00f6n.","french":"Le temps est tr\u00e8s beau aujourd'hui."}
+{"german":"Ich plane, morgen ins Kino zu gehen.","french":"J'ai l'intention d'aller au cin\u00e9ma demain."}
+{"german":"Wie lange sind Sie schon hier?","french":"Depuis combien de temps \u00eates-vous ici ?"}
+{"german":"Der Zug ist zu sp\u00e4t.","french":"Le train est en retard."}
+{"german":"Ich habe mir neue Schuhe gekauft.","french":"J'ai achet\u00e9 de nouvelles chaussures."}
+{"german":"Ich gehe heute ins Gymnastikstudio.","french":"Je vais \u00e0 l'atelier de fitness aujourd'hui."}
+{"german":"Er ist ein sehr guter Arzt.","french":"Il est un tr\u00e8s bon m\u00e9decin."}
+{"german":"Ich muss bald anrufen.","french":"Je dois bient\u00f4t appeler."}
+{"german":"Die Konferenz beginnt um neun.","french":"La conf\u00e9rence commence \u00e0 neuf heures."}
+{"german":"Ich habe heute ein neues Projekt gestartet.","french":"J'ai commenc\u00e9 un nouveau projet aujourd'hui."}
+{"german":"Der Flughafen liegt etwa neunzig Minuten von hier aus.","french":"L'a\u00e9roport se trouve \u00e0 environ quatre-vingt-dix minutes d'ici."}
+{"german":"Ich habe die E-Mails gecheckt.","french":"J'ai v\u00e9rifi\u00e9 les e-mails."}
+{"german":"Sie haben recht.","french":"Vous avez raison."}
+{"german":"Ich muss meine Tochter abholen.","french":"Je dois r\u00e9cup\u00e9rer ma fille."}
+{"german":"Wir gehen am Wochenende ins Restaurant.","french":"Nous allons au restaurant le week-end."}
+{"german":"Das Essen war leckeres.","french":"Le repas \u00e9tait d\u00e9licieux."}
+{"german":"Ich habe ein Buch \u00fcber Geschichte gelesen.","french":"J'ai lu un livre d'histoire."}
+{"german":"Das Kind spielt mit seinem Spielzeug.","french":"L'enfant joue avec ses jouets."}
+{"german":"Die Reise kostet viel Geld.","french":"Le voyage co\u00fbte cher."}
+{"german":"Ich mag es, den Tag mit einem Spaziergang zu beenden.","french":"J'aime terminer ma journ\u00e9e avec une promenade."}
+{"german":"Die Fotos sind wundersch\u00f6n.","french":"Les photos sont magnifiques."}
+{"german":"Sie sprechen gut Franz\u00f6sisch.","french":"Vous parlez bien le fran\u00e7ais."}
+{"german":"Er ist ein guter Programmierer.","french":"Il est un bon programmeur."}
+{"german":"Die Pr\u00e4sentation wurde gestern abgehalten.","french":"La pr\u00e9sentation a eu lieu hier hier."}
+{"german":"Ich habe ein neues Auto gekauft.","french":"J'ai achet\u00e9 une nouvelle voiture."}
+{"german":"Der Film war langweilig.","french":"Le film \u00e9tait ennuyeux."}
+{"german":"Wir m\u00f6chten nach Italien reisen.","french":"Nous voulons voyager en Italie."}
+{"german":"Das ist mein Lieblingsrestaurant.","french":"C'est mon restaurant pr\u00e9f\u00e9r\u00e9."}
+{"german":"Ich habe mich f\u00fcr einen Kurs angemeldet.","french":"Je me suis inscrit \u00e0 un cours."}
+{"german":"Der Hund bellt.","french":"Le chien aboie."}
+{"german":"Das ist meine Schwester.","french":"C'est ma s\u0153ur."}
+{"german":"Die Konferenz wird in Paris abgehalten.","french":"La conf\u00e9rence se tiendra \u00e0 Paris."}
+{"german":"Ich habe das Buch heute ausgeliehen.","french":"J'ai emprunt\u00e9 le livre aujourd'hui."}
+{"german":"Ich liebe meine Arbeit.","french":"J'aime mon travail."}
+{"german":"Der Kunde war zufrieden.","french":"Le client \u00e9tait satisfait."}
+{"german":"Ich habe das Projekt vorbereitet.","french":"J'ai pr\u00e9par\u00e9 le projet."}
+{"german":"Ich muss mich um mein Auto k\u00fcmmern.","french":"Je dois m'occuper de ma voiture."}
+{"german":"Das ist mein B\u00fcro.","french":"C'est mon bureau."}
+{"german":"Ich habe einen Termin mit meinem Chef.","french":"J'ai un rendez-vous avec mon patron."}
+{"german":"Das Restaurant ist leise.","french":"Le restaurant est calme."}
+{"german":"Das Essen ist gereicht.","french":"Le repas est servi."}
+{"german":"Das ist mein Lieblingssong.","french":"C'est ma chanson pr\u00e9f\u00e9r\u00e9e."}
+{"german":"Er ist ein guter Nachbar.","french":"Il est un bon voisin."}
+{"german":"Ich habe keine Zeit mehr.","french":"Je n'ai plus de temps."}
+{"german":"Die Karte ist nicht g\u00fcltig.","french":"La carte n'est pas valide."}
+{"german":"Ich habe die Rechnung bezahlt.","french":"J'ai pay\u00e9 la facture."}
+{"german":"Der Zug f\u00e4hrt um sieben.","french":"Le train part \u00e0 sept heures."}
+{"german":"Ich habe meine Tochter abgeholt.","french":"Je l'ai r\u00e9cup\u00e9r\u00e9e."}
+{"german":"Das Museum ist interessant.","french":"Le mus\u00e9e est int\u00e9ressant."}
+{"german":"Ich liebe es, malen.","french":"J'aime peindre."}
+{"german":"Ich habe meine Hausaufgaben gemacht.","french":"J'ai fait mes devoirs."}
+{"german":"Ich habe mein Auto gewaschen.","french":"J'ai lav\u00e9 ma voiture."}
+{"german":"Die Show war unterhaltsam.","french":"Le spectacle \u00e9tait amusant."}
+{"german":"Ich habe meinen Pass verloren.","french":"J'ai perdu mon passeport."}
+{"german":"Ich habe mein Handy verloren.","french":"J'ai perdu mon t\u00e9l\u00e9phone."}
+{"german":"Ich habe meine Tasche verloren.","french":"J'ai perdu mon sac."}
+{"german":"Ich mag es, Schwimmen.","french":"J'aime nager."}
+{"german":"Der Film war unterhaltsam.","french":"Le film \u00e9tait amusant."}
+{"german":"Ich liebe es, Tanzen.","french":"J'aime danser."}
+{"german":"Das Konzert war gro\u00dfartig.","french":"Le concert \u00e9tait g\u00e9nial."}
+{"german":"Ich habe meine Z\u00e4hne geputzt.","french":"J'ai nettoy\u00e9 mes dents."}
+{"german":"Ich habe mein Auto repariert.","french":"J'ai r\u00e9par\u00e9 ma voiture."}
+{"german":"Das Restaurant war voll.","french":"Le restaurant \u00e9tait plein."}
+{"german":"Ich habe mein Auto im Parkhaus geparkt.","french":"J'ai gar\u00e9 ma voiture dans le parking."}
+{"german":"Der Film war lang.","french":"Le film \u00e9tait long."}
+{"german":"Wann treffen wir uns?","french":"\u00c0 quelle heure nous rencontrerons-nous ?"}
+{"german":"Ich gehe in den Park spazieren.","french":"Je vais me promener dans le parc."}
+{"german":"Ich mag keine Gurken.","french":"Je n'aime pas les concombres."}
+{"german":"Kann ich ein Bier haben?","french":"Puis-je avoir une bi\u00e8re ?"}
+{"german":"Ich arbeite bei Google.","french":"Je travaille chez Google."}
+{"german":"Der Flughafen ist sehr voll.","french":"L'a\u00e9roport est tr\u00e8s plein."}
+{"german":"Ich plane, morgen nach Paris zu reisen.","french":"Je pr\u00e9vois de voyager \u00e0 Paris demain."}
+{"german":"Das Projekt ist unvollendet.","french":"Le projet n'est pas termin\u00e9."}
+{"german":"Ich habe gestern einen Film gesehen.","french":"J'ai vu un film hier."}
+{"german":"Ich spreche ein wenig Franz\u00f6sisch.","french":"Je parle un peu fran\u00e7ais."}
+{"german":"Ich liebe es, Ski zu fahren.","french":"J'aime skier."}
+{"german":"Die Karte ist verloren gegangen.","french":"La carte est perdue."}
+{"german":"Ich muss meine E-Mails \u00fcberpr\u00fcfen.","french":"Je dois v\u00e9rifier mes e-mails."}
+{"german":"Das Buch ist sehr interessant.","french":"Le livre est tr\u00e8s int\u00e9ressant."}
+{"german":"Ich will nach Hause gehen.","french":"Je veux rentrer chez moi."}
+{"german":"Wir feiern unser Jahrestreffen in Paris.","french":"Nous c\u00e9l\u00e9brons notre r\u00e9union annuelle \u00e0 Paris."}
+{"german":"Ich habe einen Termin um 3 Uhr.","french":"J'ai un rendez-vous \u00e0 15 heures."}
+{"german":"Die Pr\u00e4sentation dauert 30 Minuten.","french":"La pr\u00e9sentation dure 30 minutes."}
+{"german":"Das Kind spielt mit seinem Auto.","french":"L'enfant joue avec sa voiture."}
+{"german":"Die Katze schl\u00e4ft auf dem Sofa.","french":"Le chat dort sur le canap\u00e9."}
+{"german":"Ich brauche eine neue Jacke.","french":"J'ai besoin d'une nouvelle veste."}
+{"german":"Der Computer ist kaputt.","french":"L'ordinateur est en panne."}
+{"german":"Ich muss heute fr\u00fch aufstehen.","french":"Je dois me lever t\u00f4t aujourd'hui."}
+{"german":"Die Frau ist sehr freundlich.","french":"La femme est tr\u00e8s gentille."}
+{"german":"Das Restaurant ist sehr teuer.","french":"Le restaurant est tr\u00e8s cher."}
+{"german":"Ich muss meine Hausaufgaben machen.","french":"Je dois faire mes devoirs."}
+{"german":"Der Vortrag war sehr informativ.","french":"Le discours \u00e9tait tr\u00e8s informatif."}
+{"german":"Ich bin heute zu sp\u00e4t gekommen.","french":"Je suis arriv\u00e9 en retard aujourd'hui."}
+{"german":"Die Sache ist sehr wichtig.","french":"La chose est tr\u00e8s importante."}
+{"german":"Der Bus f\u00e4hrt um 8 Uhr.","french":"Le bus part \u00e0 8 heures."}
+{"german":"Ich muss die Noten zur\u00fcckgeben.","french":"Je dois rendre les notes."}
+{"german":"Das Essen ist bereit.","french":"Le repas est pr\u00eat."}
+{"german":"Ich habe einen Vorschlag.","french":"J'ai une suggestion."}
+{"german":"Der Hase springt im Park.","french":"Le li\u00e8vre saute dans le parc."}
+{"german":"Ich mag keine Tomaten.","french":"Je n'aime pas les tomates."}
+{"german":"Ich arbeite zuhause heute.","french":"Je travaille \u00e0 la maison aujourd'hui."}
+{"german":"Das Auto ist rot.","french":"La voiture est rouge."}
+{"german":"Ich muss meine Briefe schreiben.","french":"Je dois \u00e9crire mes lettres."}
+{"german":"Der Termin f\u00e4llt aus.","french":"Le rendez-vous est annul\u00e9."}
+{"german":"Die Party beginnt um 20 Uhr.","french":"La soir\u00e9e commence \u00e0 20 heures."}
+{"german":"Ich habe einen Termin mit dem Arzt.","french":"J'ai un rendez-vous avec le m\u00e9decin."}
+{"german":"Die Hose ist zu kurz.","french":"Les pantalons sont trop courts."}
+{"german":"Der Tag ist noch nicht zu Ende.","french":"La journ\u00e9e n'est pas finie."}
+{"german":"Ich muss meine Eink\u00e4ufe machen.","french":"Je dois faire mes courses."}
+{"german":"Die T\u00fcr ist offen.","french":"La porte est ouverte."}
+{"german":"Der Tag ist so gut wie aus.","french":"La journ\u00e9e est pratiquement termin\u00e9e."}
+{"german":"Ich mag es, Fu\u00dfball zu spielen.","french":"J'aime jouer au football."}
+{"german":"Der Zug f\u00e4hrt um 9 Uhr.","french":"Le train part \u00e0 9 heures."}
+{"german":"Ich habe keine Ahnung, was ich heute anziehen soll.","french":"Je ne sais pas quoi porter aujourd'hui."}
+{"german":"Ich muss meinen Brother anrufen.","french":"Je dois appeler mon fr\u00e8re."}
+{"german":"Die Konferenz findet morgen statt.","french":"La conf\u00e9rence se tient demain."}
+{"german":"Ich muss mich heute morgens rasieren.","french":"Je dois me raser ce matin."}
+{"german":"Der Tag ist sehr hei\u00df.","french":"La journ\u00e9e est tr\u00e8s chaude."}
+{"german":"Ich muss heute Nachmittag arbeiten.","french":"Je dois travailler cet apr\u00e8s-midi."}
+{"german":"Ich habe heute keine Pl\u00e4ne.","french":"Je n'ai pas de plans pour aujourd'hui."}
+{"german":"Der Schnee f\u00e4llt.","french":"Il neige."}
+{"german":"Ich muss mein Auto reparieren.","french":"Je dois r\u00e9parer ma voiture."}
+{"german":"Das Essen ist schon lange auf dem Tisch.","french":"Le repas est d\u00e9j\u00e0 depuis longtemps sur la table."}
+{"german":"Die Arbeit ist sehr viel.","french":"Le travail est beaucoup."}
+{"german":"Der Tag ist sehr kalt.","french":"La journ\u00e9e est tr\u00e8s froide."}
+{"german":"Ich muss mich heute umziehen.","french":"Je dois me changer aujourd'hui."}
+{"german":"Ich muss heute den Brief schreiben.","french":"Je dois \u00e9crire la lettre aujourd'hui."}
+{"german":"Ich muss mein Auto tanken.","french":"Je dois faire le plein de carburant."}
+{"german":"Ich muss mich heute duschen.","french":"Je dois me doucher aujourd'hui."}
+{"german":"Der Tag ist sehr regnerisch.","french":"Il pleut beaucoup aujourd'hui."}
+{"german":"Ich muss heute meine Hausaufgaben machen.","french":"Je dois faire mes devoirs aujourd'hui."}
+{"german":"Ich muss heute meine Briefe schreiben.","french":"Je dois \u00e9crire mes lettres aujourd'hui."}
+{"german":"Ich bin sehr gl\u00fccklich.","french":"Je suis tr\u00e8s heureux."}
+{"german":"Sie sind p\u00fcnktlich.","french":"Vous \u00eates ponctuel(le)."}
+{"german":"Die Reise war fantastisch.","french":"Le voyage a \u00e9t\u00e9 fantastique."}
+{"german":"Er arbeitet in einem B\u00fcro.","french":"Il travaille dans un bureau."}
+{"german":"Sie ist ein guter Koch.","french":"Elle est une bonne cuisini\u00e8re."}
+{"german":"Das Museum ist sehr gro\u00df.","french":"Le mus\u00e9e est tr\u00e8s grand."}
+{"german":"Wir treffen uns um 15 Uhr.","french":"Nous nous retrouvons \u00e0 15 heures."}
+{"german":"Haben Sie Hunger?","french":"Avez-vous faim ?"}
+{"german":"Er hat eine Katze.","french":"Il a un chat."}
+{"german":"Die Mahnung wird angeh\u00f6rt.","french":"La recommandation est prise en compte."}
+{"german":"Wir fahren mit dem Auto.","french":"Nous allons en voiture."}
+{"german":"Sie machen einen Fehler.","french":"Vous faites une erreur."}
+{"german":"Die Konferenz wurde abgebrochen.","french":"La conf\u00e9rence a \u00e9t\u00e9 annul\u00e9e."}
+{"german":"Er kann schwimmen.","french":"Il sait nager."}
+{"german":"Sie hat keine Ahnung.","french":"Elle n'en a pas la moindre id\u00e9e."}
+{"german":"Der Vortrag war langweilig.","french":"Le discours \u00e9tait ennuyeux."}
+{"german":"Er studiert Medizin.","french":"Il \u00e9tudie les m\u00e9decines."}
+{"german":"Wir feiern Geburtstage.","french":"Nous c\u00e9l\u00e9brons les anniversaires."}
+{"german":"Der Computer ist defekt.","french":"L'ordinateur est d\u00e9fectueux."}
+{"german":"Sie fahren oft ins Ausland.","french":"Vous voyagez souvent \u00e0 l'\u00e9tranger."}
+{"german":"Wir gehen spazieren.","french":"Nous promenons."}
+{"german":"Die Nachricht ist wichtig.","french":"Le message est important."}
+{"german":"Er hat einen Job.","french":"Il a un emploi."}
+{"german":"Ich trinke Milch.","french":"Je bois du lait."}
+{"german":"Die Frau ist sch\u00f6n.","french":"La femme est belle."}
+{"german":"Das Wetter ist regnerisch.","french":"Il pleut."}
+{"german":"Ich bin froh.","french":"Je suis content(e)."}
+{"german":"Er ist ein genialer Ingenieur.","french":"Il est un g\u00e9nial ing\u00e9nieur."}
+{"german":"Das ist ein echter Roman.","french":"C'est un roman authentique."}
+{"german":"Die T\u00fcr ist geschlossen.","french":"La porte est ferm\u00e9e."}
+{"german":"Sie hat einen Bruder.","french":"Elle a un fr\u00e8re."}
+{"german":"Die Party war toll.","french":"La f\u00eate a \u00e9t\u00e9 g\u00e9niale."}
+{"german":"Das Auto ist schnell.","french":"La voiture est rapide."}
+{"german":"Ich lese gerne.","french":"J'aime bien lire."}
+{"german":"Sie kocht leckere Mahlzeiten.","french":"Elle cuisine de bons repas."}
+{"german":"Das Essen ist fertig.","french":"Le repas est pr\u00eat."}
+{"german":"Ich mag dich.","french":"Je t'aime."}
+{"german":"Die Arbeit ist schwierig.","french":"Le travail est difficile."}
+{"german":"Wir feiern Silvester.","french":"Nous c\u00e9l\u00e9brons la Saint-Sylvestre."}
+{"german":"Das ist ein sch\u00f6ner Sonnenuntergang.","french":"C'est un bel coucher de soleil."}
+{"german":"Wir gehen ins Caf\u00e9.","french":"Nous allons au caf\u00e9."}
+{"german":"Die Arbeit ist wichtig.","french":"Le travail est important."}
+{"german":"Sie hat keine Ahnung.","french":"Elle n'en a aucune id\u00e9e."}
+{"german":"Das Baby schl\u00e4ft.","french":"Le b\u00e9b\u00e9 dort."}
+{"german":"Ich liebe die Natur.","french":"J'aime la nature."}
+{"german":"Die Blumen sind blau.","french":"Les fleurs sont bleues."}
+{"german":"Ich esse gerne Salat.","french":"J'aime bien le salade."}
+{"german":"Sie ist eine nette Frau.","french":"Elle est une femme gentille."}
+{"german":"Das ist ein sch\u00f6ner Sonnenaufgang.","french":"C'est un beau lever de soleil."}
+{"german":"Wir gehen ins Park.","french":"Nous allons au parc."}
+{"german":"Die Blumen sind rot.","french":"Les fleurs sont rouges."}
+{"german":"Das Kind spielt Fu\u00dfball.","french":"L'enfant joue au football."}
+{"german":"Er ist sehr clever.","french":"Il est tr\u00e8s intelligent."}
+{"german":"Ich bin ein Experte in KI.","french":"Je suis expert en IA."}
+{"german":"Ich liebe es, Urlaubsziele zu planen.","french":"J'adore planifier des destinations de vacances."}
+{"german":"Ich freue mich, Sie kennenzulernen.","french":"Je suis ravi de vous rencontrer."}
+{"german":"Ich m\u00f6chte heute Abend zu Hause bleiben.","french":"Je pr\u00e9f\u00e8re rester \u00e0 la maison ce soir."}
+{"german":"Der Vertrag ist unterzeichnet.","french":"Le contrat est sign\u00e9."}
+{"german":"Wir haben heute ein Meeting um 14 Uhr.","french":"Nous avons une r\u00e9union \u00e0 14 heures aujourd'hui."}
+{"german":"Die Pr\u00e4sentation fand sehr gut an.","french":"La pr\u00e9sentation a \u00e9t\u00e9 tr\u00e8s bien re\u00e7ue."}
+{"german":"Der Kunde ist zufrieden mit unserem Produkten.","french":"Le client est satisfait de nos produits."}
+{"german":"Die Einnahmen sind gestiegen.","french":"Les revenus ont augment\u00e9."}
+{"german":"Die Wohnung ist sehr sch\u00f6n.","french":"L'appartement est tr\u00e8s beau."}
+{"german":"Ich habe heute ein neues Auto gekauft.","french":"J'ai achet\u00e9 une nouvelle voiture aujourd'hui."}
+{"german":"Die Reise kostet viel Geld.","french":"Le voyage co\u00fbte beaucoup d'argent."}
+{"german":"Die Konferenz findet in Paris statt.","french":"La conf\u00e9rence se tient \u00e0 Paris."}
+{"german":"Das Projekt ist auf Zeit abgeschlossen.","french":"Le projet a \u00e9t\u00e9 termin\u00e9 dans les d\u00e9lais."}
+{"german":"Ich muss morgen fr\u00fch anreisen.","french":"Je dois partir t\u00f4t demain matin."}
+{"german":"Der Hafen ist sehr besch\u00e4ftigt.","french":"Le port est tr\u00e8s anim\u00e9."}
+{"german":"Die Mappe enth\u00e4lt wichtige Dokumente.","french":"Le classeur contient des documents importants."}
+{"german":"Ich freue mich aufs Wochenende.","french":"Je suis impatient(e) de la fin de semaine."}
+{"german":"Die Saison beginnt am 1. Mai.","french":"La saison commence le 1er mai."}
+{"german":"Ich habe ein neues Projekt angenommen.","french":"J'ai accept\u00e9 un nouveau projet."}
+{"german":"Die Mitarbeiter sind sehr motiviert.","french":"Les employ\u00e9s sont tr\u00e8s motiv\u00e9s."}
+{"german":"Das Museum ist sehr bekannt.","french":"Le mus\u00e9e est tr\u00e8s connu."}
+{"german":"Ich habe einen Termin mit dem Anwalt.","french":"J'ai un rendez-vous avec l'avocat."}
+{"german":"Die Konkurrenz ist stark.","french":"La concurrence est rude."}
+{"german":"Ich habe meine Pr\u00e4sentation fertiggestellt.","french":"J'ai finalis\u00e9 ma pr\u00e9sentation."}
+{"german":"Der Nebel ist sehr dicht.","french":"Le brouillard est tr\u00e8s \u00e9pais."}
+{"german":"Ich habe heute Morgen sehr fr\u00fch aufgewacht.","french":"Je me suis r\u00e9veill\u00e9 tr\u00e8s t\u00f4t ce matin."}
+{"german":"Die Verbindung ist ausgefallen.","french":"La connexion est tomb\u00e9e."}
+{"german":"Der Zug f\u00e4hrt in zehn Minuten.","french":"Le train part dans dix minutes."}
+{"german":"Die Wohnung ist perfekt f\u00fcr uns.","french":"L'appartement est parfait pour nous."}
+{"german":"Ich mag Kaffee am Morgen.","french":"J'aime le caf\u00e9 le matin."}
+{"german":"Die Party war gro\u00dfartig.","french":"La f\u00eate a \u00e9t\u00e9 g\u00e9niale."}
+{"german":"Der Chef will uns heute treffen.","french":"Le patron veut nous rencontrer aujourd'hui."}
+{"german":"Ich habe einen Termin im Krankenhaus.","french":"J'ai un rendez-vous \u00e0 l'h\u00f4pital."}
+{"german":"Der Film ist sehr lange.","french":"Le film est tr\u00e8s long."}
+{"german":"Die Arbeit ist sehr m\u00fchsam.","french":"Le travail est tr\u00e8s ardu."}
+{"german":"Ich habe meine Notizb\u00fccher vergessen.","french":"J'ai oubli\u00e9 mes carnets de notes."}
+{"german":"Ich muss heute Abend sp\u00e4testens um 20 Uhr anreisen.","french":"Je dois partir au plus tard \u00e0 20 heures ce soir."}
+{"german":"Der Fahrplan ist auf der Website.","french":"Le horaire est sur le site web."}
+{"german":"Der Hotelzimmer ist sehr sauber.","french":"La chambre d'h\u00f4tel est tr\u00e8s propre."}
+{"german":"Ich habe einen Termin mit dem Lieferanten.","french":"J'ai un rendez-vous avec le fournisseur."}
+{"german":"Die Temperatur ist sehr hei\u00df.","french":"La temp\u00e9rature est tr\u00e8s \u00e9lev\u00e9e."}
+{"german":"Die Vorbereitung f\u00fcr die Pr\u00e4sentation dauert lange.","french":"La pr\u00e9paration de la pr\u00e9sentation prend beaucoup de temps."}
+{"german":"Der U-Bahn-Haltestelle ist nahe.","french":"La gare d'arr\u00eat d'\u00e9t\u00e9 est proche."}
+{"german":"Das Essen war sehr lecker.","french":"Le repas a \u00e9t\u00e9 tr\u00e8s d\u00e9licieux."}
+{"german":"Der Flughafen ist sehr konstant.","french":"L'a\u00e9roport est tr\u00e8s fr\u00e9quent\u00e9."}
+{"german":"Ich habe heute einen Tag Urlaub.","french":"J'ai pris cong\u00e9 aujourd'hui."}
+{"german":"Das Restaurant bietet eine tolle Auswahl.","french":"Le restaurant offre une excellente s\u00e9lection."}
+{"german":"Ich muss heute Abend fr\u00fch ins Bett gehen.","french":"Je dois me coucher t\u00f4t ce soir."}
+{"german":"Ich habe heute Morgen einen Kaffee getrunken.","french":"Je bois un caf\u00e9 ce matin."}
+{"german":"Die Konferenz ist sehr interessant.","french":"La conf\u00e9rence est tr\u00e8s int\u00e9ressante."}
+{"german":"Ich habe heute einen Termin mit meinem Anwalt.","french":"J'ai un rendez-vous avec mon avocat aujourd'hui."}
+{"german":"Der Weg ist sehr steil.","french":"Le chemin est tr\u00e8s raide."}
+{"german":"Der Bahnhof ist sehr besch\u00e4ftigt.","french":"La gare est tr\u00e8s anim\u00e9e."}
+{"german":"Die Fahrt kostet viel Geld.","french":"Le trajet co\u00fbte beaucoup d'argent."}
+{"german":"Der Zug ist sehr p\u00fcnktlich.","french":"Le train est tr\u00e8s ponctuel."}
+{"german":"Der Hafen ist sehr ruhig.","french":"Le port est tr\u00e8s calme."}
+{"german":"Ich mache gerne Sport.","french":"J'aime faire du sport."}
+{"german":"Ich habe einen Termin um 10 Uhr.","french":"J'ai un rendez-vous \u00e0 10 heures."}
+{"german":"Wir treffen uns in der Kantine.","french":"Nous nous retrouvons en cantine."}
+{"german":"Ich plane Urlaub nach Paris.","french":"Je pr\u00e9vois de partir en vacances \u00e0 Paris."}
+{"german":"Die Reise war sehr sch\u00f6n.","french":"Le voyage a \u00e9t\u00e9 tr\u00e8s beau."}
+{"german":"Kann ich ein Bier, bitte?","french":"Pourrais-je un verre de bi\u00e8re, s'il vous pla\u00eet ?"}
+{"german":"Wie geht's dir heute?","french":"Comment \u00e7a va aujourd'hui ?"}
+{"german":"Ich wohne in Berlin.","french":"Je vis \u00e0 Berlin."}
+{"german":"Das Konferenzzimmer ist gro\u00df.","french":"La salle de conf\u00e9rence est grande."}
+{"german":"Wir m\u00fcssen uns beeilen.","french":"Nous devons nous d\u00e9p\u00eacher."}
+{"german":"Er ist mein besten Freund.","french":"Il est mon meilleur ami."}
+{"german":"Sie hat einen wundersch\u00f6nen Garten.","french":"Elle a un beau jardin."}
+{"german":"Ich mag Film.","french":"J'aime les films."}
+{"german":"Der Flughafen ist voll.","french":"L'a\u00e9roport est plein."}
+{"german":"Es ist kalt.","french":"Il fait froid."}
+{"german":"Ich fahre oft mit dem Zug.","french":"Je vais souvent en train."}
+{"german":"Es ist sch\u00f6n drau\u00dfen.","french":"Il fait beau dehors."}
+{"german":"Ich arbeite in der IT.","french":"Je travaille dans l'informatique."}
+{"german":"Wir haben ein Treffen um 15 Uhr.","french":"Nous avons une r\u00e9union \u00e0 15 heures."}
+{"german":"Er hat ein neues Auto gekauft.","french":"Il a achet\u00e9 une nouvelle voiture."}
+{"german":"Ich kaufe immer in der N\u00e4he.","french":"Je fais toujours mes achats pr\u00e8s de chez moi."}
+{"german":"Die Konferenz war sehr erfolgreich.","french":"La conf\u00e9rence a \u00e9t\u00e9 tr\u00e8s r\u00e9ussie."}
+{"german":"Ich liebe es, zu wandern.","french":"J'aime faire de la randonn\u00e9e."}
+{"german":"Es gibt viele Menschen hier.","french":"Il y a beaucoup de gens ici."}
+{"german":"Ich will heute nach Hause gehen.","french":"Je veux rentrer chez moi aujourd'hui."}
+{"german":"Sie ist sehr sch\u00f6n.","french":"Elle est tr\u00e8s belle."}
+{"german":"Der Tag war lang.","french":"La journ\u00e9e a \u00e9t\u00e9 longue."}
+{"german":"Ich mag es, zu reisen.","french":"J'aime voyager."}
+{"german":"Wir haben ein Projekt zusammen.","french":"Nous avons un projet en commun."}
+{"german":"Er mag es, zu kochen.","french":"Il aime cuisiner."}
+{"german":"Ich liebe den Regen.","french":"J'aime la pluie."}
+{"german":"Ich mag es, zu lesen.","french":"J'aime lire."}
+{"german":"Der Laptop ist sehr schnell.","french":"Le laptop est tr\u00e8s rapide."}
+{"german":"Sie ist eine gute Chefin.","french":"Elle est une excellente patronne."}
+{"german":"Der Konferenzraum ist voll.","french":"La salle de conf\u00e9rence est pleine."}
+{"german":"Ich liebe es, zu tanzen.","french":"J'aime danser."}
+{"german":"Wir haben ein gro\u00dfes Projekt.","french":"Nous avons un grand projet."}
+{"german":"Sie mag es, zu singen.","french":"Elle aime chanter."}
+{"german":"Ich mag es, im Park zu spazieren gehen.","french":"J'aime promener dans le parc."}
+{"german":"Der Tag ist kalt.","french":"Il fait froid aujourd'hui."}
+{"german":"Ich mag es, zu kochen.","french":"J'aime cuisiner."}
+{"german":"Das Hotel ist sehr sch\u00f6n.","french":"L'h\u00f4tel est tr\u00e8s beau."}
+{"german":"Ich bin froh, dass es so gut geht.","french":"Je suis content que tout aille bien."}
+{"german":"Ich mag es, zu singen.","french":"J'aime chanter."}
+{"german":"Ich mag es, zu tanzen.","french":"J'aime danser."}
+{"german":"Was ist f\u00fcr ein sch\u00f6ner Tag!","french":"Quel beau jour !"}
+{"german":"Lass uns ins Kino gehen.","french":"Allons au cin\u00e9ma."}
+{"german":"Wann treffen wir uns?","french":"\u00c0 quelle heure nous retrouvons-nous ?"}
+{"german":"Ich gehe einkaufen.","french":"Je vais faire les courses."}
+{"german":"Ich liebe es zu reisen.","french":"J'aime voyager."}
+{"german":"Ich bin heute entspannt.","french":"Je suis d\u00e9tendu(e) aujourd'hui."}
+{"german":"Kann ich bitte Tee trinken?","french":"Pourrais-je boire du th\u00e9, s'il vous pla\u00eet ?"}
+{"german":"Ich arbeite in einem B\u00fcro.","french":"Je travaille dans un bureau."}
+{"german":"Was machen Sie beruflich?","french":"Quel est votre m\u00e9tier ?"}
+{"german":"Ich habe eine Schwester.","french":"J'ai une s\u0153ur."}
+{"german":"Wann wird es regnen?","french":"Quand va-t-il pleuvoir ?"}
+{"german":"Ich habe einen neuen Job bekommen.","french":"J'ai obtenu un nouveau poste."}
+{"german":"Ich bin froh, dass du gekommen bist.","french":"Je suis content(e) que tu sois venu(e)."}
+{"german":"Es ist ein bisschen schrecklich hier.","french":"C'est un peu effrayant ici."}
+{"german":"Ich mag dich.","french":"Je t'aime bien."}
+{"german":"Ich habe zwei Hunde.","french":"J'ai deux chiens."}
+{"german":"Lass uns tanzen gehen.","french":"Allons danser."}
+{"german":"Ich liebe es zu lesen.","french":"J'aime lire."}
+{"german":"Ich habe ein neues Handy.","french":"J'ai un nouveau t\u00e9l\u00e9phone."}
+{"german":"Ich bin heute aufgeregt.","french":"Je suis nerveux(se) aujourd'hui."}
+{"german":"Ich liebe es, Eis zu essen.","french":"J'aime manger de la glace."}
+{"german":"Ich habe einen Termin um 14 Uhr.","french":"J'ai un rendez-vous \u00e0 14 heures."}
+{"german":"Es ist k\u00fchle Nacht.","french":"C'est une nuit fra\u00eeche."}
+{"german":"Ich esse gerne Pasta.","french":"J'aime bien la p\u00e2te."}
+{"german":"Ich habe einen gro\u00dfen Traum.","french":"J'ai un grand r\u00eave."}
+{"german":"Ich liebe es, zu l\u00e4cheln.","french":"J'aime sourire."}
+{"german":"Ich arbeite hart.","french":"Je travaille dur."}
+{"german":"Ich habe einen neuen Computer.","french":"J'ai un nouvel ordinateur."}
+{"german":"Ich bin heute gl\u00fccklich.","french":"Je suis heureux(se) aujourd'hui."}
+{"german":"Ich liebe es, drau\u00dfen zu sein.","french":"J'aime \u00eatre dehors."}
+{"german":"Ich liebe es, zu kochen.","french":"J'aime cuisiner."}
+{"german":"Ich liebe es, la Musik zu h\u00f6ren.","french":"J'aime \u00e9couter de la musique."}
+{"german":"Ich liebe es, Spass zu haben.","french":"J'aime bien m'amuser."}
+{"german":"Ich liebe es, zu lesen.","french":"J'aime lire."}
+{"german":"Ich habe einen Termin um 18 Uhr.","french":"J'ai un rendez-vous \u00e0 18 heures."}
+{"german":"Ich habe einen neuen Laptop.","french":"J'ai un nouveau portable."}
+{"german":"Ich bin heute froh.","french":"Je suis heureux(se) aujourd'hui."}
+{"german":"Ich werde heute nicht kommen.","french":"Je ne viendrai pas aujourd'hui."}
+{"german":"Ich werde dich bald sehen.","french":"Je te verrai bient\u00f4t."}
+{"german":"Ich werde heute arbeiten.","french":"Je travaillerai aujourd'hui."}
+{"german":"Ich werde dich anrufen.","french":"Je vais te contacter."}
+{"german":"Ich werde heute \u00fcben.","french":"Je vais pratiquer aujourd'hui."}
+{"german":"Ich werde heute lernen.","french":"Je vais \u00e9tudier aujourd'hui."}
+{"german":"Ich werde heute lesen.","french":"Je vais lire aujourd'hui."}
+{"german":"Ich werde heute tanzen.","french":"Je vais danser aujourd'hui."}
+{"german":"Ich werde heute singen.","french":"Je vais chanter aujourd'hui."}
+{"german":"Ich werde heute kochen.","french":"Je vais cuisiner aujourd'hui."}
+{"german":"Ich werde heute spa\u00df haben.","french":"Je vais m'amuser aujourd'hui."}
+{"german":"Ich werde heute drau\u00dfen sein.","french":"Je vais \u00eatre dehors aujourd'hui."}
+{"german":"Ich werde heute einen Termin haben.","french":"J'aurai un rendez-vous aujourd'hui."}
+{"german":"Ich werde heute einen Brunch machen.","french":"Je vais faire un brunch aujourd'hui."}
+{"german":"Ich werde heute einen Film sehen.","french":"Je vais voir un film aujourd'hui."}
+{"german":"Ich werde heute einen Spaziergang machen.","french":"Je vais faire une promenade aujourd'hui."}
+{"german":"Ich werde heute Urlaub machen.","french":"Je vais prendre des vacances aujourd'hui."}
+{"german":"Ich werde heute ein Buch lesen.","french":"Je vais lire un livre aujourd'hui."}
+{"german":"Ich werde heute eine Party organisieren.","french":"Je vais organiser une soir\u00e9e aujourd'hui."}
+{"german":"Ich werde heute einen Kaffee trinken.","french":"Je vais boire un caf\u00e9 aujourd'hui."}
+{"german":"Wir treffen uns um 14 Uhr.","french":"Nous nous retrouvons \u00e0 14 heures."}
+{"german":"Meine Katze hei\u00dft Felix.","french":"Mon chat s'appelle Felix."}
+{"german":"Er arbeitet bei Google.","french":"Il travaille chez Google."}
+{"german":"Woher kommen Sie?","french":"D'o\u00f9 venez-vous ?"}
+{"german":"Ich komme aus Berlin.","french":"Je viens de Berlin."}
+{"german":"Die Reise war toll.","french":"Le voyage a \u00e9t\u00e9 g\u00e9nial."}
+{"german":"Ich habe kein Geld.","french":"Je n'ai pas d'argent."}
+{"german":"Wir brauchen mehr Zeit.","french":"Nous avons besoin de plus de temps."}
+{"german":"Was f\u00fcr ein sch\u00f6ner Tag!","french":"Quel beau jour !"}
+{"german":"Sie singt gerne.","french":"Elle chante volontiers."}
+{"german":"Wir fahren n\u00e4chste Woche.","french":"Nous partons la semaine prochaine."}
+{"german":"Er ist krank.","french":"Il est malade."}
+{"german":"Sie ist verheiratet.","french":"Elle est mari\u00e9e."}
+{"german":"Ich arbeite oft bis sp\u00e4t.","french":"Je travaille souvent tard."}
+{"german":"Sie ist eine gute Lehrerin.","french":"Elle est une bonne institutrice."}
+{"german":"Er mag klassische Musik.","french":"Il aime la musique classique."}
+{"german":"Sie ist eine kluge Frau.","french":"Elle est une femme sage."}
+{"german":"Ich bin Student.","french":"Je suis \u00e9tudiant(e)."}
+{"german":"Sie ist eine gute Mutter.","french":"Elle est une bonne m\u00e8re."}
+{"german":"Er hat ein Kind.","french":"Il a un enfant."}
+{"german":"Er mag die Stadt.","french":"Il aime la ville."}
+{"german":"Sie mag das Land.","french":"Elle aime les campagnes."}
+{"german":"Sie ist eine nette Person.","french":"Elle est une personne gentille."}
+{"german":"Er mag Lesen.","french":"Il aime lire."}
+{"german":"Sie mag Malen.","french":"Elle aime peindre."}
+{"german":"Er mag Tanzen.","french":"Il aime danser."}
+{"german":"Er mag Schwimmen.","french":"Il aime nager."}
+{"german":"Er mag Fotografie.","french":"Il aime la photographie."}
+{"german":"Sie mag Reisen.","french":"Elle aime voyager."}
+{"german":"Er mag Kochen.","french":"Il aime cuisiner."}
+{"german":"Ich bin Softwareentwickler.","french":"Je suis d\u00e9veloppeur de logiciels."}
+{"german":"Sie ist Marketingmanagerin.","french":"Elle est directrice marketing."}
+{"german":"Er ist Ingenieur.","french":"Il est ing\u00e9nieur."}
+{"german":"Sie ist Architektin.","french":"Elle est architecte."}
+{"german":"Er ist Lehrer.","french":"Il est professeur."}
+{"german":"Sie ist Krankenschwester.","french":"Elle est infirmi\u00e8re."}
+{"german":"Er ist Chef.","french":"Il est chef."}
+{"german":"Sie ist Krankenpflegerin.","french":"Elle est aide-soignant(e)."}
+{"german":"Er ist Techniker.","french":"Il est technicien."}
+{"german":"Sie ist Polizistin.","french":"Elle est polici\u00e8re."}
+{"german":"Er ist Feuerwehrmann.","french":"Il est pompier."}
+{"german":"Sie ist Bibliothekarin.","french":"Elle est biblioth\u00e9caire."}
+{"german":"Er ist Politiker.","french":"Il est politicien."}
+{"german":"Sie ist Journalistin.","french":"Elle est journaliste."}
+{"german":"Er ist Schauspieler.","french":"Il est acteur."}
+{"german":"Sie ist Schauspielerin.","french":"Elle est actrice."}
+{"german":"Er ist Schriftsteller.","french":"Il est \u00e9crivain."}
+{"german":"Sie ist K\u00fcnstlerin.","french":"Elle est artiste."}
+{"german":"Er ist Maler.","french":"Il est peintre."}
+{"german":"Sie ist Photographin.","french":"Elle est photographe."}
+{"german":"Er ist Musiker.","french":"Il est musicien."}
+{"german":"Sie ist S\u00e4ngerin.","french":"Elle est chanteuse."}
+{"german":"Er ist T\u00e4nzer.","french":"Il est danseur."}
+{"german":"Sie ist T\u00e4nzerin.","french":"Elle est danseuse."}
+{"german":"Er ist Koch.","french":"Il est cuisinier."}
+{"german":"Sie ist Cheffe.","french":"Elle est chef de cuisine."}
+{"german":"Er ist Schwimmer.","french":"Il est nageur."}
+{"german":"Sie ist Schwimmerin.","french":"Elle est nageuse."}
+{"german":"Er ist Schwimmer.","french":"Il ist nageur."}
+{"german":"Ich bin entschlossen, mein Deutsch zu verbessern.","french":"Je suis r\u00e9solu(e) \u00e0 am\u00e9liorer mon allemand."}
+{"german":"Sie arbeitet an einem wichtigen Projekt.","french":"Elle travaille sur un projet important."}
+{"german":"Er mag technische Ger\u00e4te.","french":"Il aime les appareils \u00e9lectroniques."}
+{"german":"Ich habe ein neues Telefon.","french":"J'ai un nouveau t\u00e9l\u00e9phone."}
+{"german":"Fu\u00dfball ist meine Lieblingszahl.","french":"Le football est mon sport pr\u00e9f\u00e9r\u00e9."}
+{"german":"Ich mag Pasta.","french":"J'aime la p\u00e2te."}
+{"german":"Das ist ein sch\u00f6ner Tag.","french":"C'est une belle journ\u00e9e."}
+{"german":"Ich esse gerne Tofu.","french":"J'aime bien le tofu."}
+{"german":"Der Eiffelturm ist in Paris.","french":"La tour Eiffel est \u00e0 Paris."}
+{"german":"Was ist dein Name?","french":"Quel est ton nom ?"}
+{"german":"Ich lese gerne B\u00fccher.","french":"J'aime lire des livres."}
+{"german":"Die Berliner Mauer fiel 1989.","french":"Le Mur de Berlin est tomb\u00e9 en 1989."}
+{"german":"Ich fahre oft ins Kino.","french":"Je vais souvent au cin\u00e9ma."}
+{"german":"Das ist mein Auto.","french":"C'est ma voiture."}
+{"german":"Die deutsche K\u00fcche ist lecker.","french":"La cuisine allemande est d\u00e9licieuse."}
+{"german":"Ich esse gerne Apfel.","french":"J'aime bien pomme."}
+{"german":"Der Rhein flie\u00dft durch Deutschland.","french":"Le Rhin traverse l'Allemagne."}
+{"german":"Ich habe einen Katzenfreund.","french":"J'ai un ami chat."}
+{"german":"Der Tag ist kalt.","french":"Le temps est froid."}
+{"german":"Ich mag es, am Strand zu liegen.","french":"J'aime bien me reposer sur la plage."}
+{"german":"Wie sp\u00e4t ist es?","french":"Quelle heure est-il ?"}
+{"german":"Der Hamburger Hafen ist bemerkenswert.","french":"Le port de Hambourg est remarquable."}
+{"german":"Ich mache gerne Sport.","french":"J'aime bien faire du sport."}
+{"german":"Die Oper in Wien ist ber\u00fchmt.","french":"L'Op\u00e9ra de Vienne est c\u00e9l\u00e8bre."}
+{"german":"Ich mag Musik h\u00f6ren.","french":"J'aime bien \u00e9couter de la musique."}
+{"german":"Die Wiedervereinigung Deutschlands geschah 1990.","french":"La r\u00e9unification de l'Allemagne s'est produite en 1990."}
+{"german":"Ich mag Kochen.","french":"J'aime bien cuisiner."}
+{"german":"Der Strand ist voller Menschen.","french":"La plage est pleine de gens."}
+{"german":"Ich esse gerne Pizza.","french":"J'aime bien la pizza."}
+{"german":"Der Alpenblick ist wundersch\u00f6n.","french":"Le panorama des Alpes est magnifique."}
+{"german":"Ich mag Reisen.","french":"J'aime bien voyager."}
+{"german":"Der Schloss in Neuschwanstein ist ein Traum.","french":"Le ch\u00e2teau de Neuschwanstein est un r\u00eave."}
+{"german":"Ich mag Schwimmen.","french":"J'aime bien nager."}
+{"german":"Die deutsche Geschichte ist interessant.","french":"L'histoire allemande est int\u00e9ressante."}
+{"german":"Ich mag es, in der Natur zu wandern.","french":"J'aime bien se promener dans la nature."}
+{"german":"Das ist ein sch\u00f6ner Sonnenuntergang.","french":"C'est un beau coucher de soleil."}
+{"german":"Ich mag es, Sonnenschein zu genie\u00dfen.","french":"J'aime bien profiter du soleil."}
+{"german":"Die deutsche Literatur ist gro\u00dfartig.","french":"La litt\u00e9rature allemande est g\u00e9niale."}
+{"german":"Ich mag es, im Park zu spazieren gehen.","french":"J'aime bien se promener dans le parc."}
+{"german":"Der Spree flie\u00dft durch Berlin.","french":"La Spree traverse Berlin."}
+{"german":"Ich mag es, in der Bibliothek zu lesen.","french":"J'aime bien lire dans la biblioth\u00e8que."}
+{"german":"Die deutsche K\u00fcche hat viele Gerichte.","french":"La cuisine allemande a de nombreux plats."}
+{"german":"Ich mag es, Bahnen zu fahren.","french":"J'aime bien prendre le train."}
+{"german":"Der Friedhof in M\u00fcnchen ist bekannt.","french":"Le cimeti\u00e8re de Munich est connu."}
+{"german":"Ich mag es, im Park zu feiern.","french":"J'aime bien c\u00e9l\u00e9brer dans le parc."}
+{"german":"Die deutsche Bev\u00f6lkerung ist freundlich.","french":"La population allemande est accueillante."}
+{"german":"Ich mag es, am See zu schwimmen.","french":"J'aime bien nager dans le lac."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr wandern.","french":"C'est une belle journ\u00e9e pour se promener."}
+{"german":"Ich mag es, am Strand zu tanzen.","french":"J'aime bien danser sur la plage."}
+{"german":"Der Oktoberfest ist bekannt.","french":"Le Oktoberfest est c\u00e9l\u00e8bre."}
+{"german":"Ich mag es, im Garten zu pflanzen.","french":"J'aime bien planter dans le jardin."}
+{"german":"Die deutsche Musik ist gro\u00dfartig.","french":"La musique allemande est g\u00e9niale."}
+{"german":"Ich mag es, im Caf\u00e9 zu sitzen.","french":"J'aime bien boire un caf\u00e9."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr ein Picknick.","french":"C'est une belle journ\u00e9e pour un pique-nique."}
+{"german":"Ich mag es, im Wald zu spazieren gehen.","french":"J'aime bien se promener dans la for\u00eat."}
+{"german":"Der Spreeufer ist sch\u00f6n.","french":"La rive de la Spree est belle."}
+{"german":"Ich mag es, in der Bibliothek zu studieren.","french":"J'aime bien \u00e9tudier dans la biblioth\u00e8que."}
+{"german":"Die deutsche Sprache ist komplex.","french":"La langue allemande est complexe."}
+{"german":"Ich mag es, im Park zu liegen.","french":"J'aime bien me reposer dans le parc."}
+{"german":"Der Friedhof in Berlin ist bekannt.","french":"Le cimeti\u00e8re de Berlin est connu."}
+{"german":"Ich mag es, am Strand zu essen.","french":"J'aime bien manger sur la plage."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr Tanzen.","french":"C'est une belle journ\u00e9e pour danser."}
+{"german":"Ich mag es, im Garten zu spielen.","french":"J'aime bien jouer dans le jardin."}
+{"german":"Die deutsche K\u00fcche ist vielf\u00e4ltig.","french":"La cuisine allemande est vari\u00e9e."}
+{"german":"Ich mag es, im Caf\u00e9 zu arbeiten.","french":"J'aime bien travailler dans le caf\u00e9."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr ein Fahrradtour.","french":"C'est une belle journ\u00e9e pour une excursion en v\u00e9lo."}
+{"german":"Ich mag es, im Wald zu singen.","french":"J'aime bien chanter dans la for\u00eat."}
+{"german":"Der Spreeufer ist bekannt.","french":"La rive de la Spree est c\u00e9l\u00e8bre."}
+{"german":"Die deutsche Geschichte ist faszinierend.","french":"L'histoire allemande est fascinante."}
+{"german":"Ich mag es, im Park zu joggen.","french":"J'aime bien faire du jogging dans le parc."}
+{"german":"Der Friedhof ist ruhig.","french":"Le cimeti\u00e8re est paisible."}
+{"german":"Ich mag es, am Strand zu lesen.","french":"J'aime bien lire sur la plage."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr Malen.","french":"C'est une belle journ\u00e9e pour peindre."}
+{"german":"Ich mag es, im Garten zu basteln.","french":"J'aime bien bricoler dans le jardin."}
+{"german":"Die deutsche Musik ist ber\u00fchmt.","french":"La musique allemande est c\u00e9l\u00e8bre."}
+{"german":"Ich mag es, im Caf\u00e9 zu lachen.","french":"J'aime bien rire dans le caf\u00e9."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr ein Radfahren.","french":"C'est une belle journ\u00e9e pour faire du v\u00e9lo."}
+{"german":"Ich mag es, im Wald zu tanzen.","french":"J'aime bien danser dans la for\u00eat."}
+{"german":"Ich mag es, in der Bibliothek zu lernen.","french":"J'aime bien apprendre dans la biblioth\u00e8que."}
+{"german":"Die deutsche Sprache ist vielseitig.","french":"La langue allemande est polyvalente."}
+{"german":"Ich mag es, im Park zu sitzen.","french":"J'aime bien rester assis dans le parc."}
+{"german":"Ich mag es, am Strand zu singen.","french":"J'aime bien chanter sur la plage."}
+{"german":"Die deutsche K\u00fcche hat viele Spezialit\u00e4ten.","french":"La cuisine allemande a de nombreuses sp\u00e9cialit\u00e9s."}
+{"german":"Ich mag es, im Wald zu lesen.","french":"J'aime bien lire dans la for\u00eat."}
+{"german":"Ich mag es, im Park zu tanzen.","french":"J'aime bien danser dans le parc."}
+{"german":"Ich mag es, am Strand zu joggen.","french":"J'aime bien faire du jogging sur la plage."}
+{"german":"Das ist ein sch\u00f6ner Tag f\u00fcr ein Radfahren.","french":"C'est une belle journ\u00e9e pour faire de la randonn\u00e9e \u00e0 v\u00e9lo."}
+{"german":"Fu\u00dfball ist meine Liebesleidenschaft.","french":"Le football est ma passion."}
+{"german":"Ich bin ein gro\u00dfer Fan von Cristiano Ronaldo.","french":"Je suis un grand fan de Cristiano Ronaldo."}
+{"german":"Das Eiffelturm ist ein Symbol von Paris.","french":"La Tour Eiffel est un symbole de Paris."}
+{"german":"Ich habe letzte Woche die deutsche Meisterschaft gewonnen.","french":"J'ai remport\u00e9 la championnat allemand la semaine derni\u00e8re."}
+{"german":"Das Colosseum in Rom ist eine historische Denkmal.","french":"Le Colis\u00e9e \u00e0 Rome est un monument historique."}
+{"german":"Wie geht es Ihnen heute?","french":"Comment allez-vous aujourd'hui ?"}
+{"german":"Mein Lieblingsessen ist Currywurst.","french":"Mon plat pr\u00e9f\u00e9r\u00e9 est la currywurst."}
+{"german":"Ich habe heute morgen ein Fitnessstudio besucht.","french":"Je suis all\u00e9 \u00e0 un centre de fitness ce matin."}
+{"german":"Die deutsche K\u00fcche ist ber\u00fchmt f\u00fcr ihre Bratw\u00fcrste.","french":"La cuisine allemande est c\u00e9l\u00e8bre pour ses saucissons grill\u00e9s."}
+{"german":"Ich liebe es, in Museen zu wandern.","french":"J'aime d\u00e9ambuler dans les mus\u00e9es."}
+{"german":"Das moderne Architekturwerk in Berlin ist beeindruckend.","french":"L'\u0153uvre architecturale moderne \u00e0 Berlin est impressionnante."}
+{"german":"Ich habe ein neues Auto gekauft.","french":"J'ai achet\u00e9 une nouvelle voiture."}
+{"german":"Die Champs-\u00c9lys\u00e9es sind bekannt f\u00fcr ihre Feuerwerksfeiern.","french":"Les Champs-\u00c9lys\u00e9es sont c\u00e9l\u00e8bres pour leurs feux d'artifice."}
+{"german":"Ich habe letzte Nacht eine gute Nacht geschlafen.","french":"J'ai dormi bien la nuit derni\u00e8re."}
+{"german":"Der Oktoberfest in M\u00fcnchen ist ein gro\u00dfes Fest.","french":"L'Oktoberfest \u00e0 Munich est une grande f\u00eate."}
+{"german":"Ich muss heute meine Pr\u00e4sentation vorbereiten.","french":"Je dois pr\u00e9parer ma pr\u00e9sentation aujourd'hui."}
+{"german":"Der Spreeflu\u00df flie\u00dft durch Berlin.","french":"La Seine traverse Berlin."}
+{"german":"Ich habe gestern Abend ein Romantikmuseum besucht.","french":"J'ai visit\u00e9 un mus\u00e9e de romantisme hier soir."}
+{"german":"Die deutsche Flagge hat drei Farben: schwarz, rot und gold.","french":"Le drapeau allemand a trois couleurs : noir, rouge et dor\u00e9."}
+{"german":"Ich liebe Sonntagsausfl\u00fcge in die Natur.","french":"J'aime faire des excursions le dimanche dans la nature."}
+{"german":"Der deutsche Wein ist ber\u00fchmt weltweit.","french":"Le vin allemand est c\u00e9l\u00e8bre \u00e0 travers le monde."}
+{"german":"Ich habe heute viele E-Mails gelesen.","french":"J'ai lu beaucoup d'e-mails aujourd'hui."}
+{"german":"Das Berliner Dom ist ein historisches Geb\u00e4ude.","french":"Le Berliner Dom est un \u00e9difice historique."}
+{"german":"Ich liebe es, deutsche Literatur zu lesen.","french":"J'aime lire de la litt\u00e9rature allemande."}
+{"german":"Der letzte Fu\u00dfballspiel war sehr spannend.","french":"Le dernier match de football \u00e9tait tr\u00e8s int\u00e9ressant."}
+{"german":"Ich habe heute ein historisches Museum besucht.","french":"J'ai visit\u00e9 un mus\u00e9e historique aujourd'hui."}
+{"german":"Die deutsche Geschichte ist sehr interessant.","french":"L'histoire allemande est tr\u00e8s int\u00e9ressante."}
+{"german":"Ich habe gestern Abend ein neues Restaurant entdeckt.","french":"J'ai d\u00e9couvert un nouveau restaurant hier soir."}
+{"german":"Der Rhein ist ein wichtiger Fluss in Deutschland.","french":"Le Rhin est un fleuve important en Allemagne."}
+{"german":"Ich liebe es, im Park spazierenzugehen.","french":"J'aime faire une promenade dans le parc."}
+{"german":"Die deutsche Kultur ist sehr reich an Traditionen.","french":"La culture allemande est riche en traditions."}
+{"german":"Ich habe heute eine gro\u00dfe Vorlesung besucht.","french":"J'ai assist\u00e9 \u00e0 un grand cours aujourd'hui."}
+{"german":"Die deutsche K\u00fcche ist bekannt f\u00fcr ihre Kartoffelsalat.","french":"La cuisine allemande est c\u00e9l\u00e8bre pour son salade de carottes r\u00e2p\u00e9es."}
+{"german":"Ich liebe es, auf dem See zu schwimmen.","french":"J'aime nager dans la mer."}
+{"german":"Das deutsche Wetter kann sehr variabel sein.","french":"Il peut faire tr\u00e8s variable au temps allemand."}
+{"german":"Ich habe heute morgen einen Jogging gemacht.","french":"J'ai fait du jogging ce matin."}
+{"german":"Die deutsche Literatur hat viele ber\u00fchmte Autoren.","french":"La litt\u00e9rature allemande compte de nombreux auteurs c\u00e9l\u00e8bres."}
+{"german":"Ich habe heute ein neues Buch gelesen.","french":"J'ai lu un nouveau livre aujourd'hui."}
+{"german":"Die deutsche Sprache hat viele interessante W\u00f6rter.","french":"La langue allemande contient de nombreux mots int\u00e9ressants."}
+{"german":"Ich liebe es, deutsche Musik zu h\u00f6ren.","french":"J'aime \u00e9couter de la musique allemande."}
+{"german":"Der letzte Film, den ich gesehen habe, war sehr gut.","french":"Le dernier film que j'ai vu \u00e9tait tr\u00e8s bon."}
+{"german":"Ich habe heute einen Tagungsort besucht.","french":"J'ai visit\u00e9 un lieu de r\u00e9union aujourd'hui."}
+{"german":"Die deutsche Musik hat viele ber\u00fchmte Komponisten.","french":"La musique allemande compte de nombreux compositeurs c\u00e9l\u00e8bres."}
+{"german":"Ich habe heute eine neue App installiert.","french":"J'ai install\u00e9 une nouvelle application aujourd'hui."}
+{"german":"Die deutsche Architektur hat viele historische Stile.","french":"L'architecture allemande compte de nombreux styles historiques."}
+{"german":"Ich liebe es, neue Pl\u00e4tze in meiner Stadt zu entdecken.","french":"J'aime d\u00e9couvrir de nouveaux endroits dans ma ville."}
+{"german":"Der letzte Konzert, das ich besucht habe, war gro\u00dfartig.","french":"Le dernier concert que j'ai assist\u00e9 \u00e9tait g\u00e9nial."}
+{"german":"Ich habe heute ein neues Projekt begonnen.","french":"J'ai commenc\u00e9 un nouveau projet aujourd'hui."}
+{"german":"Die deutsche K\u00fcche ist bekannt f\u00fcr ihre Sauerkraut.","french":"La cuisine allemande est c\u00e9l\u00e8bre pour son choucroute."}
+{"german":"Ich liebe es, im Park zu joggen.","french":"J'aime faire du jogging dans le parc."}
+{"german":"Die deutsche Geschichte reicht weit zur\u00fcck.","french":"L'histoire allemande remonte tr\u00e8s loin."}
+{"german":"Ich habe heute eine neue Idee f\u00fcr mein Projekt.","french":"J'ai eu une nouvelle id\u00e9e pour mon projet aujourd'hui."}
+{"german":"Die deutsche Kultur hat viele wichtige Traditionen.","french":"La culture allemande compte de nombreuses traditions importantes."}
+{"german":"Ich habe heute eine neue Freundschaft geschlossen.","french":"J'ai nou\u00e9 une nouvelle amiti\u00e9 aujourd'hui."}
+{"german":"Die deutsche Architektur hat viele ber\u00fchmte Bauwerke.","french":"L'architecture allemande compte de nombreux b\u00e2timents c\u00e9l\u00e8bres."}
+{"german":"Ich liebe es, deutsche B\u00fccher zu lesen.","french":"J'aime lire des livres allemands."}
+{"german":"Der letzte Film, den ich gesehen habe, war sehr interessant.","french":"Le dernier film que j'ai vu \u00e9tait tr\u00e8s int\u00e9ressant."}
+{"german":"Ich habe heute eine wichtige Entscheidung getroffen.","french":"J'ai pris une d\u00e9cision importante aujourd'hui."}
+{"german":"Die deutsche K\u00fcche hat viele kulinarische Traditionen.","french":"La cuisine allemande compte de nombreuses traditions culinaires."}
+{"german":"Ich liebe es, im Park zu spazierenzugehen.","french":"J'aime faire une promenade dans le parc."}
+{"german":"Die deutsche Geschichte ist reich an Ereignissen.","french":"L'histoire allemande est riche en \u00e9v\u00e9nements."}
+{"german":"Ich habe heute eine wichtige Nachricht erhalten.","french":"J'ai re\u00e7u un message important aujourd'hui."}
+{"german":"Ich habe heute einen neuen Freund kennengelernt.","french":"J'ai fait la connaissance d'un nouveau ami aujourd'hui."}
+{"german":"Die deutsche K\u00fcche ist bekannt f\u00fcr ihre Bratw\u00fcrste.","french":"La cuisine allemande est c\u00e9l\u00e8bre pour ses saucissons grill\u00e9s."}
+{"german":"Fu\u00dfball ist meine Lieblingsarbeit.**\n   **","french":"Le football est mon travail pr\u00e9f\u00e9r\u00e9.**"}
+{"german":"Die Berliner Mauer wurde 1989 abgerissen.**\n   **","french":"Le mur de Berlin a \u00e9t\u00e9 topple en 1989.**"}
+{"german":"Ich liebe es, am Strand zu liegen.**\n   **","french":"J'adore me reposer sur la plage.**"}
+{"german":"Die Louvre ist ein gro\u00dfartiges Museum.**\n   **","french":"La Louvre est un grand mus\u00e9e.**"}
+{"german":"Wie sp\u00e4t ist es?**\n   **","french":"Quelle heure est-il ?**"}
+{"german":"Er spielt gerne Klarinette.**\n   **","french":"Il joue souvent de la clarinette.**"}
+{"german":"Die Champs-\u00c9lys\u00e9es sind bekannt f\u00fcr ihre Feuerwerks.shows.**\n   **","french":"Les Champs-\u00c9lys\u00e9es sont c\u00e9l\u00e8bres pour leurs spectacles de feux d'artifice.**"}
+{"german":"Ich esse gerne Pizza.**\n   **","french":"J'aime bien la pizza.**"}
+{"german":"Das Eiffelturm ist ein Symbol von Paris.**\n   **","french":"La tour Eiffel est un symbole de Paris.**"}
+{"german":"Sie hat ein sch\u00f6nes Haar.**\n    **","french":"Elle a de beaux cheveux.**"}
+{"german":"Der Strand war voller Menschen.**\n    **","french":"La plage \u00e9tait pleine de gens.**"}
+{"german":"Er ist der schnellste Spieler in seinem Team.**\n    **","french":"Il est le joueur le plus rapide de son \u00e9quipe.**"}
+{"german":"Ich bin ein gro\u00dfer Fan des FC Barcelona.**\n    **","french":"Je suis un grand fan du FC Barcelone.**"}
+{"german":"Die Geschichte von Rom ist sehr interessant.**\n    **","french":"L'histoire de Rome est tr\u00e8s int\u00e9ressante.**"}
+{"german":"Wir feiern unser Hochzeitstag morgen.**\n    **","french":"Nous c\u00e9l\u00e8brons notre anniversaire de mariage demain.**"}
+{"german":"Die Alpen sind wundersch\u00f6n im Winter.**\n    **","french":"Les Alpes sont magnifiques en hiver.**"}
+{"german":"Er hat eine tolle neue Wohnung.**\n    **","french":"Il a une nouvelle tr\u00e8s belle appartement.**"}
+{"german":"Die Mozartstra\u00dfe ist bekannt f\u00fcr den Mozarteum.**\n    **","french":"La rue Mozart est c\u00e9l\u00e8bre pour le Mozarteum.**"}
+{"german":"Ich fahre oft ins Kino.**\n    **","french":"Je vais souvent au cin\u00e9ma.**"}
+{"german":"Sie singt wunderbar.**\n    **","french":"Elle chante magnifiquement.**"}
+{"german":"Der Spree flie\u00dft durch Berlin.**\n    **","french":"La Spree traverse Berlin.**"}
+{"german":"Ich mag klassische Musik sehr.**\n    **","french":"J'aime beaucoup la musique classique.**"}
+{"german":"Das Colis\u00e9e in Rom ist sehr beeindruckend.**\n    **","french":"Le Colis\u00e9e \u00e0 Rome est tr\u00e8s impressionnant.**"}
+{"german":"Er ist ein talentierter Koch.**\n    **","french":"Il est un excellent cuisinier.**"}
+{"german":"Wir sehen uns am Wochenende treffen.**\n    **","french":"Nous nous verrons ce week-end.**"}
+{"german":"Die deutsche K\u00fcche hat viele leckere Gerichte.**\n    **","french":"La cuisine allemande a de nombreux plats d\u00e9licieux.**"}
+{"german":"Ich liebe es, auf dem See zu schwimmen.**\n    **","french":"J'aime nager dans la mer.**"}
+{"german":"Die deutsche Kultur reicht \u00fcber Jahrhunderte.**\n    **","french":"La culture allemande remonte \u00e0 des si\u00e8cles.**"}
+{"german":"Er hat ein gro\u00dfes Auto.**\n    **","french":"Il a une grande voiture.**"}
+{"german":"Die Neapel ist bekannt f\u00fcr ihre Pizza.**\n    **","french":"Naples est c\u00e9l\u00e8bre pour sa pizza.**"}
+{"german":"Sie ist eine tolle Mutter.**\n    **","french":"Elle est une excellente m\u00e8re.**"}
+{"german":"Die Geschichte von Bayern ist reich an Traditionen.**\n    **","french":"L'histoire de Bavi\u00e8re est riche en traditions.**"}
+{"german":"Ich esse gerne Salat.**\n    **","french":"J'aime bien le salade.**"}
+{"german":"Er ist ein gro\u00dfer Fu\u00dfballspieler.**\n    **","french":"Il est un grand joueur de football.**"}
+{"german":"Die deutsche Sprache ist sehr kompliziert.**\n    **","french":"La langue allemande est tr\u00e8s complexe.**"}
+{"german":"Wir gehen morgen ins Museum.**\n    **","french":"Nous allons au mus\u00e9e demain.**"}
+{"german":"Sie ist eine kluge Frau.**\n    **","french":"Elle est une femme tr\u00e8s intelligente.**"}
+{"german":"Der Oktoberfest in M\u00fcnchen ist bekannt weltweit.**\n    **","french":"L'Oktoberfest \u00e0 Munich est connu dans le monde entier.**"}
+{"german":"Ich liebe es, zu tanzen.**\n    **","french":"J'aime danser.**"}
+{"german":"Die deutsche Literatur hat viele ber\u00fchmte Autoren.**\n    **","french":"La litt\u00e9rature allemande a de nombreux auteurs c\u00e9l\u00e8bres.**"}
+{"german":"Wir feiern das neue Jahr mit Feuerwerks.**\n    **","french":"Nous c\u00e9l\u00e8brons le nouvel an avec des feux d'artifice.**"}
+{"german":"Er hat einen neuen Job.**\n    **","french":"Il a un nouvel emploi.**"}
+{"german":"Die deutsche Geschichte ist sehr spannend.**\n    **","french":"L'histoire allemande est tr\u00e8s passionnante.**"}
+{"german":"Ich liebe es, in der Natur zu wandern.**\n    **","french":"J'aime bien faire de la randonn\u00e9e en plein air.**"}
+{"german":"Sie ist eine sch\u00f6ne Landschaft.**\n    **","french":"C'est une belle paysage.**"}
+{"german":"Wir feiern unser Geburtstag morgen.**\n    **","french":"Nous c\u00e9l\u00e9brons notre anniversaire demain.**"}
+{"german":"Der Berliner Dom ist ein historisches Geb\u00e4ude.**\n    **","french":"Le dom de Berlin est un b\u00e2timent historique.**"}
+{"german":"Er hat eine tolle Familie.**\n    **","french":"Il a une famille magnifique.**"}
+{"german":"Die deutsche K\u00fcche hat viele regionale Gerichte.**\n    **","french":"La cuisine allemande poss\u00e8de de nombreux plats r\u00e9gionaux.**"}
+{"german":"Ich liebe es, auf der Terrasse zu sitzen.**\n    **","french":"J'aime bien m'asseoir sur la terrasse.**"}
+{"german":"Die deutsche Sprache hat viele Idiome.**\n    **","french":"La langue allemande a de nombreux idiomes.**"}
+{"german":"Wir gehen oft ins Kino.**\n    **","french":"Nous allons souvent au cin\u00e9ma.**"}
+{"german":"Wir feiern das neue Jahr mit Feuerwerks.**\n    **","french":"Nous c\u00e9l\u00e9brons le nouvel an avec des feux d'artifice.**"}
+{"german":"Die Wachauer Ebene ist ein sch\u00f6ner Ort zum Urlaub.**\n    **","french":"La vall\u00e9e de la Wachau est un bel endroit pour les vacances.**"}
+{"german":"Die deutsche Literatur hat viele ber\u00fchmte Autoren.**\n    **","french":"La litt\u00e9rature allemande poss\u00e8de de nombreux auteurs c\u00e9l\u00e8bres.**"}
+{"german":"Die Eiffelturm wurde im 19e Jahrhundert erbaut.**\n    **","french":"La tour Eiffel a \u00e9t\u00e9 construite au 19e si\u00e8cle.**"}
+{"german":"Er spielt gerne Fu\u00dfball.**\n    **","french":"Il aime jouer au football.**"}
+{"german":"Sie hat eine tolle neue Wohnung.**\n    **","french":"Elle a une nouvelle belle appartement.**"}
+{"german":"Die Alpen sind bekannt f\u00fcr ihren Schnee.**\n    **","french":"Les Alpes sont c\u00e9l\u00e8bres pour leur neige.**"}
+{"german":"Guten Morgen!","french":"Bonjour !"}
+{"german":"Wie geht es Ihnen?","french":"Comment allez-vous ?"}
+{"german":"Ich liebe Fu\u00dfball.","french":"J'aime le football."}
+{"german":"Er spielt sehr gut Basketball.","french":"Il joue tr\u00e8s bien au basket-ball."}
+{"german":"Das ist die Eifelturm.","french":"C'est la Tour Eiffel."}
+{"german":"Berlin ist die Hauptstadt von Deutschland.","french":"Berlin est la capitale de l'Allemagne."}
+{"german":"Die Reise war sehr erf\u00fcllend.","french":"Le voyage a \u00e9t\u00e9 tr\u00e8s enrichissant."}
+{"german":"Ich mag K\u00e4se.","french":"J'aime le fromage."}
+{"german":"Was ist das Gute am Leben?","french":"Qu'est-ce qui est bon dans la vie ?"}
+{"german":"Sie ist eine gro\u00dfartige Kochin.","french":"Elle est une excellente cuisini\u00e8re."}
+{"german":"Ich gehe oft ins Fitnessstudio.","french":"Je vais souvent au centre de fitness."}
+{"german":"Er arbeitet als Lehrer.","french":"Il travaille professeur."}
+{"german":"Das Museum war sehr interessant.","french":"Le mus\u00e9e \u00e9tait tr\u00e8s int\u00e9ressant."}
+{"german":"Sie liebt zu lesen.","french":"Elle aime lire."}
+{"german":"Die Geschichte von Paris ist sehr reich.","french":"L'histoire de Paris est tr\u00e8s riche."}
+{"german":"Ich habe keine Zeit.","french":"Je n'ai pas de temps."}
+{"german":"Das Essen war k\u00f6stlich.","french":"Le repas \u00e9tait d\u00e9licieux."}
+{"german":"Er ist ein gro\u00dfer Fan von klassischer Musik.","french":"Il est un grand fan de la musique classique."}
+{"german":"Wir haben ein Wettbewerb gewonnen.","french":"Nous avons remport\u00e9 un concours."}
+{"german":"Die Leute in Berlin sind sehr freundlich.","french":"Les gens \u00e0 Berlin sont tr\u00e8s gentils."}
+{"german":"Ich mag es, an der Sonne zu liegen.","french":"J'aime me baigner au soleil."}
+{"german":"Das Konzert war fabelhaft.","french":"Le concert \u00e9tait merveilleux."}
+{"german":"Er kann gut Fu\u00dfball spielen.","french":"Il joue bien au football."}
+{"german":"Die Bibliothek ist sehr gro\u00df.","french":"La biblioth\u00e8que est tr\u00e8s grande."}
+{"german":"Es gibt viele Restaurants im Stadtzentrum.","french":"Il y a beaucoup de restaurants dans le centre-ville."}
+{"german":"Der Tag war sehr hei\u00df.","french":"Le jour \u00e9tait tr\u00e8s chaud."}
+{"german":"Sie hat ein Baby.","french":"Elle a un b\u00e9b\u00e9."}
+{"german":"Das ist ein sch\u00f6ner Park.","french":"C'est un beau parc."}
+{"german":"Ich bin m\u00fcde.","french":"Je suis fatigu\u00e9."}
+{"german":"Die Zeit vergeht schnell.","french":"Le temps passe vite."}
+{"german":"Er hat eine neue Stelle bekommen.","french":"Il a obtenu un nouvel emploi."}
+{"german":"Die Weinprobe war sehr gut.","french":"La d\u00e9gustation de vin \u00e9tait tr\u00e8s bonne."}
+{"german":"Sie liebt es, zu tanzen.","french":"Elle aime danser."}
+{"german":"Die Fahrt war sehr lang.","french":"Le trajet \u00e9tait tr\u00e8s long."}
+{"german":"Ich bin ein gro\u00dfer Fan von Kino.","french":"Je suis un grand fan du cin\u00e9ma."}
+{"german":"Es gibt viele Museen in Paris.","french":"Il y a beaucoup de mus\u00e9es \u00e0 Paris."}
+{"german":"Die Geschichte von der Romanische \u00c9poche ist sehr interessant.","french":"L'histoire de l'\u00e9poque romane est tr\u00e8s int\u00e9ressante."}
+{"german":"Ich liebe es, im Park zu spazieren.","french":"J'aime faire des promenades dans le parc."}
+{"german":"Er hat ein neues Auto gekauft.","french":"Il a achet\u00e9 une nouvelle voiture."}
+{"german":"Die Konzertb\u00fchne war gro\u00dfartig.","french":"La sc\u00e8ne du concert \u00e9tait magnifique."}
+{"german":"Ich esse gerne Salate.","french":"J'aime bien les salades."}
+{"german":"Er kann gut Reisen.","french":"Il est bon voyageur."}
+{"german":"Die Party war sehr laut.","french":"La f\u00eate \u00e9tait tr\u00e8s bruyante."}
+{"german":"Sie hat ein neues Haus bekommen.","french":"Elle a obtenu une nouvelle maison."}
+{"german":"Es ist ein sch\u00f6ner Tag.","french":"C'est une belle journ\u00e9e."}
+{"german":"Die Geschichte von der Renaissance ist sehr spannend.","french":"L'histoire de la Renaissance est tr\u00e8s passionnante."}
+{"german":"Ich mag es, zu singen.","french":"J'aime chanter."}
+{"german":"Die Fahrt war sehr angenehm.","french":"Le trajet \u00e9tait tr\u00e8s agr\u00e9able."}
+{"german":"Er ist ein gro\u00dfer Fan von Popmusik.","french":"Il est un grand fan de la musique pop."}
+{"german":"Die Bibliothek ist sehr ruhig.","french":"La biblioth\u00e8que est tr\u00e8s calme."}
+{"german":"Es gibt viele Caf\u00e9s im Stadtzentrum.","french":"Il y a beaucoup de caf\u00e9s dans le centre-ville."}
+{"german":"Der Tag war sehr kalt.","french":"Le jour \u00e9tait tr\u00e8s froid."}
+{"german":"Sie hat zwei Kinder.","french":"Elle a deux enfants."}
+{"german":"Das ist ein sch\u00f6ner Garten.","french":"C'est un beau jardin."}
+{"german":"Er hat ein neues Buch bekommen.","french":"Il a re\u00e7u un nouveau livre."}
+{"german":"Sie liebt es, zu singen.","french":"Elle aime chanter."}
+{"german":"Ich bin ein gro\u00dfer Fan von Theatern.","french":"Je suis un grand fan du th\u00e9\u00e2tre."}
+{"german":"Es gibt viele Museen in Berlin.","french":"Il y a beaucoup de mus\u00e9es \u00e0 Berlin."}
+{"german":"Die Geschichte von der Weimarer Republik ist sehr interessant.","french":"L'histoire de la R\u00e9publique de Weimar est tr\u00e8s int\u00e9ressante."}
+{"german":"Ich esse gerne Gem\u00fcse.","french":"J'aime bien les l\u00e9gumes."}
+{"german":"Er kann gut Kochen.","french":"Il cuisine bien."}
+{"german":"Die Geschichte von der Zeit der Barockkunst ist sehr spannend.","french":"L'histoire de l'\u00e9poque de la baroque est tr\u00e8s passionnante."}
+{"german":"Ich mag es, zu tanzen.","french":"J'aime danser."}
+{"german":"Er ist ein gro\u00dfer Fan von Musikvideos.","french":"Il est un grand fan des clips musicaux."}
+{"german":"Sie hat drei Kinder.","french":"Elle a trois enfants."}
+{"german":"Das ist ein sch\u00f6ner See.","french":"C'est un beau lac."}
+{"german":"Sie liebt es, zu lesen.","french":"Elle aime lire."}
+{"german":"Ich bin ein gro\u00dfer Fan von Oper.","french":"Je suis un grand fan de l'op\u00e9ra."}
+{"german":"Es gibt viele Museen in M\u00fcnchen.","french":"Il y a beaucoup de mus\u00e9es \u00e0 Munich."}
+{"german":"Die Geschichte von der Zeit der Renaissance ist sehr interessant.","french":"L'histoire de la Renaissance est tr\u00e8s int\u00e9ressante."}
+{"german":"Ich esse gerne Obst.","french":"J'aime bien les fruits."}
+{"german":"Die Geschichte von der Zeit der Moderne ist sehr spannend.","french":"L'histoire de l'\u00e9poque moderne est tr\u00e8s passionnante."}
+{"german":"Ich liebe Sport.","french":"J'aime le sport."}
+{"german":"Fu\u00dfball ist meine Lieblings-Sportart.","french":"Le football est mon sport pr\u00e9f\u00e9r\u00e9."}
+{"german":"Die Berliner Mauer ist ein historisches Denkmal.","french":"Le Mur de Berlin est un monument historique."}
+{"german":"Ich habe gestern Fu\u00dfball gespielt.","french":"J'ai jou\u00e9 au football hier."}
+{"german":"Der Eiffelturm ist in Paris.","french":"La Tour Eiffel est \u00e0 Paris."}
+{"german":"Ich liebe es, in der Natur zu wandern.","french":"J'aime marcher dans la nature."}
+{"german":"Die Geschichte von Deutschland ist sehr interessant.","french":"L'histoire de l'Allemagne est tr\u00e8s int\u00e9ressante."}
+{"german":"Ich esse gerne Pasta.","french":"J'aime manger de la p\u00e2te."}
+{"german":"Sie haben ein sch\u00f6nes Auto.","french":"Vous avez une belle voiture."}
+{"german":"Ich bin Student an der Universit\u00e4t.","french":"Je suis \u00e9tudiant(e) \u00e0 l'universit\u00e9."}
+{"german":"Er spielt Klavier.","french":"Il joue du piano."}
+{"german":"Ich esse gerne Apfel.","french":"J'aime manger des pommes."}
+{"german":"Das ist ein sch\u00f6nes Bild.","french":"C'est une belle image."}
+{"german":"Ich bin m\u00fcde.","french":"Je suis fatigu\u00e9(e)."}
+{"german":"Die Schule beginnt um 8 Uhr.","french":"L'\u00e9cole commence \u00e0 8 heures."}
+{"german":"Er ist ein guter Koch.","french":"Il est un bon cuisinier."}
+{"german":"Sie sind fr\u00fchwach.","french":"Vous \u00eates matinal(e)."}
+{"german":"Der Tag ist sonnig.","french":"Le jour est ensoleill\u00e9."}
+{"german":"Die Katze ist auf dem Sofa.","french":"Le chat est sur le canap\u00e9."}
+{"german":"Wir gehen spazieren gehen.","french":"Nous promenons."}
+{"german":"Ich mag Musik h\u00f6ren.","french":"J'aime \u00e9couter de la musique."}
+{"german":"Sie ist eine gute Lehrerin.","french":"Elle est une bonne professeure."}
+{"german":"Er arbeitet als Entwickler.","french":"Il travaille en tant que d\u00e9veloppeur."}
+{"german":"Wir sehen uns morgen.","french":"On se voit demain."}
+{"german":"Das Essen war sehr gut.","french":"Le repas \u00e9tait tr\u00e8s bon."}
+{"german":"Er ist ein guter Schwimmer.","french":"Il est un bon nageur."}
+{"german":"Sie ist eine tolle Freundin.","french":"Elle est une excellente amie."}
+{"german":"Der Film war unterhaltsam.","french":"Le film \u00e9tait amusant."}
+{"german":"Ich bin am Flughafen.","french":"Je suis \u00e0 l'a\u00e9roport."}
+{"german":"Das Konzert war gro\u00dfartig.","french":"Le concert \u00e9tait g\u00e9nial."}
+{"german":"Sie hat einen sch\u00f6nen Anzug.","french":"Elle porte un beau tailleur."}
+{"german":"Die Zeitung ist interessant.","french":"Le journal est int\u00e9ressant."}
+{"german":"Er ist ein guter Fu\u00dfballspieler.","french":"Il est un bon footballeur."}
+{"german":"Sie mag Tanzen.","french":"Elle aime danser."}
+{"german":"Das Restaurant ist leise.","french":"Le restaurant est calme."}
+{"german":"Die Bibliothek ist gro\u00df.","french":"La biblioth\u00e8que est grande."}
+{"german":"Ich bin ein guter Schwimmer.","french":"Je suis un bon nageur."}
+{"german":"Der Kaffee ist hei\u00df.","french":"Le caf\u00e9 est chaud."}
+{"german":"Sie ist eine kluge Frau.","french":"Elle est une femme intelligente."}
+{"german":"Das Wetter ist sch\u00f6n.","french":"Le temps est beau."}
+{"german":"Er hat einen sch\u00f6nen Haus.","french":"Il a une belle maison."}
+{"german":"Die Party war gut.","french":"La f\u00eate \u00e9tait bien."}
+{"german":"Ich bin ein guter L\u00e4ufer.","french":"Je suis un bon coureur."}
+{"german":"Sie mag Kochen.","french":"Elle aime cuisiner."}
+{"german":"Das Meer ist blau.","french":"La mer est bleue."}
+{"german":"Die Nachbarschaft ist ruhig.","french":"Le quartier est calme."}
+{"german":"Er ist ein guter L\u00e4ufer.","french":"Il est un bon coureur."}
+{"german":"Guten Morgen!","french":"Bonjour!"}
+{"german":"Wie geht es Ihnen?","french":"Comment allez-vous?"}
+{"german":"Ich mag Fu\u00dfball.","french":"J'aime le football."}
+{"german":"Die Berliner Mauer fiel 1989 ein.","french":"Le mur de Berlin est tomb\u00e9 en 1989."}
+{"german":"Die Eiffelturm ist ein Symbol von Paris.","french":"La Tour Eiffel est un symbole de Paris."}
+{"german":"Ich esse gerne Pizza.","french":"J'aime manger des pizzas."}
+{"german":"Die Geschichte von Deutschland ist sehr reich.","french":"L'histoire de l'Allemagne est tr\u00e8s riche."}
+{"german":"Der Tag davor war Sonntag.","french":"Hier \u00e9tait dimanche."}
+{"german":"Ich bin ein Student.","french":"Je suis \u00e9tudiant(e)."}
+{"german":"Spanien ist ein sch\u00f6nes Land.","french":"L'Espagne est un beau pays."}
+{"german":"Wir gehen morgen ins Kino.","french":"Nous allons au cin\u00e9ma demain."}
+{"german":"Er spielt gerne Fu\u00dfball.","french":"Il aime jouer au football."}
+{"german":"Sie liebt das Lesen.","french":"Elle aime lire."}
+{"german":"Ich habe Hunger.","french":"J'ai faim."}
+{"german":"Wann treffen wir uns?","french":"\u00c0 quelle heure nous rencontrerons-nous ?"}
+{"german":"Es regnet heute.","french":"Il pleut aujourd'hui."}
+{"german":"Der Sonntag war ein sch\u00f6ner Tag.","french":"Le dimanche \u00e9tait une belle journ\u00e9e."}
+{"german":"Ich bin heute m\u00fcde.","french":"Je suis fatigu\u00e9(e) aujourd'hui."}
+{"german":"Die Universit\u00e4t ist gro\u00df.","french":"L'universit\u00e9 est grande."}
+{"german":"Wir fahren oft ins Kino.","french":"Nous allons souvent au cin\u00e9ma."}
+{"german":"Die Oper ist sehr sch\u00f6n.","french":"L'op\u00e9ra est tr\u00e8s beau."}
+{"german":"Ich liebe es, Musik zu h\u00f6ren.","french":"J'aime \u00e9couter de la musique."}
+{"german":"Es ist kalt heute.","french":"Il fait froid aujourd'hui."}
+{"german":"Wir haben ein sch\u00f6nes Haus.","french":"Nous avons une belle maison."}
+{"german":"Er ist ein guter Lehrer.","french":"Il est un bon professeur."}
+{"german":"Sie ist eine gute Sch\u00fclerin.","french":"Elle est une bonne \u00e9l\u00e8ve."}
+{"german":"Ich bin Lehrerin.","french":"Je suis professeure."}
+{"german":"Sie ist Ballerina.","french":"Elle est ballerine."}
+{"german":"Es ist sch\u00f6n, am Strand zu liegen.","french":"C'est beau de se promener sur la plage."}
+{"german":"Der Strand ist sch\u00f6n.","french":"La plage est belle."}
+{"german":"Ich mag Schwimmen.","french":"J'aime nager."}
+{"german":"Ich mag klassische Musik.","french":"J'aime la musique classique."}
+{"german":"Er ist ein guter Tenor.","french":"Il est un bon t\u00e9nor."}
+{"german":"Die Konzertsaal ist gro\u00df.","french":"La salle de concert est grande."}
+{"german":"Es ist sch\u00f6n, im Park zu spazieren.","french":"C'est agr\u00e9able de se promener dans le parc."}
+{"german":"Ich mag Reb.","french":"J'aime le vin."}
+{"german":"Er ist ein guter Weing\u00e4rtner.","french":"Il est un bon viticulteur."}
+{"german":"Die Weing\u00e4rten sind sch\u00f6n.","french":"Les vignobles sont beaux."}
+{"german":"Ich mag Kochen.","french":"J'aime cuisiner."}
+{"german":"Wir gehen oft in die K\u00fcche.","french":"Nous allons souvent en cuisine."}
+{"german":"Das Essen ist lecker.","french":"Le plat est d\u00e9licieux."}
+{"german":"Die K\u00fcche ist gro\u00df.","french":"La cuisine est grande."}
+{"german":"Die Kultur von Paris ist sehr reich.","french":"La culture de Paris est tr\u00e8s riche."}
+{"german":"Der Louvre ist ein gro\u00dfes Museum.","french":"Le Louvre est un grand mus\u00e9e."}
+{"german":"Ich liebe es, Gem\u00e4lde zu sehen.","french":"J'aime voir des tableaux."}
+{"german":"Er ist ein guter Maler.","french":"Il est un bon peintre."}
+{"german":"Die Galerie ist gro\u00df.","french":"La galerie est grande."}
+{"german":"Es ist sch\u00f6n, im Museum zu sein.","french":"C'est agr\u00e9able d'\u00eatre au mus\u00e9e."}
+{"german":"Ich mag alte Bilder.","french":"J'aime les anciennes peintures."}
+{"german":"Er ist ein guter Kurator.","french":"Il est un bon conservateur."}
+{"german":"Die Gem\u00e4lde sind sch\u00f6n.","french":"Les tableaux sont beaux."}
+{"german":"Ich mag es, Geschichte zu lernen.","french":"J'aime apprendre l'histoire."}
+{"german":"Es ist sch\u00f6n, auf dem Campus zu sein.","french":"C'est agr\u00e9able d'\u00eatre sur le campus."}
+{"german":"Ich mag die Bibliothek.","french":"J'aime la biblioth\u00e8que."}
+{"german":"Er ist ein guter Bibliothekar.","french":"Il est un bon biblioth\u00e9caire."}
+{"german":"Die B\u00fccher sind interessant.","french":"Les livres sont int\u00e9ressants."}
+{"german":"Ich mag es, zu lesen.","french":"J'aime lire."}
+{"german":"Er ist ein guter Schriftsteller.","french":"Il est un bon \u00e9crivain."}
+{"german":"Die B\u00fccher sind gro\u00dfartig.","french":"Les livres sont g\u00e9niaux."}
+{"german":"Die Weltcupfinal war gro\u00dfartig.","french":"Le match final du Mondial \u00e9tait g\u00e9nial."}
+{"german":"Das Stadion ist gro\u00df.","french":"Le stade est grand."}
+{"german":"Es ist sch\u00f6n, Fu\u00dfball zu spielen.","french":"C'est agr\u00e9able de jouer au football."}
+{"german":"Ich mag es, Fu\u00dfball zu schauen.","french":"J'aime regarder le football."}
+{"german":"Er ist ein guter Fu\u00dfballkommentator.","french":"Il est un bon commentateur de football."}
+{"german":"Die Spiele waren gro\u00dfartig.","french":"Les matchs \u00e9taient g\u00e9niaux."}
+{"german":"Die Geschichte von M\u00fcnchen ist sehr reich.","french":"L'histoire de Munich est tr\u00e8s riche."}
+{"german":"Der Allianz-Arena ist ein gro\u00dfes Stadion.","french":"L'Allianz Arena est un grand stade."}
+{"german":"Ich liebe es, Fu\u00dfball zu sehen.","french":"J'aime regarder le football."}
+{"german":"Fu\u00dfball ist meine Lieblingsbesch\u00e4ftigung.**\n   **","french":"Le football est ma passion.**"}
+{"german":"Die deutsche K\u00fcche ist bekannt f\u00fcr ihre w\u00fcrzigen Gerichte.**\n   **","french":"La cuisine allemande est c\u00e9l\u00e8bre pour ses plats \u00e9pic\u00e9s.**"}
+{"german":"Das Berliner Prenzlauer Berg ist ein wundersch\u00f6ner Ort.**\n   **","french":"Le Prenzlauer Berg de Berlin est un endroit magnifique.**"}
+{"german":"Ich habe gestern den Eiffelturm bestiegen.**\n   **","french":"J'ai mont\u00e9 le Tour Eiffel hier.**"}
+{"german":"Mozart war ein gro\u00dfartiger Komponist.**\n   **","french":"Mozart \u00e9tait un compositeur g\u00e9nial.**"}
+{"german":"Das deutsche Wetter kann sehr unvorhersehbar sein.**\n   **","french":"Le temps allemand peut \u00eatre tr\u00e8s impr\u00e9visible.**"}
+{"german":"Wir gehen morgen ins Kino.**\n   **","french":"Nous allons au cin\u00e9ma demain.**"}
+{"german":"Die Oper in Paris ist sehr bekannt.**\n   **","french":"L'Op\u00e9ra de Paris est tr\u00e8s connu.**"}
+{"german":"Ich liebe die deutsche Literatur.**\n   **","french":"J'aime la litt\u00e9rature allemande.**"}
+{"german":"Die deutsche Geschichte ist sehr reich.**\n    **","french":"L'histoire allemande est tr\u00e8s riche.**"}
+{"german":"Ich esse gerne gesunde Mahlzeiten.**\n    **","french":"J'aime manger des repas sains.**"}
+{"german":"Das Reichstag in Berlin ist ein historisches Geb\u00e4ude.**\n    **","french":"Le Reichstag \u00e0 Berlin est un b\u00e2timent historique.**"}
+{"german":"Der Spreeflu\u00df flie\u00dft durch Berlin.**\n    **","french":"La rivi\u00e8re Spree traverse Berlin.**"}
+{"german":"Die deutsche Kultur ist sehr einzigartig.**\n    **","french":"La culture allemande est tr\u00e8s unique.**"}
+{"german":"Ich mag Tanzen, aber ich kann nicht viel.**\n    **","french":"J'aime danser, mais je ne peux pas beaucoup.**"}
+{"german":"Die deutsche Sprache ist sehr komplex.**\n    **","french":"La langue allemande est tr\u00e8s complexe.**"}
+{"german":"Die deutsche Armee hat eine lange Tradition.**\n    **","french":"L'arm\u00e9e allemande a une longue tradition.**"}
+{"german":"Ich bin froh, heute Sonntag zu sein.**\n    **","french":"Je suis heureux d'\u00eatre dimanche.**"}
+{"german":"Der Brandenburger Tor ist ein Symbol von Berlin.**\n    **","french":"Le Porte de Brandebourg est un symbole de Berlin.**"}
+{"german":"Ich schaue gerne Nachrichten.**\n    **","french":"J'aime regarder la t\u00e9l\u00e9vision.**"}
+{"german":"Die deutsche Musik ist einzigartig.**\n    **","french":"La musique allemande est unique.**"}
+{"german":"Das deutsche Wirtschaftswunder ist bekannt.**\n    **","french":"Le miracle \u00e9conomique allemand est connu.**"}
+{"german":"Ich liebe es, im Park zu spazieren.**\n    **","french":"J'aime promener dans le parc.**"}
+{"german":"Die deutsche Geschichte ist voller Konflikte.**\n    **","french":"L'histoire allemande est pleine de conflits.**"}
+{"german":"Ich esse gerne Kartoffelsalat.**\n    **","french":"J'aime manger salade de pommes de terre.**"}
+{"german":"Das Berliner Museum ist interessant.**\n    **","french":"Le mus\u00e9e de Berlin est int\u00e9ressant.**"}
+{"german":"Die deutsche Sprache hat viele Dialekte.**\n    **","french":"La langue allemande a de nombreux dialectes.**"}
+{"german":"Ich habe einen deutschen Freund.**\n    **","french":"J'ai un ami allemand.**"}
+{"german":"Der Berliner Dom ist ein ber\u00fchmtes Bauwerk.**\n    **","french":"Le Berliner Dom est un monument c\u00e9l\u00e8bre.**"}
+{"german":"Ich mag den Film \"Inception\".**\n    **","french":"J'aime le film \"Inception\".**"}
+{"german":"Die deutsche Literatur ist reich an Meistern.**\n    **","french":"La litt\u00e9rature allemande est riche en ma\u00eetres.**"}
+{"german":"Ich mag den Winter in Deutschland.**\n    **","french":"J'aime l'hiver en Allemagne.**"}
+{"german":"Die deutsche Geschichte ist voller Abenteuer.**\n    **","french":"L'histoire allemande est pleine d'aventures.**"}
+{"german":"Ich liebe es, die Alpen zu besteigen.**\n    **","french":"J'aime grimper dans les Alpes.**"}
+{"german":"Die deutsche Nachkriegsgeneration hat einen gro\u00dfen Einfluss.**\n    **","french":"La g\u00e9n\u00e9ration post-guerre allemande a un grand impact.**"}
+{"german":"Ich mag \u00f6stliche K\u00fcche.**\n    **","french":"J'aime la cuisine d'Asie de l'Est.**"}
+{"german":"Die deutsche Kultur hat viele Einfl\u00fcsse.**\n    **","french":"La culture allemande a de nombreuses influences.**"}
+{"german":"Ich esse gerne Kartoffeln.**\n    **","french":"J'aime manger des pommes de terre.**"}
+{"german":"Der Berliner Zoo ist sch\u00f6n.**\n    **","french":"Le zoo de Berlin est beau.**"}
+{"german":"Die deutsche Geschichte ist komplex.**\n    **","french":"L'histoire allemande est complexe.**"}
+{"german":"Ich mag die deutsche Sprache.**\n    **","french":"J'aime la langue allemande.**"}
+{"german":"Das deutsche Volk ist freundlich.**\n    **","french":"Le peuple allemand est gentil.**"}
+{"german":"Der Spreeflu\u00df ist ein wichtiger Teil von Berlin.**\n    **","french":"La rivi\u00e8re Spree est une partie importante de Berlin.**"}
+{"german":"Ich liebe es, Reisen zu machen.**\n    **","french":"J'aime voyager.**"}
+{"german":"Die deutsche Armee hilft oft bei Katastrophen.**\n    **","french":"L'arm\u00e9e allemande aide souvent lors de catastrophes.**"}
+{"german":"Ich esse gerne Currywurst.**\n    **","french":"J'aime manger des currywurst.**"}
+{"german":"Die deutsche Nachkriegszeit war schwierig.**\n    **","french":"La p\u00e9riode post-guerre en Allemagne \u00e9tait difficile.**"}
+{"german":"Ich mag den Sommer in Deutschland.**\n    **","french":"J'aime l'\u00e9t\u00e9 en Allemagne.**"}
+{"german":"Die deutsche Geschichte ist voller Heroen.**\n    **","french":"L'histoire allemande est pleine de h\u00e9ros.**"}
+{"german":"Ich esse gerne Bratwurst.**\n    **","french":"J'aime manger des bratwurst.**"}
+{"german":"Die deutsche Kultur ist reich an Traditionen.**\n    **","french":"La culture allemande est riche en traditions.**"}
+{"german":"Ich mag den Film \"Schindler's Liste\".**\n    **","french":"J'aime le film \"Schindler's List\".**"}
+{"german":"Die deutsche Literatur hat viele Klassiker.**\n    **","french":"La litt\u00e9rature allemande a de nombreux classiques.**"}
+{"german":"Ich liebe es, im Winter zu skifahren.**\n    **","french":"J'aime skier en hiver.**"}
+{"german":"Die deutsche Geschichte ist voller Ver\u00e4nderungen.**\n    **","french":"L'histoire allemande est pleine de changements.**"}
+{"german":"Ich esse gerne Sauerkraut.**\n    **","french":"J'aime manger du choucroute.**"}
+{"german":"Die deutsche Nachkriegszeit war ein wichtiger Zeitpunkt.**\n    **","french":"La p\u00e9riode post-guerre a \u00e9t\u00e9 un moment important.**"}
+{"german":"Ich mag den Film \"The Lives of Others\".**\n    **","french":"J'aime le film \"Les Vies des autres\".**"}
+{"german":"Die deutsche Musik hat viele Einfl\u00fcsse.**\n    **","french":"La musique allemande a de nombreuses influences.**"}
+{"german":"Ich esse gerne Rinderroulade.**\n    **","french":"J'aime manger des roulades de b\u0153uf.**"}
+{"german":"Die deutsche Geschichte ist voller Kriege.**\n    **","french":"L'histoire allemande est pleine de guerres.**"}
+{"german":"Ich liebe es, im Sommer zu baden.**\n    **","french":"J'aime nager en \u00e9t\u00e9.**"}
+{"german":"Ich esse gerne Schnitzel.**\n    **","french":"J'aime manger des schnitzels.**"}
+{"german":"Die deutsche Literatur hat viele Meisterst\u00fccke.**\n    **","french":"La litt\u00e9rature allemande a de nombreux chefs-d'\u0153uvre.**"}
+{"german":"Ich liebe es, im Winter zu wandern.**\n    **","french":"J'aime marcher en hiver.**"}
+{"german":"Die deutsche Geschichte ist voller Revolutionen.**\n    **","french":"L'histoire allemande est pleine de r\u00e9volutions.**"}
+{"german":"Ich esse gerne D\u00f6ner.**\n    **","french":"J'aime manger du d\u00f6ner.**"}
+{"german":"Ich liebe es, im Sommer zu schwimmen.**\n    **","french":"J'aime nager en \u00e9t\u00e9.**"}
+{"german":"Die deutsche Geschichte ist voller Wendezeiten.**\n    **","french":"L'histoire allemande est pleine de moments de rebroussement.**"}
+{"german":"Ich liebe es, im Winter zu skiern.**\n    **","french":"J'aime skier en hiver.**"}
+{"german":"Die deutsche Geschichte ist voller Aufbr\u00fcche.**\n    **","french":"L'histoire allemande est pleine de ruptures.**"}
+{"german":"Ich esse gerne Rindfleisch.**\n    **","french":"J'aime manger du b\u0153uf.**"}
+{"german":"Ich liebe es, im Sommer zu liegen.**\n    **","french":"J'aime faire du bateau en \u00e9t\u00e9.**"}
+{"german":"Ich esse gerne Goulash.**\n    **","french":"J'aime manger du goulash.**"}
+{"german":"Ich liebe es, im Winter im Freien zu sein.**\n    **","french":"J'aime \u00eatre dehors en hiver.**"}
+{"german":"Die deutsche Geschichte ist voller Herausforderungen.**\n    **","french":"L'histoire allemande est pleine de d\u00e9fis.**"}
+{"german":"Ich esse gerne Fleisch.**\n    **","french":"J'aime manger de la viande.**"}
+{"german":"Ich liebe es, im Sommer im Garten zu sitzen.**\n    **","french":"J'aime m'asseoir dans le jardin en \u00e9t\u00e9.**"}
+{"german":"Die deutsche Geschichte ist voller Transformationen.**\n    **","french":"L'histoire allemande est pleine de transformations.**"}
+{"german":"Ich esse gerne Pommes de Terre.**\n    **","french":"J'aime manger des pommes de terre.**"}
+{"german":"Ich liebe es, im Winter zu lesen.**\n    **","french":"J'aime lire en hiver.**"}
+{"german":"Die deutsche Geschichte ist voller Widerst\u00e4nde.**\n    **","french":"L'histoire allemande est pleine de r\u00e9sistances.**"}
+{"german":"Ich esse gerne Kartoffelsuppe.**\n    **","french":"J'aime manger de la soupe de pommes de terre.**"}
+{"german":"Ich liebe es, im Sommer zu tanzen.**\n    **","french":"J'aime danser en \u00e9t\u00e9.**"}
+{"german":"Ich liebe es, im Winter zu singen.**\n    **","french":"J'aime chanter en hiver.**"}
+{"german":"Die deutsche Geschichte ist voller Erlebnisse.**\n    **","french":"L'histoire allemande est pleine d'exp\u00e9riences.**"}
+{"german":"Die Berliner Mauer ist gest\u00fcrzt.","french":"Le mur de Berlin est tomb\u00e9."}
+{"german":"Ihr Restaurant ist sehr lecker.","french":"Votre restaurant est tr\u00e8s d\u00e9licieux."}
+{"german":"Der Eiffelturm ist ein Parisikoon.","french":"La tour Eiffel est une ic\u00f4ne de Paris."}
+{"german":"Sie hat eine wundersch\u00f6ne Brille.","french":"Elle a des lunettes magnifiques."}
+{"german":"Ich mag Kaffee.","french":"J'aime le caf\u00e9."}
+{"german":"Der Tag ist sonnig.","french":"Il fait soleil."}
+{"german":"Er studiert Geschichte.","french":"Il \u00e9tudie l'histoire."}
+{"german":"Sie ist Lehrerin.","french":"Elle est professeure."}
+{"german":"Das Auto ist neu.","french":"La voiture est neuve."}
+{"german":"Ich esse gerne Pizza.","french":"J'aime manger de la pizza."}
+{"german":"Die Reise war entspannend.","french":"Le voyage a \u00e9t\u00e9 relaxant."}
+{"german":"Sie arbeitet als Arzt.","french":"Il travaille m\u00e9decin."}
+{"german":"Das Museum ist gro\u00df.","french":"Le mus\u00e9e est grand."}
+{"german":"Ich liebe Musik.","french":"J'aime la musique."}
+{"german":"Sie wohnt in Berlin.","french":"Elle habite \u00e0 Berlin."}
+{"german":"Er ist ein guter Freund.","french":"Il est un bon ami."}
+{"german":"Wir gehen heute ins Kino.","french":"Nous allons au cin\u00e9ma aujourd'hui."}
+{"german":"Die Hochzeit war toll.","french":"Le mariage a \u00e9t\u00e9 g\u00e9nial."}
+{"german":"Sie hat einen wundersch\u00f6nen Garten.","french":"Elle a un jardin magnifique."}
+{"german":"Das Konzert war toll.","french":"Le concert a \u00e9t\u00e9 g\u00e9nial."}
+{"german":"Sie liebt Tanzen.","french":"Elle aime danser."}
+{"german":"Das Essen war lecker.","french":"Le repas a \u00e9t\u00e9 d\u00e9licieux."}
+{"german":"Der Film war spannend.","french":"Le film a \u00e9t\u00e9 int\u00e9ressant."}
+{"german":"Sie hat einen wundersch\u00f6nen Haaransatz.","french":"Elle a une magnifique tignasse."}
+{"german":"Er ist ein guter Architekt.","french":"Il est un bon architecte."}
+{"german":"Das Essen war sehr lecker.","french":"Le repas a \u00e9t\u00e9 tr\u00e8s d\u00e9licieux."}
+{"german":"Sie liebt Lesen.","french":"Elle aime lire."}
+{"german":"Er ist ein guter Pilot.","french":"Il est un bon pilote."}
+{"german":"Das Konzert war gro\u00dfartig.","french":"Le concert a \u00e9t\u00e9 fantastique."}
+{"german":"Sie liebt Malen.","french":"Elle aime peindre."}
+{"german":"Er ist ein guter Fotograf.","french":"Il est un bon photographe."}
+{"german":"Das Essen war wunderbar.","french":"Le repas a \u00e9t\u00e9 merveilleux."}
+{"german":"Die Mauer von Jericho fiel einst.","french":"Les murs de J\u00e9richo sont tomb\u00e9s autrefois."}
+{"german":"Er ist ein Tennisplayer.","french":"Il est un joueur de tennis."}
+{"german":"Die Reise war abenteuerlich.","french":"Le voyage a \u00e9t\u00e9 aventureux."}
+{"german":"Sie ist ein K\u00fcnstler.","french":"Elle est artiste."}
+{"german":"Er ist ein Schwimmer.","french":"Il est nageur."}
+{"german":"Das Essen war k\u00f6stlich.","french":"Le repas a \u00e9t\u00e9 d\u00e9licieux."}
+{"german":"Er ist ein Radfahrer.","french":"Il est cycliste."}
+{"german":"Die Reise war erfrischend.","french":"Le voyage a \u00e9t\u00e9 rafra\u00eechissant."}
+{"german":"Sie ist eine Schauspielerin.","french":"Elle est actrice."}
+{"german":"Er ist ein Skifahrer.","french":"Il est skieur."}
+{"german":"Die Reise war wundersch\u00f6n.","french":"Le voyage a \u00e9t\u00e9 magnifique."}
+{"german":"Er ist ein Wanderser.","french":"Il est randonneur."}
+{"german":"Er ist ein Koch.","french":"Il est cuisinier."}
+{"german":"Er ist ein Fotograf.","french":"Il est photographe."}
+{"german":"Er ist ein Maler.","french":"Il est peintre."}
+{"german":"Er ist ein Musiker.","french":"Il est musicien."}
+{"german":"Er ist ein K\u00fcnstler.","french":"Il est artiste."}
+{"german":"Guten Morgen!\n   -","french":"Bonjour!\n   \n   - German: Wie geht es Ihnen?\n   -"}
+{"german":"Fu\u00dfball ist meine Lieblings-Sportart.\n   -","french":"Le football est mon sport pr\u00e9f\u00e9r\u00e9.\n   \n   - German: Ich treibe Basketball.\n   -"}
+{"german":"Die Eifelturm ist ein Symbol von Paris.\n   -","french":"La Tour Eiffel est un symbole de Paris.\n   \n   - German: Das Colosseum in Rom ist beeindruckend.\n   -"}
+{"german":"Ich esse gerne Pasta.\n   -","french":"J'aime manger de la p\u00e2tes.\n   \n   - German: Was f\u00fcr ein sch\u00f6ner Tag!\n   -"}
+{"german":"Der Alte und der Neue Teil von Berlin sind sehr unterschiedlich.\n   -","french":"La vieille et la nouvelle partie de Berlin sont tr\u00e8s diff\u00e9rentes.\n   \n   - German: Das Louvre ist ein ber\u00fchmter Museum in Paris.\n   -"}
+{"german":"Ich plane meinen Urlaub in Frankreich.\n   -","french":"Je planifie mes vacances en France.\n   \n   - German: Die deutsche Bahn ist sehr gut.\n   -"}
+{"german":"Ich trinke gerne Kaffee.\n   -","french":"J'aime boire du caf\u00e9.\n   \n   - German: Die deutsche K\u00fcche ist bekannt f\u00fcr ihr Bratwurst.\n   -"}
+{"german":"Es regnet heute.\n   -","french":"Il pleut aujourd'hui.\n   \n   - German: Heute ist es sehr hei\u00df.\n   -"}
+{"german":"Ich habe ein neues Smartphone.\n   -","french":"J'ai un nouveau smartphone.\n   \n   - German: Ich liebe es, mit dem Computer zu arbeiten.\n   -"}
+{"german":"Ich sehe gerne Filme.\n    -","french":"J'aime regarder des films.\n    \n    - German: Ich freue mich \u00fcber Musik.\n    -"}
+{"german":"Ich kaufe gerne B\u00fccher.\n    -","french":"J'aime acheter des livres.\n    \n    - German: Ich habe ein neues Kleid gekauft.\n    -"}
+{"german":"Die Natur in Deutschland ist sehr sch\u00f6n.\n    -","french":"La nature en Allemagne est tr\u00e8s belle.\n    \n    - German: Ich liebe es, im Wald zu spazieren.\n    -"}
+{"german":"Ich bin Student an der Universit\u00e4t.\n    -","french":"Je suis \u00e9tudiant(e) \u00e0 l'universit\u00e9.\n    \n    - German: Die Schule beginnt um 8 Uhr.\n    -"}
+{"german":"Ich habe ein neues Smartphone.\n    -","french":"J'ai un nouveau smartphone.\n    \n    - German: Ich liebe es, mit meinem Laptop zu arbeiten.\n    -"}
+{"german":"Ich mache den Sp\u00fclraum sauber.\n    -","french":"Je nettoie la cuisine.\n    \n    - German: Die Wohnung ist ordentlich eingerichtet.\n    -"}
+{"german":"Ich liebe Paris.","french":"J'aime Paris."}
+{"german":"Der Eiffelturm ist sehr ber\u00fchmt.","french":"La Tour Eiffel est tr\u00e8s c\u00e9l\u00e8bre."}
+{"german":"Fu\u00dfball ist mein Lieblingssport.","french":"Le football est mon sport pr\u00e9f\u00e9r\u00e9."}
+{"german":"Die Reichstag-Bibliothek ist gro\u00df.","french":"La biblioth\u00e8que du Reichstag est grande."}
+{"german":"Sie studiert Geschichte.","french":"Elle \u00e9tudie l'histoire."}
+{"german":"Was m\u00f6chten Sie heute essen?","french":"Que voulez-vous manger aujourd'hui?"}
+{"german":"Der Spass ist nicht langweilig.","french":"C'est amusant et int\u00e9ressant."}
+{"german":"Die Reise war sehr erf\u00fcllend.","french":"Le voyage a \u00e9t\u00e9 tr\u00e8s gratifiant."}
+{"german":"Er ist ein gro\u00dfartiger Koch.","french":"Il est un excellent cuisinier."}
+{"german":"Sie liebt es, im Park zu spazieren.","french":"Elle aime se promener dans le parc."}
+{"german":"Das Wetter heute ist sch\u00f6n.","french":"Le temps est beau aujourd'hui."}
+{"german":"Ich habe heute eine Pr\u00e4sentation.","french":"J'ai une pr\u00e9sentation aujourd'hui."}
+{"german":"Der Sonnenuntergang ist wundersch\u00f6n.","french":"Le coucher de soleil est magnifique."}
+{"german":"Er hat einen neuen Job bekommen.","french":"Il a obtenu un nouveau poste."}
+{"german":"Die Bauernmarkt ist jeden Sonntag ge\u00f6ffnet.","french":"Le march\u00e9 aux puces est ouvert tous les dimanches."}
+{"german":"Ich habe heute ein Buch gelesen.","french":"J'ai lu un livre aujourd'hui."}
+{"german":"Sie ist eine tolle Person.","french":"Elle est une personne formidable."}
+{"german":"Das Konzert war gro\u00dfartig.","french":"Le concert a \u00e9t\u00e9 formidable."}
+{"german":"Die Universit\u00e4t ist sehr bekannt.","french":"L'universit\u00e9 est tr\u00e8s r\u00e9put\u00e9e."}
+{"german":"Sie spielt gerne Tennis.","french":"Elle aime jouer au tennis."}
+{"german":"Er ist ein guter Reiseleiter.","french":"Il est un bon guide touristique."}
+{"german":"Das Museum ist sehr interessant.","french":"Le mus\u00e9e est tr\u00e8s int\u00e9ressant."}
+{"german":"Sie hat eine neue Wohnung gefunden.","french":"Elle a trouv\u00e9 une nouvelle maison."}
+{"german":"Der Berghain ist ein bekannter Club.","french":"Le Berghain est un club c\u00e9l\u00e8bre."}
+{"german":"Ich habe heute ein neues Hemd gekauft.","french":"J'ai achet\u00e9 un nouveau pull aujourd'hui."}
+{"german":"Sie liebt es, Malerei zu machen.","french":"Elle aime peindre."}
+{"german":"Das Konzert war voller Menschen.","french":"Le concert \u00e9tait bond\u00e9."}
+{"german":"Die Konferenz ist morgen.","french":"La conf\u00e9rence est demain."}
+{"german":"Sie hat ein neues Auto gekauft.","french":"Elle a achet\u00e9 une nouvelle voiture."}
+{"german":"Er hat ein neues Buch gelesen.","french":"Il a lu un nouveau livre."}
+{"german":"Die Konzertb\u00fchne war gro\u00dfartig.","french":"La sc\u00e8ne de concert \u00e9tait fantastique."}
+{"german":"Das Museum war sehr bemenschet.","french":"Le mus\u00e9e \u00e9tait tr\u00e8s fr\u00e9quent\u00e9."}
+{"german":"Die Konferenz war sehr interessant.","french":"La conf\u00e9rence \u00e9tait tr\u00e8s int\u00e9ressante."}
+{"german":"Als Teenager war ich ein guter Fu\u00dfballspieler.","french":"Je suis devenu un bon footballeur en tant qu'adolescent."}
+{"german":"Sie hat eine tolle Familie.","french":"Elle a une famille formidable."}
+{"german":"Die Stadt hat viele Sehensw\u00fcrdigkeiten.","french":"La ville a de nombreux sites touristiques."}
+{"german":"Wir haben heute einen sch\u00f6nen Spaziergang gemacht.","french":"Nous avons fait une promenade agr\u00e9able aujourd'hui."}
+{"german":"Er hat eine neue Wohnung gefunden.","french":"Il a trouv\u00e9 une nouvelle maison."}
+{"german":"Sie mag Musik.","french":"Elle aime la musique."}
+{"german":"Ich habe heute ein Buch gelesen.","french":"J'ai lu un livro aujourd'hui."}
+{"german":"Ich mag Kaffee am Morgen.","french":"J'aime le caf\u00e9 le matin."}
+{"german":"Das Essen in Paris ist wundersch\u00f6n.","french":"La cuisine \u00e0 Paris est magnifique."}
+{"german":"Die Eiffelturm ist ein ber\u00fchmter Sehensw\u00fcrdigkeit.","french":"La Tour Eiffel est une c\u00e9l\u00e8bre attraction touristique."}
+{"german":"Das Wetter ist heute sehr gut.","french":"Le temps est tr\u00e8s beau aujourd'hui."}
+{"german":"Ich bin auf dem Weg zum Arzt.","french":"Je vais chez le m\u00e9decin."}
+{"german":"Er besucht uns oft.","french":"Il nous visite souvent."}
+{"german":"Hast du heute Zeit?","french":"Avez-vous du temps aujourd'hui ?"}
+{"german":"Der Wein von Bordeaux ist ber\u00fchmt.","french":"Le vin de Bordeaux est c\u00e9l\u00e8bre."}
+{"german":"Ich liebe es, in der Bibliothek zu lesen.","french":"J'aime lire dans la biblioth\u00e8que."}
+{"german":"Wir haben gestern ins Restaurant gegangen.","french":"Nous sommes all\u00e9s au restaurant hier."}
+{"german":"Lass uns morgen wieder treffen.","french":"R\u00e9unissons-nous \u00e0 nouveau demain."}
+{"german":"Mein Lieblingsbuch ist \"Der Ring des Nibelungen\".","french":"Mon livre pr\u00e9f\u00e9r\u00e9 est \"Le Ring des Nibelungen\"."}
+{"german":"Die Champs-\u00c9lys\u00e9es sind bekannt f\u00fcr ihre Feuertouren.","french":"Les Champs-\u00c9lys\u00e9es sont c\u00e9l\u00e8bres pour leurs courses de voitures."}
+{"german":"Ich habe heute viel gearbeitet.","french":"J'ai beaucoup travaill\u00e9 aujourd'hui."}
+{"german":"Die Geschichte von Reims ist faszinierend.","french":"L'histoire de Reims est fascinante."}
+{"german":"Der Vatikan ist eine kleine aber wichtige Stadt.","french":"Le Vatican est une petite mais importante ville."}
+{"german":"Es gibt viele Museen in Berlin.","french":"Il y a de nombreux mus\u00e9es \u00e0 Berlin."}
+{"german":"Ich mag es, Spazieren zu gehen.","french":"J'aime promener."}
+{"german":"Der Colis\u00e9e ist ein historisches Geb\u00e4ude.","french":"Le Colis\u00e9e est un b\u00e2timent historique."}
+{"german":"Wir fahren im Auto.","french":"Nous allons en voiture."}
+{"german":"Es ist schon sp\u00e4t.","french":"Il est d\u00e9j\u00e0 tard."}
+{"german":"Der Strand ist wundersch\u00f6n.","french":"La plage est magnifique."}
+{"german":"Ich habe letzte Woche Urlaub genommen.","french":"J'ai pris des vacances la semaine derni\u00e8re."}
+{"german":"Das deutsche Bier ist lecker.","french":"La bi\u00e8re allemande est d\u00e9licieuse."}
+{"german":"Sie spielt Klavier.","french":"Elle joue du piano."}
+{"german":"Wie hei\u00dft dein Hund?","french":"Comment s'appelle ton chien ?"}
+{"german":"Die Leute in Paris sind freundlich.","french":"Les gens \u00e0 Paris sont amicaux."}
+{"german":"Er hat einen sch\u00f6nen Garten.","french":"Il a un joli jardin."}
+{"german":"Das Konzert gestern war gro\u00dfartig.","french":"Le concert hier \u00e9tait magnifique."}
+{"german":"Wir werden morgen ins Schwimmbad gehen.","french":"Nous irons au\u6e38\u6cf3 dimanche."}
+{"german":"Das ist mein Lieblingsessen.","french":"C'est mon plat pr\u00e9f\u00e9r\u00e9."}
+{"german":"Er mag es, auf's Dach zu steigen.","french":"Il aime monter sur le toit."}
+{"german":"Die Franzosen lieben ihren Kaffee.","french":"Les Fran\u00e7ais aiment leur caf\u00e9."}
+{"german":"Sie liebt es, Kochen zu lernen.","french":"Elle aime apprendre \u00e0 cuisiner."}
+{"german":"Das ist die K\u00f6nigsburg.","french":"C'est la Ch\u00e2teau de la Cit\u00e9."}
+{"german":"Wir haben gesungen.","french":"Nous avons chant\u00e9."}
+{"german":"Das ist mein Lieblingsspiel.","french":"C'est mon jeu pr\u00e9f\u00e9r\u00e9."}
+{"german":"Die Oper ist sch\u00f6n gespielt.","french":"L'op\u00e9ra est bien jou\u00e9."}
+{"german":"Wir haben heute ein sch\u00f6nes Wetter.","french":"Nous avons eu un beau temps aujourd'hui."}
+{"german":"Die Menschen in M\u00fcnchen trinken viel Bier.","french":"Les gens \u00e0 Munich boivent beaucoup de bi\u00e8re."}
+{"german":"Ich mag es, in der Natur zu wandern.","french":"J'aime marcher dans la nature."}
+{"german":"Das ist ein sch\u00f6nes Konzert.","french":"C'est un beau concert."}
+{"german":"Sie mag es, auf die Pl\u00e4tze zu gehen.","french":"Elle aime aller aux places."}
+{"german":"Die Burg ist im Norden Deutschlands.","french":"Le ch\u00e2teau est au nord de l'Allemagne."}
+{"german":"Er ist ein Freund von mir.","french":"Il est mon ami."}
+{"german":"Die Menschen in Frankreich trinken viel Kaffee.","french":"Les gens en France boivent beaucoup de caf\u00e9."}
+{"german":"Ich mag es, im Park zu sitzen.","french":"J'aime m'asseoir dans le parc."}
+{"german":"Das ist meine Lieblingsfarbe.","french":"C'est ma couleur pr\u00e9f\u00e9r\u00e9e."}
+{"german":"Er spielt Volleyball.","french":"Il joue au volleyball."}
+{"german":"Sie mag es, Tanzen zu lernen.","french":"Elle aime apprendre \u00e0 danser."}
+{"german":"Das ist die Eiffelturm.","french":"C'est la Tour Eiffel."}
+{"german":"Ich habe einen sch\u00f6nen Tag.","french":"J'ai eu une belle journ\u00e9e."}
+{"german":"Das Essen in Deutschland ist sehr lecker.","french":"La cuisine allemande est tr\u00e8s d\u00e9licieuse."}
+{"german":"Er mag es, Malen zu lernen.","french":"Il aime apprendre \u00e0 peindre."}
+{"german":"Die Menschen in Paris sind sehr freundlich.","french":"Les gens \u00e0 Paris sont tr\u00e8s amicaux."}
+{"german":"Das ist ein sch\u00f6ner Film.","french":"C'est un beau film."}
+{"german":"Ich habe heute einen sch\u00f6nen Tag.","french":"J'ai eu une belle journ\u00e9e aujourd'hui."}
+{"german":"Die Menschen in Frankreich trinken viel Wodka.","french":"Les gens en France boivent beaucoup de vodka."}
+{"german":"Er mag es, Schwimmen zu lernen.","french":"Il aime apprendre \u00e0 nager."}
+{"german":"Das ist das Louvre.","french":"C'est le Louvre."}
+{"german":"Die Menschen in Deutschland trinken viel Bier.","french":"Les gens en Allemagne boivent beaucoup de bi\u00e8re."}
+{"german":"Er mag es, Fu\u00dfball zu spielen.","french":"Il aime jouer au football."}
+{"german":"Die Menschen in Paris trinken viel Tee.","french":"Les gens \u00e0 Paris boivent beaucoup de th\u00e9."}
+{"german":"Er mag es, K\u00fchlschrank zu putzen.","french":"Il aime nettoyer le r\u00e9frig\u00e9rateur."}
+{"german":"Das ist der Colosseum.","french":"C'est le Colis\u00e9e."}
+{"german":"Er mag es, Fu\u00dfball zu lernen.","french":"Il aime apprendre \u00e0 jouer au football."}
+{"german":"Das ist der Champs-\u00c9lys\u00e9es.","french":"C'est les Champs-\u00c9lys\u00e9es."}
+{"german":"Die Menschen in Frankreich trinken viel Vin.","french":"Les gens en France boivent beaucoup de vin."}
+{"german":"Er mag es, Kochen zu lernen.","french":"Il aime apprendre \u00e0 cuisiner."}
+{"german":"Das ist der Eiffelturm.","french":"C'est la Tour Eiffel."}
+{"german":"Die Menschen in Paris trinken viel Kaffee.","french":"Les gens \u00e0 Paris boivent beaucoup de caf\u00e9."}
+{"german":"Er mag es, Tanzen zu lernen.","french":"Il aime apprendre \u00e0 danser."}
+{"german":"** Guten Morgen!\n   **","french":"** Bonjour!"}
+{"german":"** Wie geht es Ihnen?\n   **","french":"** Comment allez-vous?"}
+{"german":"** Ich liebe Musik.\n   **","french":"** J'aime la musique."}
+{"german":"** Er spielt Fu\u00dfball.\n   **","french":"** Il joue au football."}
+{"german":"** Sie sind heute sehr m\u00fcde.\n   **","french":"** Vous \u00eates tr\u00e8s fatigu\u00e9 aujourd'hui."}
+{"german":"** Das Restaurant ist sehr gut.\n   **","french":"** Le restaurant est tr\u00e8s bon."}
+{"german":"** Ich esse gerne Pasta.\n   **","french":"** J'aime manger de la p\u00e2tes."}
+{"german":"** Wie sp\u00e4t ist es?\n   **","french":"** Quelle heure est-il ?"}
+{"german":"** Das ist ein sch\u00f6ner Tag.\n   **","french":"** C'est une belle journ\u00e9e."}
+{"german":"** Ich gehe morgen ins Kino.\n    **","french":"** Je vais au cin\u00e9ma demain."}
+{"german":"** Das Museum war gro\u00dfartig.\n    **","french":"** Le mus\u00e9e \u00e9tait magnifique."}
+{"german":"** Wir feiern unser Hochzeitstage.\n    **","french":"** Nous c\u00e9l\u00e9brons notre anniversaire de mariage."}
+{"german":"** Er ist ein guter Koch.\n    **","french":"** Il est un bon cuisinier."}
+{"german":"** Wo ist dein Auto?\n    **","french":"** O\u00f9 est ta voiture ?"}
+{"german":"** Wir treffen uns um zw\u00f6lf Uhr.\n    **","french":"** Nous nous retrouvons \u00e0 twelve heures."}
+{"german":"** Sie hat sch\u00f6ne Augen.\n    **","french":"** Elle a des beaux yeux."}
+{"german":"** Ich mag keine Bananen.\n    **","french":"** Je n'aime pas les bananes."}
+{"german":"** Er l\u00e4uft jeden Tag.\n    **","french":"** Il court chaque jour."}
+{"german":"** Das ist mein Lieblingsbuch.\n    **","french":"** C'est mon livre pr\u00e9f\u00e9r\u00e9."}
+{"german":"** Sie spricht gut Franz\u00f6sisch.\n    **","french":"** Elle parle bien le fran\u00e7ais."}
+{"german":"** Der Berg ist sehr hoch.\n    **","french":"** La montagne est tr\u00e8s haute."}
+{"german":"** Wir reisen n\u00e4chste Woche.\n    **","french":"** Nous voyageons la semaine prochaine."}
+{"german":"** Das Essen war schlecht.\n    **","french":"** La nourriture \u00e9tait mauvaise."}
+{"german":"** Er hat einen gr\u00fcnen Mantel.\n    **","french":"** Il a un manteau vert."}
+{"german":"** Sie sind meine beste Freundin.\n    **","french":"** Tu es ma meilleure amie."}
+{"german":"** Ich bin m\u00fcde, ich gehe ins Bett.\n    **","french":"** Je suis fatigu\u00e9, je vais me coucher."}
+{"german":"** Das Wetter ist sonnig.\n    **","french":"** Il fait soleil."}
+{"german":"** Er arbeitet als Doktor.\n    **","french":"** Il travaille m\u00e9decin."}
+{"german":"** Wir sehen uns auf dem Konzert.\n    **","french":"** Nous nous verrons au concert."}
+{"german":"** Das ist mein Lieblingssong.\n    **","french":"** C'est ma chanson pr\u00e9f\u00e9r\u00e9e."}
+{"german":"** Die Geschichte war spannend.\n    **","french":"** L'histoire \u00e9tait passionnante."}
+{"german":"** Er hat eine Katze.\n    **","french":"** Il a un chat."}
+{"german":"** Ich lese gerne B\u00fccher.\n    **","french":"** J'aime lire des livres."}
+{"german":"** Wir fahren morgen ins Kino.\n    **","french":"** Nous allons au cin\u00e9ma demain."}
+{"german":"** Sie ist eine gute Kochin.\n    **","french":"** Elle est une bonne cuisini\u00e8re."}
+{"german":"** Das ist mein Lieblingsessen.\n    **","french":"** C'est mon plat pr\u00e9f\u00e9r\u00e9."}
+{"german":"** Er hat einen roten Mantel.\n    **","french":"** Il a un manteau rouge."}
+{"german":"** Das Feuer ist sehr warm.\n    **","french":"** Le feu est tr\u00e8s chaud."}
+{"german":"** Wir treffen uns in der Park.\n    **","french":"** Nous nous retrouvons dans le parc."}
+{"german":"** Sie ist eine gute Lehrerin.\n    **","french":"** Elle est une bonne professeure."}
+{"german":"** Er ist ein guter L\u00e4ufer.\n    **","french":"** Il est un bon coureur."}
+{"german":"** Wir gehen morgen ins Kino.\n    **","french":"** Nous allons au cin\u00e9ma demain."}
+{"german":"** Das ist mein Lieblingsfilm.\n    **","french":"** C'est mon film pr\u00e9f\u00e9r\u00e9."}
+{"german":"** Er hat einen sch\u00f6nen Garten.\n    **","french":"** Il a un beau jardin."}
+{"german":"** Wir spielen Fu\u00dfball morgen.\n    **","french":"** Nous jouons au football demain."}
+{"german":"** Er hat einen blauen Mantel.\n    **","french":"** Il a un manteau bleu."}
+{"german":"** Das Wasser ist sehr kalt.\n    **","french":"** L'eau est tr\u00e8s froide."}
+{"german":"** Wir treffen uns am Park.\n    **","french":"** Nous nous retrouvons au parc."}
+{"german":"** Er ist ein guter Schwimmer.\n    **","french":"** Il est un bon nageur."}
+{"german":"** Wir gehen heute ins Kino.\n    **","french":"** Nous allons au cin\u00e9ma aujourd'hui."}
+{"german":"** Er hat einen gro\u00dfen Garten.\n    **","french":"** Il a un grand jardin."}
+{"german":"** Das Wasser ist sehr warm.\n    **","french":"** L'eau est tr\u00e8s chaude."}
+{"german":"** Wir treffen uns am See.\n    **","french":"** Nous nous retrouvons au lac."}
+{"german":"** Er ist ein guter Skifahrer.\n    **","french":"** Il est un bon skieur."}
+{"german":"** Er hat einen kleinen Garten.\n    **","french":"** Il a un petit jardin."}
+{"german":"** Wir treffen uns am Strand.\n    **","french":"** Nous nous retrouvons sur la plage."}
+{"german":"Sie hat ein Auto.","french":"Elle a une voiture."}
+{"german":"Wir sind gestern ins Kino gegangen.","french":"Nous sommes all\u00e9s au cin\u00e9ma hier."}
+{"german":"Die Stadt ist sehr gro\u00df.","french":"La ville est tr\u00e8s grande."}
+{"german":"Wie ist dein Name?","french":"Comment tu t'appelles ?"}
+{"german":"Sie ist eine gute Lehrerin.","french":"Elle est une bonne enseignante."}
+{"german":"Er ist sehr m\u00fcde.","french":"Il est tr\u00e8s fatigu\u00e9."}
+{"german":"Die Katze schl\u00e4ft.","french":"Le chat dort."}
+{"german":"Wir feiern Geburtstage mit einem Kuchen.","french":"Nous c\u00e9l\u00e9brons les anniversaires avec un g\u00e2teau."}
+{"german":"Ich habe ein neues Hemd.","french":"J'ai un nouveau pull."}
+{"german":"Er arbeitet als Informatiker.","french":"Il travaille en tant que d\u00e9veloppeur informatique."}
+{"german":"Wir gehen spazieren.","french":"Nous promenons-nous."}
+{"german":"Die Uhr ist zehn.","french":"Il est dix heures."}
+{"german":"Er ist der Chef des Unternehmens.","french":"Il est le patron de l'entreprise."}
+{"german":"Sie ist meine beste Freundin.","french":"Elle est ma meilleure amie."}
+{"german":"Das Essen schmeckt gut.","french":"Le repas est d\u00e9licieux."}
+{"german":"Die Konferenz findet in Paris statt.","french":"La conf\u00e9rence se tient \u00e0 Paris."}
+{"german":"Er hat ein Auto.","french":"Il a une voiture."}
+{"german":"Die Tramway f\u00e4hrt alle zehn Minuten.","french":"Le tramway passe toutes les dix minutes."}
+{"german":"Ich habe zwei Br\u00fcder.","french":"J'ai deux fr\u00e8res."}
+{"german":"Sie ist an der Universit\u00e4t.","french":"Elle est \u00e0 l'universit\u00e9."}
+{"german":"Das Restaurant ist lecker.","french":"Le restaurant est d\u00e9licieux."}
+{"german":"Wir feiern Weihnachten mit einem Baum.","french":"Nous c\u00e9l\u00e9brons No\u00ebl avec un sapin."}
+{"german":"Sie hat ein sch\u00f6nes Haar.","french":"Elle a de belles cheveux."}
+{"german":"Ich esse frisch.","french":"Je mange frais."}
+{"german":"Er ist ein engagierter Student.","french":"Il est un \u00e9tudiant engag\u00e9."}
+{"german":"Wir gehen schwimmen.","french":"Nous allons nager."}
+{"german":"Ich habe ein neues Buch.","french":"J'ai un nouveau livre."}
+{"german":"Er arbeitet als Arzt.","french":"Il travaille en tant que m\u00e9decin."}
+{"german":"Das Colosseum ist in Rom.","french":"Le Colis\u00e9e est \u00e0 Rome."}
+{"german":"Die Eiffelturm ist in Paris.","french":"La Tour Eiffel est \u00e0 Paris."}
+{"german":"Ich bin im Bahnhof.","french":"Je suis \u00e0 la gare."}
+{"german":"Der Flughafen ist voller Menschen.","french":"L'a\u00e9roport est plein de gens."}
+{"german":"Ich esse im Restaurant.","french":"Je mange au restaurant."}
+{"german":"Sie ist in Deutschland.","french":"Elle est en Allemagne."}
+{"german":"Er lernt Franz\u00f6sisch.","french":"Il apprend le fran\u00e7ais."}
+{"german":"Das Museum ist ge\u00f6ffnet.","french":"Le mus\u00e9e est ouvert."}
+{"german":"Die Stra\u00dfe ist leer.","french":"La rue est d\u00e9serte."}
+{"german":"Er ist gl\u00fccklich.","french":"Il est heureux."}
+{"german":"Sie isst ein Apfel.","french":"Elle mange une pomme."}
+{"german":"Ich habe ein neues Auto.","french":"J'ai une nouvelle voiture."}
+{"german":"Er arbeitet morgens.","french":"Il travaille le matin."}
+{"german":"Wir treffen uns um sieben.","french":"Nous nous retrouvons \u00e0 sept heures."}
+{"german":"Die Bibliothek ist hier.","french":"La biblioth\u00e8que est ici."}
+{"german":"Er spielt Fu\u00dfball.","french":"Il joue au football."}
+{"german":"Sie singt Lieder.","french":"Elle chante des chansons."}
+{"german":"Ich liebe es, schwimmen zu gehen.","french":"J'aime aller nager."}
+{"german":"Die Zeitung ist auf dem Tisch.","french":"Le journal est sur la table."}
+{"german":"Er ist ein guter Lehrer.","french":"Il est un bon enseignant."}
+{"german":"Die Konferenz ist faszinierend.","french":"La conf\u00e9rence est fascinante."}
+{"german":"Die Schule ist voller Kinder.","french":"L'\u00e9cole est pleine d'enfants."}
+{"german":"Das Museum ist sehr gro\u00df.","french":"Le mus\u00e9e est tr\u00e8s grand."}
+{"german":"Die Katze ist schwarz.","french":"Le chat est noir."}
+{"german":"Wir fahren Urlaub in Italien.","french":"Nous allons en vacances en Italie."}
+{"german":"Die Museen sind geschlossen.","french":"Les mus\u00e9es sont ferm\u00e9s."}
+{"german":"Er spielt den Klavier.","french":"Il joue du piano."}
+{"german":"Sie hat sch\u00f6ne Augen.","french":"Elle a des beaux yeux."}
+{"german":"Ich liebe die Geschichte der Antike.","french":"J'aime l'histoire de l'Antiquit\u00e9."}
+{"german":"Die Berliner Mauer fiel im Jahr 1989.","french":"Le mur de Berlin est tomb\u00e9 en 1989."}
+{"german":"Sie feiert ihr Geburtstag morgen.","french":"Elle c\u00e9l\u00e8bre son anniversaire demain."}
+{"german":"Er arbeitet in einer Bank.","french":"Il travaille dans une banque."}
+{"german":"Die deutsche K\u00fcche bietet viele Gerichte.","french":"La cuisine allemande offre de nombreux plats."}
+{"german":"Ich lese ein Buch \u00fcber Geschichte.","french":"Je lis un livre d'histoire."}
+{"german":"Sie hat einen wundersch\u00f6nen Sonnenuntergang angesehen.","french":"Elle a admir\u00e9 un magnifique coucher de soleil."}
+{"german":"Er spielt Fu\u00dfball f\u00fcr den Bayern Munich.","french":"Il joue au football pour le Bayern Munich."}
+{"german":"Das ist eine interessante Sache.","french":"C'est une chose int\u00e9ressante."}
+{"german":"Ich esse gerne Pasta.","french":"J'aime manger de la pasta."}
+{"german":"Die franz\u00f6sische K\u00fcche ist ber\u00fchmt.","french":"La cuisine fran\u00e7aise est c\u00e9l\u00e8bre."}
+{"german":"Ich liebe die Musik von Mozart.","french":"J'aime la musique de Mozart."}
+{"german":"Sie ist Professorin f\u00fcr Geschichte.","french":"Elle est professeure d'histoire."}
+{"german":"Ich habe einen Termin um 10 Uhr.","french":"J'ai un rendez-vous \u00e0 10 heures."}
+{"german":"Sie liebt die Natur.","french":"Elle aime la nature."}
+{"german":"Wir gehen ins Kino.","french":"Nous allons au cin\u00e9ma."}
+{"german":"Sie hat einen wundersch\u00f6nen Anzug.","french":"Elle a un beau costume."}
+{"german":"Er ist ein talentierter Fu\u00dfballspieler.","french":"Il est un talentueux footballeur."}
+{"german":"Das ist ein sch\u00f6ner Song.","french":"C'est une belle chanson."}
+{"german":"Er hat einen wundersch\u00f6nen Tag.","french":"Il a pass\u00e9 une belle journ\u00e9e."}
+{"german":"Sie liebt Kaffee.","french":"Elle aime le caf\u00e9."}
+{"german":"Er l\u00e4chelt jeden Tag.","french":"Il rit tous les jours."}
+{"german":"Er spielt Klavier f\u00fcr die Konzert.","french":"Il joue du piano en concert."}
+{"german":"Sie hat eine wundersch\u00f6ne Wohnung.","french":"Elle a un appartement magnifique."}
+{"german":"Er isst gerne Pasta.","french":"Il aime manger de la pasta."}
+{"german":"Das ist ein sch\u00f6nes Auto.","french":"C'est une belle voiture."}
+{"german":"Sie liebt es, Reisen zu machen.","french":"Elle aime voyager."}
+{"german":"Sie hat einen wundersch\u00f6nen Garten.","french":"Elle a un beau jardin."}
+{"german":"Er spielt Klarinette.","french":"Il joue de la clarinette."}
+{"german":"Die deutsche K\u00fcche ist bekannt.","french":"La cuisine allemande est r\u00e9put\u00e9e."}
+{"german":"Er liebt die Musik von Beethoven.","french":"Il aime la musique de Beethoven."}
+{"german":"Sie ist Professorin f\u00fcr Kunstgeschichte.","french":"Elle est professeure d'histoire de l'art."}
+{"german":"Er ist ein talentierter Koch.","french":"Il est un talentueux cuisinier."}
+{"german":"Der Reimsperber steht auf dem Rheinturm.","french":"Le Rapier de Reims est sur le Tour de l'Esplanade."}
+{"german":"Das Colosseum ist in Rom.","french":"Le Colis\u00e9e se trouve \u00e0 Rome."}
+{"german":"Die Pyramiden sind in \u00c4gypten.","french":"Les pyramides sont en \u00c9gypte."}
+{"german":"Die Hagia Sophia ist in Istanbul.","french":"La Sainte-Sophie est \u00e0 Istanbul."}
+{"german":"Das Parthenon steht in Athen.","french":"Le Parth\u00e9non se trouve \u00e0 Ath\u00e8nes."}
+{"german":"Die Berliner Dom ist ein bekanntes Landmark.","french":"Le cath\u00e9drale de Berlin est un monument c\u00e9l\u00e8bre."}
+{"german":"Das Louvre ist ein ber\u00fchmter Museum.","french":"Le Louvre est un c\u00e9l\u00e8bre mus\u00e9e."}
+{"german":"Das Stade de France ist gro\u00df.","french":"Le Stade de France est vaste."}
+{"german":"Die Allianz Arena ist die Heimst\u00e4tte der Bayern M\u00fcnchen.","french":"L'Allianz Arena est le stade du Bayern Munich."}
+{"german":"Die Olympiastadion in Berlin ist ein historisches Stadion.","french":"L'\u00c9tihad Olympique de Berlin est un stade historique."}
+{"german":"Das Schloss Sch\u00f6nbrunn ist bekannt f\u00fcr seine Pracht.","french":"Le ch\u00e2teau de Sch\u00f6nbrunn est c\u00e9l\u00e8bre pour sa magnificence."}
+{"german":"Die Brandenburgische Tor ist ein historisches Bauwerk.","french":"La Porte de Brandebourg est un monument historique."}
+{"german":"Der Dom in K\u00f6ln ist bekannt f\u00fcr seine Doppelst\u00e4mme.","french":"La cath\u00e9drale de Cologne est c\u00e9l\u00e8bre pour ses deux fl\u00e8ches."}
+{"german":"Das R\u00f6mische Forum war das Zentrum der r\u00f6mischen Stadt.","french":"Le Forum romain \u00e9tait le centre de la ville romaine."}
+{"german":"Das Acropolis in Athen ist ein historischer Ort.","french":"L'Acropole d'Ath\u00e8nes est un lieu historique."}
+{"german":"Die Chagall-Glasskuppel in Metz ist ein einzigartiges Kunstwerk.","french":"La coupole en verre de Chagall \u00e0 Metz est un unique \u0153uvre d'art."}
+{"german":"Die Wassert\u00fcrme von Strasbourg sind ein bekanntes Landmark.","french":"Les clochers de Strasbourg sont un monument c\u00e9l\u00e8bre."}
+{"german":"Das Zeughaus in Berlin ist ein historisches Archiv.","french":"Le Zeughaus de Berlin est un archive historique."}
+{"german":"Die Reichstag in Berlin ist das parlamentarische Haus der Bundesrepublik Deutschland.","french":"Le Reichstag de Berlin est la maison parlementaire de la R\u00e9publique f\u00e9d\u00e9rale d'Allemagne."}
+{"german":"Die Oper Garnier in Paris ist ein bekanntes Theater.","french":"L'Op\u00e9ra Garnier de Paris est un c\u00e9l\u00e8bre th\u00e9\u00e2tre."}
+{"german":"Er spielt im Bundesliga.","french":"Il joue en Bundesliga."}
+{"german":"Das Eiffelturm ist meine Lieblingsattraktion.","french":"La Tour Eiffel est mon attraction pr\u00e9f\u00e9r\u00e9e."}
+{"german":"Die deutsche K\u00fcche ist sehr vielf\u00e4ltig.","french":"La cuisine allemande est tr\u00e8s vari\u00e9e."}
+{"german":"Der Berliner Dom ist ein historisches Bauwerk.","french":"Le Berliner Dom est un monument historique."}
+{"german":"Ich bin ein gro\u00dfer Fan von Mozart.","french":"Je suis un grand fan de Mozart."}
+{"german":"Wir sind am Wochenende in Paris.","french":"Nous sommes \u00e0 Paris le week-end."}
+{"german":"Das ist ein interessantes Buch.","french":"C'est un livre int\u00e9ressant."}
+{"german":"Er arbeitet als Ingenieur.","french":"Il travaille en tant qu'ing\u00e9nieur."}
+{"german":"Sie ist eine Schauspielerin.","french":"Elle est une actrice."}
+{"german":"Die Studie war sehr erfolgreich.","french":"La recherche a \u00e9t\u00e9 tr\u00e8s r\u00e9ussie."}
+{"german":"Das Wetter ist heute sonnig.","french":"Il fait soleil aujourd'hui."}
+{"german":"Die deutsche Sprache ist sehr interessant.","french":"La langue allemande est tr\u00e8s int\u00e9ressante."}
+{"german":"Er hat heute eine Pr\u00e4sentation gehalten.","french":"Il a fait une pr\u00e9sentation aujourd'hui."}
+{"german":"Das ist eine sch\u00f6ne Stadt.","french":"C'est une belle ville."}
+{"german":"Er hat eine Schwester.","french":"Il a une s\u0153ur."}
+{"german":"Die Mutter ist in der K\u00fcche.","french":"La m\u00e8re est en cuisine."}
+{"german":"Die Kinder spielen im Park.","french":"Les enfants jouent dans le parc."}
+{"german":"Ich esse gerne Gem\u00fcse.","french":"J'aime manger des l\u00e9gumes."}
+{"german":"Der Tag ist kalt.","french":"Il fait froid aujourd'hui."}
+{"german":"Wir sind heute m\u00fcde.","french":"Nous sommes fatigu\u00e9s aujourd'hui."}
+{"german":"Er liest ein Buch.","french":"Il lit un livre."}
+{"german":"Sie hat einen sch\u00f6nen Garten.","french":"Elle a un joli jardin."}
+{"german":"Ich fahre oft mit dem Auto.","french":"Je conduis souvent en voiture."}
+{"german":"Ich mag Musik.","french":"J'aime la musique."}
+{"german":"Die Konzertgeb\u00e4ude ist gro\u00df.","french":"Le concert\u5385 est grand."}
+{"german":"Er ist ein gro\u00dfartiger Fotograf.","french":"Il est un excellent photographe."}
+{"german":"Sie arbeitet als Lehrerin.","french":"Elle travaille en tant que professeure."}
+{"german":"Der Park ist sehr sch\u00f6n.","french":"Le parc est tr\u00e8s beau."}
+{"german":"Wir gehen oft ins Kino.","french":"Nous allons souvent au cin\u00e9ma."}
+{"german":"Er hat eine Katze.","french":"Il a un chat."}
+{"german":"Die Schwester ist in der K\u00fcche.","french":"La s\u0153ur est en cuisine."}
+{"german":"Die Kinder spielen Fu\u00dfball.","french":"Les enfants jouent au football."}
+{"german":"Ich esse gerne Salat.","french":"J'aime manger du salade."}
+{"german":"Er spielt Poker.","french":"Il joue au poker."}
+{"german":"Der Tag ist warm.","french":"Il fait chaud aujourd'hui."}
+{"german":"Wir sind heute froh.","french":"Nous sommes heureux aujourd'hui."}
+{"german":"Er liest eine Zeitung.","french":"Il lit un journal."}
+{"german":"Sie hat eine kleine Wohnung.","french":"Elle a un petit appartement."}
+{"german":"Ich fahre oft mit dem Bus.","french":"Je prends souvent le bus."}
+{"german":"Das Essen war sehr sauer.","french":"Le repas \u00e9tait tr\u00e8s acide."}
+{"german":"Er ist ein guter Rezepturwriter.","french":"Il est un bon \u00e9crivain de recettes."}
+{"german":"Sie arbeitet als Chefkoch.","french":"Elle travaille en tant que chef cuisinier."}
+{"german":"Der Park ist sehr ruhig.","french":"Le parc est tr\u00e8s calme."}
+{"german":"Wir gehen oft ins Museum.","french":"Nous allons souvent au mus\u00e9e."}
+{"german":"Er hat einen Hund.","french":"Il a un chien."}
+{"german":"Die Schwester ist im Garten.","french":"La s\u0153ur est dans le jardin."}
+{"german":"Ich esse gerne Suppe.","french":"J'aime manger de la soupe."}
+{"german":"Er spielt Schach.","french":"Il joue aux \u00e9checs."}
+{"german":"Wir sind heute gl\u00fccklich.","french":"Nous sommes heureux aujourd'hui."}
+{"german":"Er liest ein Magazin.","french":"Il lit un magazine."}
+{"german":"Sie hat eine gro\u00dfe Wohnung.","french":"Elle a un grand appartement."}
+{"german":"Ich fahre oft mit der Bahn.","french":"Je prends souvent le train."}
+{"german":"Das Essen war sehr s\u00fc\u00df.","french":"Le repas \u00e9tait tr\u00e8s sucr\u00e9."}
+{"german":"Er ist ein guter Kochbuchautor.","french":"Il est un bon auteur de livres de cuisine."}
+{"german":"Sie arbeitet als Chefbuchhalterin.","french":"Elle travaille en tant que directrice financi\u00e8re."}
+{"german":"Wir gehen oft ins Konzert.","french":"Nous allons souvent au concert."}
+{"german":"Der Tag ist angenehm.","french":"Il fait agr\u00e9able aujourd'hui."}
+{"german":"Das Essen war sehr lecker.","french":"Le repas \u00e9tait tr\u00e8s d\u00e9licieux."}
+{"german":"Die Konzertgeb\u00e4ude ist gro\u00df.","french":"Le concert hall est grand."}
+{"german":"Ich liebe es, den Tag zu beginnen.","french":"J'aime commencer la journ\u00e9e."}
+{"german":"Sie spielen gut Fu\u00dfball.","french":"Vous jouez bien au football."}
+{"german":"Was m\u00f6chten Sie heute machen?","french":"Que voulez-vous faire aujourd'hui?"}
+{"german":"Warum sind Sie traurig?","french":"Pourquoi \u00eates-vous triste?"}
+{"german":"Ich habe einen Termin morgen.","french":"J'ai un rendez-vous demain."}
+{"german":"Die Berliner Mauer wurde in 1989 abgerissen.","french":"Le mur de Berlin a \u00e9t\u00e9 abattu en 1989."}
+{"german":"Wir treffen uns am Wochenende.","french":"Nous nous retrouvons le week-end."}
+{"german":"Die deutsche K\u00fcche ist k\u00f6stlich.","french":"La cuisine allemande est d\u00e9licieuse."}
+{"german":"Sie hat eine Katze.","french":"Elle a un chat."}
+{"german":"Was kostet das?","french":"Combien \u00e7a co\u00fbte?"}
+{"german":"Der Hamburger Hafen ist ein wichtiger Handelsplatz.","french":"Le port de Hambourg est un important lieu de commerce."}
+{"german":"Ich habe keine Ahnung, wer er ist.","french":"Je ne sais pas qui il est."}
+{"german":"Sie kommen nicht an dieses Verzeichnis.","french":"Vous ne pouvez pas acc\u00e9der \u00e0 ce r\u00e9pertoire."}
+{"german":"Ich suche eine Wohnung.","french":"Je cherche un appartement."}
+{"german":"Das ist mein Lieblingsrestaurant.","french":"C'est mon restaurant pr\u00e9f\u00e9r\u00e9."}
+{"german":"Er arbeitet in einer Bibliothek.","french":"Il travaille dans une biblioth\u00e8que."}
+{"german":"Sie ist Studentin.","french":"Elle est \u00e9tudiante."}
+{"german":"Ich fahre mit U-Bahn.","french":"Je prends le m\u00e9tro."}
+{"german":"Der Fu\u00dfballspiel findet in der Nacht statt.","french":"Le match de football a lieu la nuit."}
+{"german":"Ich gehe morgen ins Kino.","french":"Je vais au cin\u00e9ma demain."}
+{"german":"Die Stadt ist voller Leben.","french":"La ville est pleine de vie."}
+{"german":"Ich habe keine Zeit f\u00fcr das.","french":"Je n'ai pas le temps pour \u00e7a."}
+{"german":"Die Wiesn ist ein gro\u00dfes Fest.","french":"La Wiesn est un grand festival."}
+{"german":"Ich liebe es, im Park zu laufen.","french":"J'aime promener dans le parc."}
+{"german":"Sie ist sehr intelligent.","french":"Elle est tr\u00e8s intelligente."}
+{"german":"Er spielt die Gitarre.","french":"Il joue de la guitare."}
+{"german":"Sie kennt viele Sprachen.","french":"Elle parle de nombreuses langues."}
+{"german":"Ich habe Angst vor Insekten.","french":"J'ai peur des insectes."}
+{"german":"Der Strand ist perfekt f\u00fcr Urlaube.","french":"La plage est parfaite pour les vacances."}
+{"german":"Ich bin ein guter Koch.","french":"Je suis un bon cuisinier."}
+{"german":"Sie hat einen tollen Beruf.","french":"Elle a un travail g\u00e9nial."}
+{"german":"Das ist ein sch\u00f6ner Sonnenaufgang.","french":"C'est un beau lever de soleil."}
+{"german":"Ich liebe es, Koffeefahrt zu machen.","french":"J'aime faire du caf\u00e9."}
+{"german":"Er hat ein neues Haus gekauft.","french":"Il a achet\u00e9 une nouvelle maison."}
+{"german":"Ich mag es, Kochen zu lernen.","french":"J'aime apprendre \u00e0 cuisiner."}
+{"german":"Er hat einen guten Beruf.","french":"Il a un bon travail."}
+{"german":"Sie mag Reisen.","french":"Elle aime voyager."}
+{"german":"Ich liebe es, im Regen zu spazieren.","french":"J'aime faire des promenades dans la pluie."}
+{"german":"Er ist ein talentierter Maler.","french":"Il est un peintre talentueux."}
+{"german":"Sie hat eine Wohnung in Berlin.","french":"Elle a un appartement \u00e0 Berlin."}
+{"german":"Ich mag es, im Winter Skifahren zu gehen.","french":"J'aime skier en hiver."}
+{"german":"Das ist ein interessantes Museum.","french":"C'est un mus\u00e9e int\u00e9ressant."}
+{"german":"Er hat eine tolle Familie.","french":"Il a une famille g\u00e9niale."}
+{"german":"Sie mag Lesen.","french":"Elle aime lire."}
+{"german":"Das ist ein sch\u00f6ner Sommertag.","french":"C'est une belle journ\u00e9e d'\u00e9t\u00e9."}
+{"german":"Ich liebe es, im Garten zu arbeiten.","french":"J'aime travailler dans le jardin."}
+{"german":"Er hat einen guten Job.","french":"Il a un bon emploi."}
+{"german":"Das ist eine sch\u00f6ne Aussicht.","french":"C'est une belle vue."}
+{"german":"Ich mag es, Film zu schauen.","french":"J'aime regarder des films."}
+{"german":"Er hat eine tolle Wohnung.","french":"Il a un appartement g\u00e9nial."}
+{"german":"Sie mag Sport.","french":"Elle aime le sport."}
+{"german":"Das ist ein sch\u00f6ner Grabstein.","french":"C'est une belle pierre tombale."}
+{"german":"Er hat eine tolle Freundin.","french":"Il a une amie g\u00e9niale."}
+{"german":"Sie mag Urlaube.","french":"Elle aime les vacances."}
+{"german":"Ich liebe es, im Regen zu tanzen.","french":"J'aime danser dans la pluie."}
+{"german":"Er hat einen talentierten Chef.","french":"Il a un chef talentueux."}
+{"german":"Sie hat eine Wohnung in Paris.","french":"Elle a un appartement \u00e0 Paris."}
+{"german":"Ich mag es, im Winter Eis zu essen.","french":"J'aime manger de la glace en hiver."}
+{"german":"Das ist ein interessantes Konzert.","french":"C'est un concert int\u00e9ressant."}
+{"german":"Ich liebe es, im Park zu laufen.","french":"J'aime marcher dans le parc."}
